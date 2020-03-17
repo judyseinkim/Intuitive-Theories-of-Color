@@ -13,6 +13,7 @@ This repository contains data, figures, and analysis scripts for the paper "Shar
 │   ├── novel object inference
 │   ├── explanation
 └── figures
+```
 
 - `code/color_theory.Rmd` 
 	+ all the analyses codes are in this file  
