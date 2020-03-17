@@ -17,5 +17,4 @@ This repository contains data, figures, and analysis scripts for the paper "Shar
 
 - `code/color_theory.Rmd` 
 	+ all the analyses codes are in this file  
-  + the corresponding document can be found [here]
-  (https://rpubs.com/judyseinkim/color_theory)
+  + the corresponding document can be found at https://rpubs.com/judyseinkim/color_theory
