@@ -1,0 +1,3667 @@
+﻿Experiment,Group,Subject,TrialType,Kind,Object,Rating
+2,CB,CB1,Color,Natural,strawberry,7
+2,CB,CB1,Color,Natural,banana,3
+2,CB,CB1,Color,Natural,broccoli,7
+2,CB,CB1,Color,Natural,lemon,3
+2,CB,CB1,Color,Natural,coal,7
+2,CB,CB1,Color,Natural,snow,7
+2,CB,CB1,Color,Natural,flamingo,5
+2,CB,CB1,Color,Natural,elephant,7
+2,CB,CB1,Color,Natural,ruby,7
+2,CB,CB1,Color,Natural,pearl,5
+2,CB,CB1,Color,ArtifactFC,go traffic,5
+2,CB,CB1,Color,ArtifactFC,fire truck,3
+2,CB,CB1,Color,ArtifactFC,basketball,3
+2,CB,CB1,Color,ArtifactFC,taxi cab,5
+2,CB,CB1,Color,ArtifactFC,police uniform,7
+2,CB,CB1,Color,ArtifactFC,dollar bill,3
+2,CB,CB1,Color,ArtifactFC,tennis ball,3
+2,CB,CB1,Color,ArtifactFC,chalkboard,5
+2,CB,CB1,Color,ArtifactNFC,toilet,3
+2,CB,CB1,Color,ArtifactFC,street sign,5
+2,CB,CB1,Color,ArtifactNFC,pants,3
+2,CB,CB1,Color,ArtifactNFC,mug,3
+2,CB,CB1,Color,ArtifactNFC,book,3
+2,CB,CB1,Color,ArtifactNFC,purse,3
+2,CB,CB1,Color,ArtifactFC,crayon,3
+2,CB,CB1,Color,ArtifactNFC,lunch box,3
+2,CB,CB1,Color,ArtifactNFC,suitcase,5
+2,CB,CB1,Color,ArtifactNFC,couch,3
+2,CB,CB1,Color,ArtifactNFC,shoes,3
+2,CB,CB1,Color,ArtifactNFC,vacuum,3
+2,CB,CB1,Function,Natural,wood,3
+2,CB,CB1,Function,Natural,rock,3
+2,CB,CB1,Function,Natural,mud,5
+2,CB,CB1,Function,Natural,gold,5
+2,CB,CB1,Function,Natural,grass,5
+2,CB,CB1,Function,Natural,leaf,5
+2,CB,CB1,Function,Natural,tree bark,5
+2,CB,CB1,Function,Natural,water,3
+2,CB,CB1,Function,Natural,dirt,5
+2,CB,CB1,Function,Natural,flower,7
+2,CB,CB1,Function,Artifact,hole puncher,7
+2,CB,CB1,Function,Artifact,stapler,5
+2,CB,CB1,Function,Artifact,hammer,7
+2,CB,CB1,Function,Artifact,drill,7
+2,CB,CB1,Function,Artifact,iron,3
+2,CB,CB1,Function,Artifact,toaster,5
+2,CB,CB1,Function,Artifact,coffee maker,5
+2,CB,CB1,Function,Artifact,bed,5
+2,CB,CB1,Function,Artifact,pencil,5
+2,CB,CB1,Function,Artifact,bathtub,3
+2,CB,CB1,Filler,Natural,dog,3
+2,CB,CB1,Filler,Natural,pumpkin,5
+2,CB,CB1,Filler,Natural,cucumber,5
+2,CB,CB1,Filler,Natural,tree branch,5
+2,CB,CB1,Filler,Natural,pebble,7
+2,CB,CB1,Filler,Natural,seashell,3
+2,CB,CB1,Filler,Natural,orange,7
+2,CB,CB1,Filler,Natural,sand,7
+2,CB,CB1,Filler,Natural,watermelon,3
+2,CB,CB1,Filler,Natural,mouse,7
+2,CB,CB1,Filler,Natural,acorn,7
+2,CB,CB1,Filler,Natural,snake,7
+2,CB,CB1,Filler,Natural,pineapple,5
+2,CB,CB1,Filler,Artifact,chair,3
+2,CB,CB1,Filler,Artifact,coffee table,3
+2,CB,CB1,Filler,Artifact,knife,7
+2,CB,CB1,Filler,Artifact,rug,3
+2,CB,CB1,Filler,Artifact,coat,3
+2,CB,CB1,Filler,Artifact,bowl,3
+2,CB,CB1,Filler,Artifact,door,7
+2,CB,CB2,Color,Natural,strawberry,6
+2,CB,CB2,Color,Natural,banana,5
+2,CB,CB2,Color,Natural,broccoli,6
+2,CB,CB2,Color,Natural,lemon,6
+2,CB,CB2,Color,Natural,coal,6
+2,CB,CB2,Color,Natural,snow,6
+2,CB,CB2,Color,Natural,flamingo,5
+2,CB,CB2,Color,Natural,elephant,5
+2,CB,CB2,Color,Natural,ruby,6
+2,CB,CB2,Color,Natural,pearl,6
+2,CB,CB2,Color,ArtifactFC,go traffic,7
+2,CB,CB2,Color,ArtifactFC,fire truck,6
+2,CB,CB2,Color,ArtifactFC,basketball,6
+2,CB,CB2,Color,ArtifactFC,taxi cab,6
+2,CB,CB2,Color,ArtifactFC,police uniform,6
+2,CB,CB2,Color,ArtifactFC,dollar bill,7
+2,CB,CB2,Color,ArtifactFC,tennis ball,5
+2,CB,CB2,Color,ArtifactFC,chalkboard,6
+2,CB,CB2,Color,ArtifactNFC,toilet,5
+2,CB,CB2,Color,ArtifactFC,street sign,5
+2,CB,CB2,Color,ArtifactNFC,pants,3
+2,CB,CB2,Color,ArtifactNFC,mug,4
+2,CB,CB2,Color,ArtifactNFC,book,4
+2,CB,CB2,Color,ArtifactNFC,purse,4
+2,CB,CB2,Color,ArtifactFC,crayon,2
+2,CB,CB2,Color,ArtifactNFC,lunch box,4
+2,CB,CB2,Color,ArtifactNFC,suitcase,5
+2,CB,CB2,Color,ArtifactNFC,couch,3
+2,CB,CB2,Color,ArtifactNFC,shoes,4
+2,CB,CB2,Color,ArtifactNFC,vacuum,5
+2,CB,CB2,Function,Natural,wood,5
+2,CB,CB2,Function,Natural,rock,5
+2,CB,CB2,Function,Natural,mud,4
+2,CB,CB2,Function,Natural,gold,3
+2,CB,CB2,Function,Natural,grass,4
+2,CB,CB2,Function,Natural,leaf,5
+2,CB,CB2,Function,Natural,tree bark,5
+2,CB,CB2,Function,Natural,water,6
+2,CB,CB2,Function,Natural,dirt,3
+2,CB,CB2,Function,Natural,flower,5
+2,CB,CB2,Function,Artifact,hole puncher,6
+2,CB,CB2,Function,Artifact,stapler,7
+2,CB,CB2,Function,Artifact,hammer,4
+2,CB,CB2,Function,Artifact,drill,6
+2,CB,CB2,Function,Artifact,iron,6
+2,CB,CB2,Function,Artifact,toaster,7
+2,CB,CB2,Function,Artifact,coffee maker,7
+2,CB,CB2,Function,Artifact,bed,7
+2,CB,CB2,Function,Artifact,pencil,5
+2,CB,CB2,Function,Artifact,bathtub,6
+2,CB,CB2,Filler,Natural,dog,4
+2,CB,CB2,Filler,Natural,pumpkin,5
+2,CB,CB2,Filler,Natural,cucumber,5
+2,CB,CB2,Filler,Natural,tree branch,4
+2,CB,CB2,Filler,Natural,pebble,5
+2,CB,CB2,Filler,Natural,seashell,6
+2,CB,CB2,Filler,Natural,orange,6
+2,CB,CB2,Filler,Natural,sand,6
+2,CB,CB2,Filler,Natural,watermelon,3
+2,CB,CB2,Filler,Natural,mouse,4
+2,CB,CB2,Filler,Natural,acorn,5
+2,CB,CB2,Filler,Natural,snake,5
+2,CB,CB2,Filler,Natural,pineapple,7
+2,CB,CB2,Filler,Artifact,chair,4
+2,CB,CB2,Filler,Artifact,coffee table,5
+2,CB,CB2,Filler,Artifact,knife,5
+2,CB,CB2,Filler,Artifact,rug,6
+2,CB,CB2,Filler,Artifact,coat,6
+2,CB,CB2,Filler,Artifact,bowl,5
+2,CB,CB2,Filler,Artifact,door,5
+2,CB,CB3,Color,Natural,strawberry,7
+2,CB,CB3,Color,Natural,banana,6
+2,CB,CB3,Color,Natural,broccoli,7
+2,CB,CB3,Color,Natural,lemon,7
+2,CB,CB3,Color,Natural,coal,6
+2,CB,CB3,Color,Natural,snow,7
+2,CB,CB3,Color,Natural,flamingo,6
+2,CB,CB3,Color,Natural,elephant,7
+2,CB,CB3,Color,Natural,ruby,7
+2,CB,CB3,Color,Natural,pearl,5
+2,CB,CB3,Color,ArtifactFC,go traffic,7
+2,CB,CB3,Color,ArtifactFC,fire truck,7
+2,CB,CB3,Color,ArtifactFC,basketball,5
+2,CB,CB3,Color,ArtifactFC,taxi cab,6
+2,CB,CB3,Color,ArtifactFC,police uniform,7
+2,CB,CB3,Color,ArtifactFC,dollar bill,7
+2,CB,CB3,Color,ArtifactFC,tennis ball,5
+2,CB,CB3,Color,ArtifactFC,chalkboard,7
+2,CB,CB3,Color,ArtifactNFC,toilet,3
+2,CB,CB3,Color,ArtifactFC,street sign,6
+2,CB,CB3,Color,ArtifactNFC,pants,3
+2,CB,CB3,Color,ArtifactNFC,mug,4
+2,CB,CB3,Color,ArtifactNFC,book,3
+2,CB,CB3,Color,ArtifactNFC,purse,3
+2,CB,CB3,Color,ArtifactFC,crayon,2
+2,CB,CB3,Color,ArtifactNFC,lunch box,2
+2,CB,CB3,Color,ArtifactNFC,suitcase,3
+2,CB,CB3,Color,ArtifactNFC,couch,2
+2,CB,CB3,Color,ArtifactNFC,shoes,4
+2,CB,CB3,Color,ArtifactNFC,vacuum,2
+2,CB,CB3,Function,Natural,wood,4
+2,CB,CB3,Function,Natural,rock,1
+2,CB,CB3,Function,Natural,mud,3
+2,CB,CB3,Function,Natural,gold,2
+2,CB,CB3,Function,Natural,grass,4
+2,CB,CB3,Function,Natural,leaf,4
+2,CB,CB3,Function,Natural,tree bark,3
+2,CB,CB3,Function,Natural,water,4
+2,CB,CB3,Function,Natural,dirt,6
+2,CB,CB3,Function,Natural,flower,3
+2,CB,CB3,Function,Artifact,hole puncher,7
+2,CB,CB3,Function,Artifact,stapler,6
+2,CB,CB3,Function,Artifact,hammer,7
+2,CB,CB3,Function,Artifact,drill,7
+2,CB,CB3,Function,Artifact,iron,7
+2,CB,CB3,Function,Artifact,toaster,4
+2,CB,CB3,Function,Artifact,coffee maker,7
+2,CB,CB3,Function,Artifact,bed,7
+2,CB,CB3,Function,Artifact,pencil,7
+2,CB,CB3,Function,Artifact,bathtub,6
+2,CB,CB3,Filler,Natural,dog,1
+2,CB,CB3,Filler,Natural,pumpkin,2
+2,CB,CB3,Filler,Natural,cucumber,5
+2,CB,CB3,Filler,Natural,tree branch,2
+2,CB,CB3,Filler,Natural,pebble,4
+2,CB,CB3,Filler,Natural,seashell,5
+2,CB,CB3,Filler,Natural,orange,5
+2,CB,CB3,Filler,Natural,sand,6
+2,CB,CB3,Filler,Natural,watermelon,4
+2,CB,CB3,Filler,Natural,mouse,7
+2,CB,CB3,Filler,Natural,acorn,5
+2,CB,CB3,Filler,Natural,snake,6
+2,CB,CB3,Filler,Natural,pineapple,5
+2,CB,CB3,Filler,Artifact,chair,5
+2,CB,CB3,Filler,Artifact,coffee table,4
+2,CB,CB3,Filler,Artifact,knife,3
+2,CB,CB3,Filler,Artifact,rug,3
+2,CB,CB3,Filler,Artifact,coat,5
+2,CB,CB3,Filler,Artifact,bowl,4
+2,CB,CB3,Filler,Artifact,door,6
+2,CB,CB4,Color,Natural,strawberry,6
+2,CB,CB4,Color,Natural,banana,4
+2,CB,CB4,Color,Natural,broccoli,6
+2,CB,CB4,Color,Natural,lemon,6
+2,CB,CB4,Color,Natural,coal,7
+2,CB,CB4,Color,Natural,snow,7
+2,CB,CB4,Color,Natural,flamingo,5
+2,CB,CB4,Color,Natural,elephant,3
+2,CB,CB4,Color,Natural,ruby,7
+2,CB,CB4,Color,Natural,pearl,6
+2,CB,CB4,Color,ArtifactFC,go traffic,7
+2,CB,CB4,Color,ArtifactFC,fire truck,7
+2,CB,CB4,Color,ArtifactFC,basketball,6
+2,CB,CB4,Color,ArtifactFC,taxi cab,6
+2,CB,CB4,Color,ArtifactFC,police uniform,7
+2,CB,CB4,Color,ArtifactFC,dollar bill,7
+2,CB,CB4,Color,ArtifactFC,tennis ball,4
+2,CB,CB4,Color,ArtifactFC,chalkboard,7
+2,CB,CB4,Color,ArtifactNFC,toilet,3
+2,CB,CB4,Color,ArtifactFC,street sign,3
+2,CB,CB4,Color,ArtifactNFC,pants,3
+2,CB,CB4,Color,ArtifactNFC,mug,2
+2,CB,CB4,Color,ArtifactNFC,book,5
+2,CB,CB4,Color,ArtifactNFC,purse,2
+2,CB,CB4,Color,ArtifactFC,crayon,2
+2,CB,CB4,Color,ArtifactNFC,lunch box,3
+2,CB,CB4,Color,ArtifactNFC,suitcase,4
+2,CB,CB4,Color,ArtifactNFC,couch,3
+2,CB,CB4,Color,ArtifactNFC,shoes,2
+2,CB,CB4,Color,ArtifactNFC,vacuum,4
+2,CB,CB4,Function,Natural,wood,2
+2,CB,CB4,Function,Natural,rock,3
+2,CB,CB4,Function,Natural,mud,4
+2,CB,CB4,Function,Natural,gold,5
+2,CB,CB4,Function,Natural,grass,4
+2,CB,CB4,Function,Natural,leaf,4
+2,CB,CB4,Function,Natural,tree bark,2
+2,CB,CB4,Function,Natural,water,4
+2,CB,CB4,Function,Natural,dirt,6
+2,CB,CB4,Function,Natural,flower,3
+2,CB,CB4,Function,Artifact,hole puncher,7
+2,CB,CB4,Function,Artifact,stapler,7
+2,CB,CB4,Function,Artifact,hammer,6
+2,CB,CB4,Function,Artifact,drill,5
+2,CB,CB4,Function,Artifact,iron,7
+2,CB,CB4,Function,Artifact,toaster,7
+2,CB,CB4,Function,Artifact,coffee maker,6
+2,CB,CB4,Function,Artifact,bed,5
+2,CB,CB4,Function,Artifact,pencil,6
+2,CB,CB4,Function,Artifact,bathtub,7
+2,CB,CB4,Filler,Natural,dog,2
+2,CB,CB4,Filler,Natural,pumpkin,2
+2,CB,CB4,Filler,Natural,cucumber,5
+2,CB,CB4,Filler,Natural,tree branch,1
+2,CB,CB4,Filler,Natural,pebble,5
+2,CB,CB4,Filler,Natural,seashell,6
+2,CB,CB4,Filler,Natural,orange,7
+2,CB,CB4,Filler,Natural,sand,7
+2,CB,CB4,Filler,Natural,watermelon,5
+2,CB,CB4,Filler,Natural,mouse,7
+2,CB,CB4,Filler,Natural,acorn,7
+2,CB,CB4,Filler,Natural,snake,7
+2,CB,CB4,Filler,Natural,pineapple,7
+2,CB,CB4,Filler,Artifact,chair,2
+2,CB,CB4,Filler,Artifact,coffee table,4
+2,CB,CB4,Filler,Artifact,knife,5
+2,CB,CB4,Filler,Artifact,rug,4
+2,CB,CB4,Filler,Artifact,coat,5
+2,CB,CB4,Filler,Artifact,bowl,5
+2,CB,CB4,Filler,Artifact,door,7
+2,CB,CB5,Color,Natural,strawberry,5
+2,CB,CB5,Color,Natural,banana,4
+2,CB,CB5,Color,Natural,broccoli,5
+2,CB,CB5,Color,Natural,lemon,6
+2,CB,CB5,Color,Natural,coal,5
+2,CB,CB5,Color,Natural,snow,6
+2,CB,CB5,Color,Natural,flamingo,3
+2,CB,CB5,Color,Natural,elephant,2
+2,CB,CB5,Color,Natural,ruby,6
+2,CB,CB5,Color,Natural,pearl,4
+2,CB,CB5,Color,ArtifactFC,go traffic,7
+2,CB,CB5,Color,ArtifactFC,fire truck,7
+2,CB,CB5,Color,ArtifactFC,basketball,3
+2,CB,CB5,Color,ArtifactFC,taxi cab,5
+2,CB,CB5,Color,ArtifactFC,police uniform,5
+2,CB,CB5,Color,ArtifactFC,dollar bill,5
+2,CB,CB5,Color,ArtifactFC,tennis ball,5
+2,CB,CB5,Color,ArtifactFC,chalkboard,6
+2,CB,CB5,Color,ArtifactNFC,toilet,3
+2,CB,CB5,Color,ArtifactFC,street sign,5
+2,CB,CB5,Color,ArtifactNFC,pants,3
+2,CB,CB5,Color,ArtifactNFC,mug,4
+2,CB,CB5,Color,ArtifactNFC,book,3
+2,CB,CB5,Color,ArtifactNFC,purse,2
+2,CB,CB5,Color,ArtifactFC,crayon,2
+2,CB,CB5,Color,ArtifactNFC,lunch box,2
+2,CB,CB5,Color,ArtifactNFC,suitcase,2
+2,CB,CB5,Color,ArtifactNFC,couch,3
+2,CB,CB5,Color,ArtifactNFC,shoes,3
+2,CB,CB5,Color,ArtifactNFC,vacuum,2
+2,CB,CB5,Function,Natural,wood,4
+2,CB,CB5,Function,Natural,rock,2
+2,CB,CB5,Function,Natural,mud,2
+2,CB,CB5,Function,Natural,gold,4
+2,CB,CB5,Function,Natural,grass,3
+2,CB,CB5,Function,Natural,leaf,1
+2,CB,CB5,Function,Natural,tree bark,5
+2,CB,CB5,Function,Natural,water,2
+2,CB,CB5,Function,Natural,dirt,3
+2,CB,CB5,Function,Natural,flower,3
+2,CB,CB5,Function,Artifact,hole puncher,7
+2,CB,CB5,Function,Artifact,stapler,6
+2,CB,CB5,Function,Artifact,hammer,2
+2,CB,CB5,Function,Artifact,drill,6
+2,CB,CB5,Function,Artifact,iron,6
+2,CB,CB5,Function,Artifact,toaster,6
+2,CB,CB5,Function,Artifact,coffee maker,6
+2,CB,CB5,Function,Artifact,bed,4
+2,CB,CB5,Function,Artifact,pencil,5
+2,CB,CB5,Function,Artifact,bathtub,6
+2,CB,CB5,Filler,Natural,dog,2
+2,CB,CB5,Filler,Natural,pumpkin,2
+2,CB,CB5,Filler,Natural,cucumber,5
+2,CB,CB5,Filler,Natural,tree branch,3
+2,CB,CB5,Filler,Natural,pebble,1
+2,CB,CB5,Filler,Natural,seashell,1
+2,CB,CB5,Filler,Natural,orange,6
+2,CB,CB5,Filler,Natural,sand,5
+2,CB,CB5,Filler,Natural,watermelon,4
+2,CB,CB5,Filler,Natural,mouse,6
+2,CB,CB5,Filler,Natural,acorn,5
+2,CB,CB5,Filler,Natural,snake,3
+2,CB,CB5,Filler,Natural,pineapple,6
+2,CB,CB5,Filler,Artifact,chair,5
+2,CB,CB5,Filler,Artifact,coffee table,5
+2,CB,CB5,Filler,Artifact,knife,3
+2,CB,CB5,Filler,Artifact,rug,1
+2,CB,CB5,Filler,Artifact,coat,5
+2,CB,CB5,Filler,Artifact,bowl,4
+2,CB,CB5,Filler,Artifact,door,7
+2,CB,CB6,Color,Natural,strawberry,7
+2,CB,CB6,Color,Natural,banana,7
+2,CB,CB6,Color,Natural,broccoli,7
+2,CB,CB6,Color,Natural,lemon,7
+2,CB,CB6,Color,Natural,coal,7
+2,CB,CB6,Color,Natural,snow,6
+2,CB,CB6,Color,Natural,flamingo,7
+2,CB,CB6,Color,Natural,elephant,5
+2,CB,CB6,Color,Natural,ruby,7
+2,CB,CB6,Color,Natural,pearl,3
+2,CB,CB6,Color,ArtifactFC,go traffic,7
+2,CB,CB6,Color,ArtifactFC,fire truck,7
+2,CB,CB6,Color,ArtifactFC,basketball,6
+2,CB,CB6,Color,ArtifactFC,taxi cab,5
+2,CB,CB6,Color,ArtifactFC,police uniform,7
+2,CB,CB6,Color,ArtifactFC,dollar bill,7
+2,CB,CB6,Color,ArtifactFC,tennis ball,5
+2,CB,CB6,Color,ArtifactFC,chalkboard,7
+2,CB,CB6,Color,ArtifactNFC,toilet,7
+2,CB,CB6,Color,ArtifactFC,street sign,7
+2,CB,CB6,Color,ArtifactNFC,pants,5
+2,CB,CB6,Color,ArtifactNFC,mug,4
+2,CB,CB6,Color,ArtifactNFC,book,1
+2,CB,CB6,Color,ArtifactNFC,purse,4
+2,CB,CB6,Color,ArtifactFC,crayon,1
+2,CB,CB6,Color,ArtifactNFC,lunch box,5
+2,CB,CB6,Color,ArtifactNFC,suitcase,4
+2,CB,CB6,Color,ArtifactNFC,couch,5
+2,CB,CB6,Color,ArtifactNFC,shoes,3
+2,CB,CB6,Color,ArtifactNFC,vacuum,6
+2,CB,CB6,Function,Natural,wood,4
+2,CB,CB6,Function,Natural,rock,4
+2,CB,CB6,Function,Natural,mud,2
+2,CB,CB6,Function,Natural,gold,1
+2,CB,CB6,Function,Natural,grass,5
+2,CB,CB6,Function,Natural,leaf,5
+2,CB,CB6,Function,Natural,tree bark,1
+2,CB,CB6,Function,Natural,water,4
+2,CB,CB6,Function,Natural,dirt,5
+2,CB,CB6,Function,Natural,flower,5
+2,CB,CB6,Function,Artifact,hole puncher,7
+2,CB,CB6,Function,Artifact,stapler,7
+2,CB,CB6,Function,Artifact,hammer,7
+2,CB,CB6,Function,Artifact,drill,7
+2,CB,CB6,Function,Artifact,iron,6
+2,CB,CB6,Function,Artifact,toaster,7
+2,CB,CB6,Function,Artifact,coffee maker,6
+2,CB,CB6,Function,Artifact,bed,4
+2,CB,CB6,Function,Artifact,pencil,6
+2,CB,CB6,Function,Artifact,bathtub,7
+2,CB,CB6,Filler,Natural,dog,1
+2,CB,CB6,Filler,Natural,pumpkin,5
+2,CB,CB6,Filler,Natural,cucumber,6
+2,CB,CB6,Filler,Natural,tree branch,1
+2,CB,CB6,Filler,Natural,pebble,1
+2,CB,CB6,Filler,Natural,seashell,5
+2,CB,CB6,Filler,Natural,orange,7
+2,CB,CB6,Filler,Natural,sand,6
+2,CB,CB6,Filler,Natural,watermelon,6
+2,CB,CB6,Filler,Natural,mouse,7
+2,CB,CB6,Filler,Natural,acorn,7
+2,CB,CB6,Filler,Natural,snake,7
+2,CB,CB6,Filler,Natural,pineapple,7
+2,CB,CB6,Filler,Artifact,chair,5
+2,CB,CB6,Filler,Artifact,coffee table,6
+2,CB,CB6,Filler,Artifact,knife,1
+2,CB,CB6,Filler,Artifact,rug,1
+2,CB,CB6,Filler,Artifact,coat,4
+2,CB,CB6,Filler,Artifact,bowl,1
+2,CB,CB6,Filler,Artifact,door,5
+2,CB,CB7,Color,Natural,strawberry,6
+2,CB,CB7,Color,Natural,banana,5
+2,CB,CB7,Color,Natural,broccoli,5
+2,CB,CB7,Color,Natural,lemon,7
+2,CB,CB7,Color,Natural,coal,6
+2,CB,CB7,Color,Natural,snow,6
+2,CB,CB7,Color,Natural,flamingo,6
+2,CB,CB7,Color,Natural,elephant,6
+2,CB,CB7,Color,Natural,ruby,7
+2,CB,CB7,Color,Natural,pearl,6
+2,CB,CB7,Color,ArtifactFC,go traffic,7
+2,CB,CB7,Color,ArtifactFC,fire truck,7
+2,CB,CB7,Color,ArtifactFC,basketball,7
+2,CB,CB7,Color,ArtifactFC,taxi cab,6
+2,CB,CB7,Color,ArtifactFC,police uniform,7
+2,CB,CB7,Color,ArtifactFC,dollar bill,7
+2,CB,CB7,Color,ArtifactFC,tennis ball,7
+2,CB,CB7,Color,ArtifactFC,chalkboard,7
+2,CB,CB7,Color,ArtifactNFC,toilet,7
+2,CB,CB7,Color,ArtifactFC,street sign,6
+2,CB,CB7,Color,ArtifactNFC,pants,3
+2,CB,CB7,Color,ArtifactNFC,mug,4
+2,CB,CB7,Color,ArtifactNFC,book,4
+2,CB,CB7,Color,ArtifactNFC,purse,3
+2,CB,CB7,Color,ArtifactFC,crayon,3
+2,CB,CB7,Color,ArtifactNFC,lunch box,4
+2,CB,CB7,Color,ArtifactNFC,suitcase,4
+2,CB,CB7,Color,ArtifactNFC,couch,4
+2,CB,CB7,Color,ArtifactNFC,shoes,3
+2,CB,CB7,Color,ArtifactNFC,vacuum,6
+2,CB,CB7,Function,Natural,wood,3
+2,CB,CB7,Function,Natural,rock,4
+2,CB,CB7,Function,Natural,mud,6
+2,CB,CB7,Function,Natural,gold,6
+2,CB,CB7,Function,Natural,grass,3
+2,CB,CB7,Function,Natural,leaf,4
+2,CB,CB7,Function,Natural,tree bark,4
+2,CB,CB7,Function,Natural,water,5
+2,CB,CB7,Function,Natural,dirt,3
+2,CB,CB7,Function,Natural,flower,4
+2,CB,CB7,Function,Artifact,hole puncher,7
+2,CB,CB7,Function,Artifact,stapler,7
+2,CB,CB7,Function,Artifact,hammer,6
+2,CB,CB7,Function,Artifact,drill,6
+2,CB,CB7,Function,Artifact,iron,7
+2,CB,CB7,Function,Artifact,toaster,7
+2,CB,CB7,Function,Artifact,coffee maker,7
+2,CB,CB7,Function,Artifact,bed,6
+2,CB,CB7,Function,Artifact,pencil,7
+2,CB,CB7,Function,Artifact,bathtub,7
+2,CB,CB7,Filler,Natural,dog,3
+2,CB,CB7,Filler,Natural,pumpkin,3
+2,CB,CB7,Filler,Natural,cucumber,3
+2,CB,CB7,Filler,Natural,tree branch,3
+2,CB,CB7,Filler,Natural,pebble,4
+2,CB,CB7,Filler,Natural,seashell,4
+2,CB,CB7,Filler,Natural,orange,5
+2,CB,CB7,Filler,Natural,sand,5
+2,CB,CB7,Filler,Natural,watermelon,3
+2,CB,CB7,Filler,Natural,mouse,7
+2,CB,CB7,Filler,Natural,acorn,5
+2,CB,CB7,Filler,Natural,snake,6
+2,CB,CB7,Filler,Natural,pineapple,6
+2,CB,CB7,Filler,Artifact,chair,4
+2,CB,CB7,Filler,Artifact,coffee table,6
+2,CB,CB7,Filler,Artifact,knife,4
+2,CB,CB7,Filler,Artifact,rug,5
+2,CB,CB7,Filler,Artifact,coat,3
+2,CB,CB7,Filler,Artifact,bowl,4
+2,CB,CB7,Filler,Artifact,door,5
+2,CB,CB8,Color,Natural,strawberry,6
+2,CB,CB8,Color,Natural,banana,6
+2,CB,CB8,Color,Natural,broccoli,7
+2,CB,CB8,Color,Natural,lemon,5
+2,CB,CB8,Color,Natural,coal,7
+2,CB,CB8,Color,Natural,snow,6
+2,CB,CB8,Color,Natural,flamingo,6
+2,CB,CB8,Color,Natural,elephant,4
+2,CB,CB8,Color,Natural,ruby,6
+2,CB,CB8,Color,Natural,pearl,3
+2,CB,CB8,Color,ArtifactFC,go traffic,7
+2,CB,CB8,Color,ArtifactFC,fire truck,6
+2,CB,CB8,Color,ArtifactFC,basketball,5
+2,CB,CB8,Color,ArtifactFC,taxi cab,5
+2,CB,CB8,Color,ArtifactFC,police uniform,6
+2,CB,CB8,Color,ArtifactFC,dollar bill,7
+2,CB,CB8,Color,ArtifactFC,tennis ball,3
+2,CB,CB8,Color,ArtifactFC,chalkboard,6
+2,CB,CB8,Color,ArtifactNFC,toilet,5
+2,CB,CB8,Color,ArtifactFC,street sign,4
+2,CB,CB8,Color,ArtifactNFC,pants,5
+2,CB,CB8,Color,ArtifactNFC,mug,4
+2,CB,CB8,Color,ArtifactNFC,book,5
+2,CB,CB8,Color,ArtifactNFC,purse,4
+2,CB,CB8,Color,ArtifactFC,crayon,4
+2,CB,CB8,Color,ArtifactNFC,lunch box,3
+2,CB,CB8,Color,ArtifactNFC,suitcase,5
+2,CB,CB8,Color,ArtifactNFC,couch,5
+2,CB,CB8,Color,ArtifactNFC,shoes,6
+2,CB,CB8,Color,ArtifactNFC,vacuum,3
+2,CB,CB8,Function,Natural,wood,3
+2,CB,CB8,Function,Natural,rock,3
+2,CB,CB8,Function,Natural,mud,3
+2,CB,CB8,Function,Natural,gold,4
+2,CB,CB8,Function,Natural,grass,5
+2,CB,CB8,Function,Natural,leaf,3
+2,CB,CB8,Function,Natural,tree bark,4
+2,CB,CB8,Function,Natural,water,4
+2,CB,CB8,Function,Natural,dirt,5
+2,CB,CB8,Function,Natural,flower,5
+2,CB,CB8,Function,Artifact,hole puncher,7
+2,CB,CB8,Function,Artifact,stapler,7
+2,CB,CB8,Function,Artifact,hammer,6
+2,CB,CB8,Function,Artifact,drill,6
+2,CB,CB8,Function,Artifact,iron,7
+2,CB,CB8,Function,Artifact,toaster,7
+2,CB,CB8,Function,Artifact,coffee maker,5
+2,CB,CB8,Function,Artifact,bed,5
+2,CB,CB8,Function,Artifact,pencil,6
+2,CB,CB8,Function,Artifact,bathtub,5
+2,CB,CB8,Filler,Natural,dog,4
+2,CB,CB8,Filler,Natural,pumpkin,6
+2,CB,CB8,Filler,Natural,cucumber,5
+2,CB,CB8,Filler,Natural,tree branch,5
+2,CB,CB8,Filler,Natural,pebble,4
+2,CB,CB8,Filler,Natural,seashell,3
+2,CB,CB8,Filler,Natural,orange,7
+2,CB,CB8,Filler,Natural,sand,5
+2,CB,CB8,Filler,Natural,watermelon,4
+2,CB,CB8,Filler,Natural,mouse,5
+2,CB,CB8,Filler,Natural,acorn,5
+2,CB,CB8,Filler,Natural,snake,4
+2,CB,CB8,Filler,Natural,pineapple,5
+2,CB,CB8,Filler,Artifact,chair,4
+2,CB,CB8,Filler,Artifact,coffee table,5
+2,CB,CB8,Filler,Artifact,knife,4
+2,CB,CB8,Filler,Artifact,rug,4
+2,CB,CB8,Filler,Artifact,coat,3
+2,CB,CB8,Filler,Artifact,bowl,4
+2,CB,CB8,Filler,Artifact,door,3
+2,CB,CB9,Color,Natural,strawberry,7
+2,CB,CB9,Color,Natural,banana,7
+2,CB,CB9,Color,Natural,broccoli,7
+2,CB,CB9,Color,Natural,lemon,7
+2,CB,CB9,Color,Natural,coal,1
+2,CB,CB9,Color,Natural,snow,7
+2,CB,CB9,Color,Natural,flamingo,1
+2,CB,CB9,Color,Natural,elephant,1
+2,CB,CB9,Color,Natural,ruby,7
+2,CB,CB9,Color,Natural,pearl,1
+2,CB,CB9,Color,ArtifactFC,go traffic,1
+2,CB,CB9,Color,ArtifactFC,fire truck,7
+2,CB,CB9,Color,ArtifactFC,basketball,7
+2,CB,CB9,Color,ArtifactFC,taxi cab,1
+2,CB,CB9,Color,ArtifactFC,police uniform,7
+2,CB,CB9,Color,ArtifactFC,dollar bill,7
+2,CB,CB9,Color,ArtifactFC,tennis ball,7
+2,CB,CB9,Color,ArtifactFC,chalkboard,1
+2,CB,CB9,Color,ArtifactNFC,toilet,1
+2,CB,CB9,Color,ArtifactFC,street sign,7
+2,CB,CB9,Color,ArtifactNFC,pants,1
+2,CB,CB9,Color,ArtifactNFC,mug,1
+2,CB,CB9,Color,ArtifactNFC,book,1
+2,CB,CB9,Color,ArtifactNFC,purse,1
+2,CB,CB9,Color,ArtifactFC,crayon,1
+2,CB,CB9,Color,ArtifactNFC,lunch box,7
+2,CB,CB9,Color,ArtifactNFC,suitcase,1
+2,CB,CB9,Color,ArtifactNFC,couch,1
+2,CB,CB9,Color,ArtifactNFC,shoes,1
+2,CB,CB9,Color,ArtifactNFC,vacuum,1
+2,CB,CB9,Function,Natural,wood,1
+2,CB,CB9,Function,Natural,rock,1
+2,CB,CB9,Function,Natural,mud,5
+2,CB,CB9,Function,Natural,gold,1
+2,CB,CB9,Function,Natural,grass,7
+2,CB,CB9,Function,Natural,leaf,7
+2,CB,CB9,Function,Natural,tree bark,2
+2,CB,CB9,Function,Natural,water,1
+2,CB,CB9,Function,Natural,dirt,7
+2,CB,CB9,Function,Natural,flower,1
+2,CB,CB9,Function,Artifact,hole puncher,7
+2,CB,CB9,Function,Artifact,stapler,7
+2,CB,CB9,Function,Artifact,hammer,7
+2,CB,CB9,Function,Artifact,drill,7
+2,CB,CB9,Function,Artifact,iron,7
+2,CB,CB9,Function,Artifact,toaster,7
+2,CB,CB9,Function,Artifact,coffee maker,7
+2,CB,CB9,Function,Artifact,bed,1
+2,CB,CB9,Function,Artifact,pencil,1
+2,CB,CB9,Function,Artifact,bathtub,7
+2,CB,CB9,Filler,Natural,dog,1
+2,CB,CB9,Filler,Natural,pumpkin,1
+2,CB,CB9,Filler,Natural,cucumber,1
+2,CB,CB9,Filler,Natural,tree branch,1
+2,CB,CB9,Filler,Natural,pebble,1
+2,CB,CB9,Filler,Natural,seashell,1
+2,CB,CB9,Filler,Natural,orange,7
+2,CB,CB9,Filler,Natural,sand,7
+2,CB,CB9,Filler,Natural,watermelon,7
+2,CB,CB9,Filler,Natural,mouse,7
+2,CB,CB9,Filler,Natural,acorn,7
+2,CB,CB9,Filler,Natural,snake,1
+2,CB,CB9,Filler,Natural,pineapple,7
+2,CB,CB9,Filler,Artifact,chair,1
+2,CB,CB9,Filler,Artifact,coffee table,1
+2,CB,CB9,Filler,Artifact,knife,1
+2,CB,CB9,Filler,Artifact,rug,1
+2,CB,CB9,Filler,Artifact,coat,1
+2,CB,CB9,Filler,Artifact,bowl,1
+2,CB,CB9,Filler,Artifact,door,1
+2,CB,CB10,Color,Natural,strawberry,5
+2,CB,CB10,Color,Natural,banana,5
+2,CB,CB10,Color,Natural,broccoli,5
+2,CB,CB10,Color,Natural,lemon,6
+2,CB,CB10,Color,Natural,coal,5
+2,CB,CB10,Color,Natural,snow,4
+2,CB,CB10,Color,Natural,flamingo,5
+2,CB,CB10,Color,Natural,elephant,5
+2,CB,CB10,Color,Natural,ruby,6
+2,CB,CB10,Color,Natural,pearl,4
+2,CB,CB10,Color,ArtifactFC,go traffic,7
+2,CB,CB10,Color,ArtifactFC,fire truck,6
+2,CB,CB10,Color,ArtifactFC,basketball,6
+2,CB,CB10,Color,ArtifactFC,taxi cab,5
+2,CB,CB10,Color,ArtifactFC,police uniform,6
+2,CB,CB10,Color,ArtifactFC,dollar bill,7
+2,CB,CB10,Color,ArtifactFC,tennis ball,6
+2,CB,CB10,Color,ArtifactFC,chalkboard,5
+2,CB,CB10,Color,ArtifactNFC,toilet,4
+2,CB,CB10,Color,ArtifactFC,street sign,2
+2,CB,CB10,Color,ArtifactNFC,pants,2
+2,CB,CB10,Color,ArtifactNFC,mug,2
+2,CB,CB10,Color,ArtifactNFC,book,5
+2,CB,CB10,Color,ArtifactNFC,purse,2
+2,CB,CB10,Color,ArtifactFC,crayon,2
+2,CB,CB10,Color,ArtifactNFC,lunch box,1
+2,CB,CB10,Color,ArtifactNFC,suitcase,4
+2,CB,CB10,Color,ArtifactNFC,couch,3
+2,CB,CB10,Color,ArtifactNFC,shoes,1
+2,CB,CB10,Color,ArtifactNFC,vacuum,3
+2,CB,CB10,Function,Natural,wood,4
+2,CB,CB10,Function,Natural,rock,3
+2,CB,CB10,Function,Natural,mud,2
+2,CB,CB10,Function,Natural,gold,3
+2,CB,CB10,Function,Natural,grass,4
+2,CB,CB10,Function,Natural,leaf,3
+2,CB,CB10,Function,Natural,tree bark,2
+2,CB,CB10,Function,Natural,water,4
+2,CB,CB10,Function,Natural,dirt,5
+2,CB,CB10,Function,Natural,flower,5
+2,CB,CB10,Function,Artifact,hole puncher,7
+2,CB,CB10,Function,Artifact,stapler,5
+2,CB,CB10,Function,Artifact,hammer,5
+2,CB,CB10,Function,Artifact,drill,6
+2,CB,CB10,Function,Artifact,iron,6
+2,CB,CB10,Function,Artifact,toaster,6
+2,CB,CB10,Function,Artifact,coffee maker,6
+2,CB,CB10,Function,Artifact,bed,4
+2,CB,CB10,Function,Artifact,pencil,6
+2,CB,CB10,Function,Artifact,bathtub,6
+2,CB,CB10,Filler,Natural,dog,1
+2,CB,CB10,Filler,Natural,pumpkin,5
+2,CB,CB10,Filler,Natural,cucumber,4
+2,CB,CB10,Filler,Natural,tree branch,2
+2,CB,CB10,Filler,Natural,pebble,5
+2,CB,CB10,Filler,Natural,seashell,2
+2,CB,CB10,Filler,Natural,orange,6
+2,CB,CB10,Filler,Natural,sand,6
+2,CB,CB10,Filler,Natural,watermelon,6
+2,CB,CB10,Filler,Natural,mouse,5
+2,CB,CB10,Filler,Natural,acorn,6
+2,CB,CB10,Filler,Natural,snake,6
+2,CB,CB10,Filler,Natural,pineapple,5
+2,CB,CB10,Filler,Artifact,chair,4
+2,CB,CB10,Filler,Artifact,coffee table,3
+2,CB,CB10,Filler,Artifact,knife,3
+2,CB,CB10,Filler,Artifact,rug,3
+2,CB,CB10,Filler,Artifact,coat,4
+2,CB,CB10,Filler,Artifact,bowl,3
+2,CB,CB10,Filler,Artifact,door,3
+2,CB,CB11,Color,Natural,strawberry,7
+2,CB,CB11,Color,Natural,banana,6
+2,CB,CB11,Color,Natural,broccoli,7
+2,CB,CB11,Color,Natural,lemon,7
+2,CB,CB11,Color,Natural,coal,7
+2,CB,CB11,Color,Natural,snow,7
+2,CB,CB11,Color,Natural,flamingo,7
+2,CB,CB11,Color,Natural,elephant,6
+2,CB,CB11,Color,Natural,ruby,7
+2,CB,CB11,Color,Natural,pearl,6
+2,CB,CB11,Color,ArtifactFC,go traffic,7
+2,CB,CB11,Color,ArtifactFC,fire truck,7
+2,CB,CB11,Color,ArtifactFC,basketball,7
+2,CB,CB11,Color,ArtifactFC,taxi cab,7
+2,CB,CB11,Color,ArtifactFC,police uniform,7
+2,CB,CB11,Color,ArtifactFC,dollar bill,
+2,CB,CB11,Color,ArtifactFC,tennis ball,5
+2,CB,CB11,Color,ArtifactFC,chalkboard,7
+2,CB,CB11,Color,ArtifactNFC,toilet,6
+2,CB,CB11,Color,ArtifactFC,street sign,6
+2,CB,CB11,Color,ArtifactNFC,pants,4
+2,CB,CB11,Color,ArtifactNFC,mug,4
+2,CB,CB11,Color,ArtifactNFC,book,6
+2,CB,CB11,Color,ArtifactNFC,purse,4
+2,CB,CB11,Color,ArtifactFC,crayon,3
+2,CB,CB11,Color,ArtifactNFC,lunch box,4
+2,CB,CB11,Color,ArtifactNFC,suitcase,5
+2,CB,CB11,Color,ArtifactNFC,couch,5
+2,CB,CB11,Color,ArtifactNFC,shoes,3
+2,CB,CB11,Color,ArtifactNFC,vacuum,5
+2,CB,CB11,Function,Natural,wood,3
+2,CB,CB11,Function,Natural,rock,6
+2,CB,CB11,Function,Natural,mud,4
+2,CB,CB11,Function,Natural,gold,4
+2,CB,CB11,Function,Natural,grass,4
+2,CB,CB11,Function,Natural,leaf,1
+2,CB,CB11,Function,Natural,tree bark,2
+2,CB,CB11,Function,Natural,water,6
+2,CB,CB11,Function,Natural,dirt,3
+2,CB,CB11,Function,Natural,flower,5
+2,CB,CB11,Function,Artifact,hole puncher,7
+2,CB,CB11,Function,Artifact,stapler,7
+2,CB,CB11,Function,Artifact,hammer,5
+2,CB,CB11,Function,Artifact,drill,7
+2,CB,CB11,Function,Artifact,iron,7
+2,CB,CB11,Function,Artifact,toaster,7
+2,CB,CB11,Function,Artifact,coffee maker,7
+2,CB,CB11,Function,Artifact,bed,6
+2,CB,CB11,Function,Artifact,pencil,6
+2,CB,CB11,Function,Artifact,bathtub,7
+2,CB,CB11,Filler,Natural,dog,4
+2,CB,CB11,Filler,Natural,pumpkin,5
+2,CB,CB11,Filler,Natural,cucumber,6
+2,CB,CB11,Filler,Natural,tree branch,4
+2,CB,CB11,Filler,Natural,pebble,6
+2,CB,CB11,Filler,Natural,seashell,4
+2,CB,CB11,Filler,Natural,orange,7
+2,CB,CB11,Filler,Natural,sand,5
+2,CB,CB11,Filler,Natural,watermelon,6
+2,CB,CB11,Filler,Natural,mouse,6
+2,CB,CB11,Filler,Natural,acorn,7
+2,CB,CB11,Filler,Natural,snake,7
+2,CB,CB11,Filler,Natural,pineapple,7
+2,CB,CB11,Filler,Artifact,chair,5
+2,CB,CB11,Filler,Artifact,coffee table,6
+2,CB,CB11,Filler,Artifact,knife,7
+2,CB,CB11,Filler,Artifact,rug,6
+2,CB,CB11,Filler,Artifact,coat,6
+2,CB,CB11,Filler,Artifact,bowl,4
+2,CB,CB11,Filler,Artifact,door,7
+2,CB,CB12,Color,Natural,strawberry,7
+2,CB,CB12,Color,Natural,banana,4
+2,CB,CB12,Color,Natural,broccoli,6
+2,CB,CB12,Color,Natural,lemon,7
+2,CB,CB12,Color,Natural,coal,5
+2,CB,CB12,Color,Natural,snow,6
+2,CB,CB12,Color,Natural,flamingo,6
+2,CB,CB12,Color,Natural,elephant,6
+2,CB,CB12,Color,Natural,ruby,7
+2,CB,CB12,Color,Natural,pearl,5
+2,CB,CB12,Color,ArtifactFC,go traffic,7
+2,CB,CB12,Color,ArtifactFC,fire truck,7
+2,CB,CB12,Color,ArtifactFC,basketball,6
+2,CB,CB12,Color,ArtifactFC,taxi cab,6
+2,CB,CB12,Color,ArtifactFC,police uniform,6
+2,CB,CB12,Color,ArtifactFC,dollar bill,
+2,CB,CB12,Color,ArtifactFC,tennis ball,5
+2,CB,CB12,Color,ArtifactFC,chalkboard,6
+2,CB,CB12,Color,ArtifactNFC,toilet,5
+2,CB,CB12,Color,ArtifactFC,street sign,6
+2,CB,CB12,Color,ArtifactNFC,pants,3
+2,CB,CB12,Color,ArtifactNFC,mug,5
+2,CB,CB12,Color,ArtifactNFC,book,4
+2,CB,CB12,Color,ArtifactNFC,purse,5
+2,CB,CB12,Color,ArtifactFC,crayon,3
+2,CB,CB12,Color,ArtifactNFC,lunch box,3
+2,CB,CB12,Color,ArtifactNFC,suitcase,3
+2,CB,CB12,Color,ArtifactNFC,couch,5
+2,CB,CB12,Color,ArtifactNFC,shoes,3
+2,CB,CB12,Color,ArtifactNFC,vacuum,5
+2,CB,CB12,Function,Natural,wood,6
+2,CB,CB12,Function,Natural,rock,5
+2,CB,CB12,Function,Natural,mud,4
+2,CB,CB12,Function,Natural,gold,4
+2,CB,CB12,Function,Natural,grass,2
+2,CB,CB12,Function,Natural,leaf,6
+2,CB,CB12,Function,Natural,tree bark,7
+2,CB,CB12,Function,Natural,water,6
+2,CB,CB12,Function,Natural,dirt,6
+2,CB,CB12,Function,Natural,flower,5
+2,CB,CB12,Function,Artifact,hole puncher,7
+2,CB,CB12,Function,Artifact,stapler,7
+2,CB,CB12,Function,Artifact,hammer,7
+2,CB,CB12,Function,Artifact,drill,7
+2,CB,CB12,Function,Artifact,iron,5
+2,CB,CB12,Function,Artifact,toaster,7
+2,CB,CB12,Function,Artifact,coffee maker,6
+2,CB,CB12,Function,Artifact,bed,5
+2,CB,CB12,Function,Artifact,pencil,7
+2,CB,CB12,Function,Artifact,bathtub,5
+2,CB,CB12,Filler,Natural,dog,3
+2,CB,CB12,Filler,Natural,pumpkin,4
+2,CB,CB12,Filler,Natural,cucumber,3
+2,CB,CB12,Filler,Natural,tree branch,5
+2,CB,CB12,Filler,Natural,pebble,4
+2,CB,CB12,Filler,Natural,seashell,3
+2,CB,CB12,Filler,Natural,orange,4
+2,CB,CB12,Filler,Natural,sand,6
+2,CB,CB12,Filler,Natural,watermelon,6
+2,CB,CB12,Filler,Natural,mouse,5
+2,CB,CB12,Filler,Natural,acorn,6
+2,CB,CB12,Filler,Natural,snake,5
+2,CB,CB12,Filler,Natural,pineapple,7
+2,CB,CB12,Filler,Artifact,chair,4
+2,CB,CB12,Filler,Artifact,coffee table,3
+2,CB,CB12,Filler,Artifact,knife,3
+2,CB,CB12,Filler,Artifact,rug,5
+2,CB,CB12,Filler,Artifact,coat,5
+2,CB,CB12,Filler,Artifact,bowl,4
+2,CB,CB12,Filler,Artifact,door,6
+2,CB,CB13,Color,Natural,strawberry,7
+2,CB,CB13,Color,Natural,banana,7
+2,CB,CB13,Color,Natural,broccoli,7
+2,CB,CB13,Color,Natural,lemon,7
+2,CB,CB13,Color,Natural,coal,7
+2,CB,CB13,Color,Natural,snow,5
+2,CB,CB13,Color,Natural,flamingo,7
+2,CB,CB13,Color,Natural,elephant,1
+2,CB,CB13,Color,Natural,ruby,7
+2,CB,CB13,Color,Natural,pearl,1
+2,CB,CB13,Color,ArtifactFC,go traffic,7
+2,CB,CB13,Color,ArtifactFC,fire truck,7
+2,CB,CB13,Color,ArtifactFC,basketball,3
+2,CB,CB13,Color,ArtifactFC,taxi cab,7
+2,CB,CB13,Color,ArtifactFC,police uniform,7
+2,CB,CB13,Color,ArtifactFC,dollar bill,
+2,CB,CB13,Color,ArtifactFC,tennis ball,1
+2,CB,CB13,Color,ArtifactFC,chalkboard,7
+2,CB,CB13,Color,ArtifactNFC,toilet,3
+2,CB,CB13,Color,ArtifactFC,street sign,1
+2,CB,CB13,Color,ArtifactNFC,pants,1
+2,CB,CB13,Color,ArtifactNFC,mug,1
+2,CB,CB13,Color,ArtifactNFC,book,1
+2,CB,CB13,Color,ArtifactNFC,purse,1
+2,CB,CB13,Color,ArtifactFC,crayon,2
+2,CB,CB13,Color,ArtifactNFC,lunch box,1
+2,CB,CB13,Color,ArtifactNFC,suitcase,3
+2,CB,CB13,Color,ArtifactNFC,couch,3
+2,CB,CB13,Color,ArtifactNFC,shoes,1
+2,CB,CB13,Color,ArtifactNFC,vacuum,1
+2,CB,CB13,Function,Natural,wood,1
+2,CB,CB13,Function,Natural,rock,1
+2,CB,CB13,Function,Natural,mud,1
+2,CB,CB13,Function,Natural,gold,7
+2,CB,CB13,Function,Natural,grass,2
+2,CB,CB13,Function,Natural,leaf,7
+2,CB,CB13,Function,Natural,tree bark,7
+2,CB,CB13,Function,Natural,water,7
+2,CB,CB13,Function,Natural,dirt,3
+2,CB,CB13,Function,Natural,flower,7
+2,CB,CB13,Function,Artifact,hole puncher,7
+2,CB,CB13,Function,Artifact,stapler,7
+2,CB,CB13,Function,Artifact,hammer,3
+2,CB,CB13,Function,Artifact,drill,7
+2,CB,CB13,Function,Artifact,iron,7
+2,CB,CB13,Function,Artifact,toaster,7
+2,CB,CB13,Function,Artifact,coffee maker,7
+2,CB,CB13,Function,Artifact,bed,7
+2,CB,CB13,Function,Artifact,pencil,7
+2,CB,CB13,Function,Artifact,bathtub,7
+2,CB,CB13,Filler,Natural,dog,1
+2,CB,CB13,Filler,Natural,pumpkin,1
+2,CB,CB13,Filler,Natural,cucumber,1
+2,CB,CB13,Filler,Natural,tree branch,1
+2,CB,CB13,Filler,Natural,pebble,1
+2,CB,CB13,Filler,Natural,seashell,1
+2,CB,CB13,Filler,Natural,orange,3
+2,CB,CB13,Filler,Natural,sand,1
+2,CB,CB13,Filler,Natural,watermelon,4
+2,CB,CB13,Filler,Natural,mouse,7
+2,CB,CB13,Filler,Natural,acorn,7
+2,CB,CB13,Filler,Natural,snake,7
+2,CB,CB13,Filler,Natural,pineapple,7
+2,CB,CB13,Filler,Artifact,chair,2
+2,CB,CB13,Filler,Artifact,coffee table,1
+2,CB,CB13,Filler,Artifact,knife,1
+2,CB,CB13,Filler,Artifact,rug,1
+2,CB,CB13,Filler,Artifact,coat,7
+2,CB,CB13,Filler,Artifact,bowl,1
+2,CB,CB13,Filler,Artifact,door,1
+2,CB,CB14,Color,Natural,strawberry,6
+2,CB,CB14,Color,Natural,banana,7
+2,CB,CB14,Color,Natural,broccoli,7
+2,CB,CB14,Color,Natural,lemon,4
+2,CB,CB14,Color,Natural,coal,7
+2,CB,CB14,Color,Natural,snow,7
+2,CB,CB14,Color,Natural,flamingo,6
+2,CB,CB14,Color,Natural,elephant,7
+2,CB,CB14,Color,Natural,ruby,5
+2,CB,CB14,Color,Natural,pearl,5
+2,CB,CB14,Color,ArtifactFC,go traffic,7
+2,CB,CB14,Color,ArtifactFC,fire truck,6
+2,CB,CB14,Color,ArtifactFC,basketball,7
+2,CB,CB14,Color,ArtifactFC,taxi cab,4
+2,CB,CB14,Color,ArtifactFC,police uniform,6
+2,CB,CB14,Color,ArtifactFC,dollar bill,
+2,CB,CB14,Color,ArtifactFC,tennis ball,6
+2,CB,CB14,Color,ArtifactFC,chalkboard,6
+2,CB,CB14,Color,ArtifactNFC,toilet,7
+2,CB,CB14,Color,ArtifactFC,street sign,5
+2,CB,CB14,Color,ArtifactNFC,pants,3
+2,CB,CB14,Color,ArtifactNFC,mug,5
+2,CB,CB14,Color,ArtifactNFC,book,4
+2,CB,CB14,Color,ArtifactNFC,purse,3
+2,CB,CB14,Color,ArtifactFC,crayon,4
+2,CB,CB14,Color,ArtifactNFC,lunch box,4
+2,CB,CB14,Color,ArtifactNFC,suitcase,3
+2,CB,CB14,Color,ArtifactNFC,couch,4
+2,CB,CB14,Color,ArtifactNFC,shoes,4
+2,CB,CB14,Color,ArtifactNFC,vacuum,5
+2,CB,CB14,Function,Natural,wood,6
+2,CB,CB14,Function,Natural,rock,5
+2,CB,CB14,Function,Natural,mud,5
+2,CB,CB14,Function,Natural,gold,5
+2,CB,CB14,Function,Natural,grass,5
+2,CB,CB14,Function,Natural,leaf,6
+2,CB,CB14,Function,Natural,tree bark,5
+2,CB,CB14,Function,Natural,water,6
+2,CB,CB14,Function,Natural,dirt,6
+2,CB,CB14,Function,Natural,flower,7
+2,CB,CB14,Function,Artifact,hole puncher,7
+2,CB,CB14,Function,Artifact,stapler,7
+2,CB,CB14,Function,Artifact,hammer,7
+2,CB,CB14,Function,Artifact,drill,7
+2,CB,CB14,Function,Artifact,iron,7
+2,CB,CB14,Function,Artifact,toaster,7
+2,CB,CB14,Function,Artifact,coffee maker,7
+2,CB,CB14,Function,Artifact,bed,5
+2,CB,CB14,Function,Artifact,pencil,5
+2,CB,CB14,Function,Artifact,bathtub,7
+2,CB,CB14,Filler,Natural,dog,4
+2,CB,CB14,Filler,Natural,pumpkin,7
+2,CB,CB14,Filler,Natural,cucumber,7
+2,CB,CB14,Filler,Natural,tree branch,4
+2,CB,CB14,Filler,Natural,pebble,7
+2,CB,CB14,Filler,Natural,seashell,7
+2,CB,CB14,Filler,Natural,orange,5
+2,CB,CB14,Filler,Natural,sand,7
+2,CB,CB14,Filler,Natural,watermelon,5
+2,CB,CB14,Filler,Natural,mouse,5
+2,CB,CB14,Filler,Natural,acorn,7
+2,CB,CB14,Filler,Natural,snake,5
+2,CB,CB14,Filler,Natural,pineapple,4
+2,CB,CB14,Filler,Artifact,chair,4
+2,CB,CB14,Filler,Artifact,coffee table,6
+2,CB,CB14,Filler,Artifact,knife,5
+2,CB,CB14,Filler,Artifact,rug,6
+2,CB,CB14,Filler,Artifact,coat,7
+2,CB,CB14,Filler,Artifact,bowl,4
+2,CB,CB14,Filler,Artifact,door,6
+2,CB,CB15,Color,Natural,strawberry,7
+2,CB,CB15,Color,Natural,banana,6
+2,CB,CB15,Color,Natural,broccoli,6
+2,CB,CB15,Color,Natural,lemon,6
+2,CB,CB15,Color,Natural,coal,7
+2,CB,CB15,Color,Natural,snow,7
+2,CB,CB15,Color,Natural,flamingo,6
+2,CB,CB15,Color,Natural,elephant,5
+2,CB,CB15,Color,Natural,ruby,6
+2,CB,CB15,Color,Natural,pearl,6
+2,CB,CB15,Color,ArtifactFC,go traffic,7
+2,CB,CB15,Color,ArtifactFC,fire truck,7
+2,CB,CB15,Color,ArtifactFC,basketball,6
+2,CB,CB15,Color,ArtifactFC,taxi cab,4
+2,CB,CB15,Color,ArtifactFC,police uniform,5
+2,CB,CB15,Color,ArtifactFC,dollar bill,
+2,CB,CB15,Color,ArtifactFC,tennis ball,5
+2,CB,CB15,Color,ArtifactFC,chalkboard,6
+2,CB,CB15,Color,ArtifactNFC,toilet,6
+2,CB,CB15,Color,ArtifactFC,street sign,5
+2,CB,CB15,Color,ArtifactNFC,pants,5
+2,CB,CB15,Color,ArtifactNFC,mug,3
+2,CB,CB15,Color,ArtifactNFC,book,6
+2,CB,CB15,Color,ArtifactNFC,purse,2
+2,CB,CB15,Color,ArtifactFC,crayon,3
+2,CB,CB15,Color,ArtifactNFC,lunch box,3
+2,CB,CB15,Color,ArtifactNFC,suitcase,3
+2,CB,CB15,Color,ArtifactNFC,couch,5
+2,CB,CB15,Color,ArtifactNFC,shoes,3
+2,CB,CB15,Color,ArtifactNFC,vacuum,5
+2,CB,CB15,Function,Natural,wood,3
+2,CB,CB15,Function,Natural,rock,5
+2,CB,CB15,Function,Natural,mud,3
+2,CB,CB15,Function,Natural,gold,5
+2,CB,CB15,Function,Natural,grass,5
+2,CB,CB15,Function,Natural,leaf,6
+2,CB,CB15,Function,Natural,tree bark,5
+2,CB,CB15,Function,Natural,water,6
+2,CB,CB15,Function,Natural,dirt,5
+2,CB,CB15,Function,Natural,flower,5
+2,CB,CB15,Function,Artifact,hole puncher,7
+2,CB,CB15,Function,Artifact,stapler,7
+2,CB,CB15,Function,Artifact,hammer,6
+2,CB,CB15,Function,Artifact,drill,7
+2,CB,CB15,Function,Artifact,iron,7
+2,CB,CB15,Function,Artifact,toaster,7
+2,CB,CB15,Function,Artifact,coffee maker,7
+2,CB,CB15,Function,Artifact,bed,5
+2,CB,CB15,Function,Artifact,pencil,6
+2,CB,CB15,Function,Artifact,bathtub,7
+2,CB,CB15,Filler,Natural,dog,5
+2,CB,CB15,Filler,Natural,pumpkin,5
+2,CB,CB15,Filler,Natural,cucumber,6
+2,CB,CB15,Filler,Natural,tree branch,3
+2,CB,CB15,Filler,Natural,pebble,5
+2,CB,CB15,Filler,Natural,seashell,1
+2,CB,CB15,Filler,Natural,orange,6
+2,CB,CB15,Filler,Natural,sand,7
+2,CB,CB15,Filler,Natural,watermelon,5
+2,CB,CB15,Filler,Natural,mouse,5
+2,CB,CB15,Filler,Natural,acorn,6
+2,CB,CB15,Filler,Natural,snake,6
+2,CB,CB15,Filler,Natural,pineapple,6
+2,CB,CB15,Filler,Artifact,chair,3
+2,CB,CB15,Filler,Artifact,coffee table,5
+2,CB,CB15,Filler,Artifact,knife,3
+2,CB,CB15,Filler,Artifact,rug,3
+2,CB,CB15,Filler,Artifact,coat,5
+2,CB,CB15,Filler,Artifact,bowl,5
+2,CB,CB15,Filler,Artifact,door,5
+2,CB,CB16,Color,Natural,strawberry,2
+2,CB,CB16,Color,Natural,banana,4
+2,CB,CB16,Color,Natural,broccoli,5
+2,CB,CB16,Color,Natural,lemon,7
+2,CB,CB16,Color,Natural,coal,5
+2,CB,CB16,Color,Natural,snow,7
+2,CB,CB16,Color,Natural,flamingo,2
+2,CB,CB16,Color,Natural,elephant,6
+2,CB,CB16,Color,Natural,ruby,5
+2,CB,CB16,Color,Natural,pearl,1
+2,CB,CB16,Color,ArtifactFC,go traffic,7
+2,CB,CB16,Color,ArtifactFC,fire truck,3
+2,CB,CB16,Color,ArtifactFC,basketball,7
+2,CB,CB16,Color,ArtifactFC,taxi cab,1
+2,CB,CB16,Color,ArtifactFC,police uniform,7
+2,CB,CB16,Color,ArtifactFC,dollar bill,
+2,CB,CB16,Color,ArtifactFC,tennis ball,2
+2,CB,CB16,Color,ArtifactFC,chalkboard,7
+2,CB,CB16,Color,ArtifactNFC,toilet,1
+2,CB,CB16,Color,ArtifactFC,street sign,4
+2,CB,CB16,Color,ArtifactNFC,pants,1
+2,CB,CB16,Color,ArtifactNFC,mug,1
+2,CB,CB16,Color,ArtifactNFC,book,5
+2,CB,CB16,Color,ArtifactNFC,purse,1
+2,CB,CB16,Color,ArtifactFC,crayon,7
+2,CB,CB16,Color,ArtifactNFC,lunch box,4
+2,CB,CB16,Color,ArtifactNFC,suitcase,1
+2,CB,CB16,Color,ArtifactNFC,couch,1
+2,CB,CB16,Color,ArtifactNFC,shoes,1
+2,CB,CB16,Color,ArtifactNFC,vacuum,1
+2,CB,CB16,Function,Natural,wood,2
+2,CB,CB16,Function,Natural,rock,3
+2,CB,CB16,Function,Natural,mud,1
+2,CB,CB16,Function,Natural,gold,1
+2,CB,CB16,Function,Natural,grass,1
+2,CB,CB16,Function,Natural,leaf,2
+2,CB,CB16,Function,Natural,tree bark,1
+2,CB,CB16,Function,Natural,water,2
+2,CB,CB16,Function,Natural,dirt,1
+2,CB,CB16,Function,Natural,flower,1
+2,CB,CB16,Function,Artifact,hole puncher,6
+2,CB,CB16,Function,Artifact,stapler,7
+2,CB,CB16,Function,Artifact,hammer,7
+2,CB,CB16,Function,Artifact,drill,6
+2,CB,CB16,Function,Artifact,iron,7
+2,CB,CB16,Function,Artifact,toaster,7
+2,CB,CB16,Function,Artifact,coffee maker,7
+2,CB,CB16,Function,Artifact,bed,6
+2,CB,CB16,Function,Artifact,pencil,7
+2,CB,CB16,Function,Artifact,bathtub,7
+2,CB,CB16,Filler,Natural,dog,1
+2,CB,CB16,Filler,Natural,pumpkin,7
+2,CB,CB16,Filler,Natural,cucumber,2
+2,CB,CB16,Filler,Natural,tree branch,5
+2,CB,CB16,Filler,Natural,pebble,3
+2,CB,CB16,Filler,Natural,seashell,1
+2,CB,CB16,Filler,Natural,orange,7
+2,CB,CB16,Filler,Natural,sand,7
+2,CB,CB16,Filler,Natural,watermelon,7
+2,CB,CB16,Filler,Natural,mouse,4
+2,CB,CB16,Filler,Natural,acorn,2
+2,CB,CB16,Filler,Natural,snake,5
+2,CB,CB16,Filler,Natural,pineapple,3
+2,CB,CB16,Filler,Artifact,chair,2
+2,CB,CB16,Filler,Artifact,coffee table,6
+2,CB,CB16,Filler,Artifact,knife,6
+2,CB,CB16,Filler,Artifact,rug,1
+2,CB,CB16,Filler,Artifact,coat,1
+2,CB,CB16,Filler,Artifact,bowl,3
+2,CB,CB16,Filler,Artifact,door,1
+2,CB,CB17,Color,Natural,strawberry,5
+2,CB,CB17,Color,Natural,banana,5
+2,CB,CB17,Color,Natural,broccoli,6
+2,CB,CB17,Color,Natural,lemon,5
+2,CB,CB17,Color,Natural,coal,7
+2,CB,CB17,Color,Natural,snow,4
+2,CB,CB17,Color,Natural,flamingo,5
+2,CB,CB17,Color,Natural,elephant,5
+2,CB,CB17,Color,Natural,ruby,7
+2,CB,CB17,Color,Natural,pearl,6
+2,CB,CB17,Color,ArtifactFC,go traffic,7
+2,CB,CB17,Color,ArtifactFC,fire truck,5
+2,CB,CB17,Color,ArtifactFC,basketball,4
+2,CB,CB17,Color,ArtifactFC,taxi cab,2
+2,CB,CB17,Color,ArtifactFC,police uniform,7
+2,CB,CB17,Color,ArtifactFC,dollar bill,
+2,CB,CB17,Color,ArtifactFC,tennis ball,6
+2,CB,CB17,Color,ArtifactFC,chalkboard,5
+2,CB,CB17,Color,ArtifactNFC,toilet,3
+2,CB,CB17,Color,ArtifactFC,street sign,3
+2,CB,CB17,Color,ArtifactNFC,pants,2
+2,CB,CB17,Color,ArtifactNFC,mug,2
+2,CB,CB17,Color,ArtifactNFC,book,2
+2,CB,CB17,Color,ArtifactNFC,purse,2
+2,CB,CB17,Color,ArtifactFC,crayon,2
+2,CB,CB17,Color,ArtifactNFC,lunch box,2
+2,CB,CB17,Color,ArtifactNFC,suitcase,2
+2,CB,CB17,Color,ArtifactNFC,couch,2
+2,CB,CB17,Color,ArtifactNFC,shoes,2
+2,CB,CB17,Color,ArtifactNFC,vacuum,3
+2,CB,CB17,Function,Natural,wood,2
+2,CB,CB17,Function,Natural,rock,2
+2,CB,CB17,Function,Natural,mud,3
+2,CB,CB17,Function,Natural,gold,4
+2,CB,CB17,Function,Natural,grass,4
+2,CB,CB17,Function,Natural,leaf,2
+2,CB,CB17,Function,Natural,tree bark,2
+2,CB,CB17,Function,Natural,water,3
+2,CB,CB17,Function,Natural,dirt,4
+2,CB,CB17,Function,Natural,flower,5
+2,CB,CB17,Function,Artifact,hole puncher,7
+2,CB,CB17,Function,Artifact,stapler,6
+2,CB,CB17,Function,Artifact,hammer,6
+2,CB,CB17,Function,Artifact,drill,7
+2,CB,CB17,Function,Artifact,iron,7
+2,CB,CB17,Function,Artifact,toaster,3
+2,CB,CB17,Function,Artifact,coffee maker,7
+2,CB,CB17,Function,Artifact,bed,5
+2,CB,CB17,Function,Artifact,pencil,7
+2,CB,CB17,Function,Artifact,bathtub,6
+2,CB,CB17,Filler,Natural,dog,2
+2,CB,CB17,Filler,Natural,pumpkin,3
+2,CB,CB17,Filler,Natural,cucumber,4
+2,CB,CB17,Filler,Natural,tree branch,2
+2,CB,CB17,Filler,Natural,pebble,1
+2,CB,CB17,Filler,Natural,seashell,2
+2,CB,CB17,Filler,Natural,orange,6
+2,CB,CB17,Filler,Natural,sand,6
+2,CB,CB17,Filler,Natural,watermelon,4
+2,CB,CB17,Filler,Natural,mouse,7
+2,CB,CB17,Filler,Natural,acorn,7
+2,CB,CB17,Filler,Natural,snake,6
+2,CB,CB17,Filler,Natural,pineapple,7
+2,CB,CB17,Filler,Artifact,chair,3
+2,CB,CB17,Filler,Artifact,coffee table,5
+2,CB,CB17,Filler,Artifact,knife,2
+2,CB,CB17,Filler,Artifact,rug,3
+2,CB,CB17,Filler,Artifact,coat,2
+2,CB,CB17,Filler,Artifact,bowl,2
+2,CB,CB17,Filler,Artifact,door,6
+2,CB,CB18,Color,Natural,strawberry,6
+2,CB,CB18,Color,Natural,banana,6
+2,CB,CB18,Color,Natural,broccoli,7
+2,CB,CB18,Color,Natural,lemon,7
+2,CB,CB18,Color,Natural,coal,7
+2,CB,CB18,Color,Natural,snow,6
+2,CB,CB18,Color,Natural,flamingo,7
+2,CB,CB18,Color,Natural,elephant,7
+2,CB,CB18,Color,Natural,ruby,7
+2,CB,CB18,Color,Natural,pearl,5
+2,CB,CB18,Color,ArtifactFC,go traffic,7
+2,CB,CB18,Color,ArtifactFC,fire truck,7
+2,CB,CB18,Color,ArtifactFC,basketball,6
+2,CB,CB18,Color,ArtifactFC,taxi cab,6
+2,CB,CB18,Color,ArtifactFC,police uniform,7
+2,CB,CB18,Color,ArtifactFC,dollar bill,
+2,CB,CB18,Color,ArtifactFC,tennis ball,7
+2,CB,CB18,Color,ArtifactFC,chalkboard,7
+2,CB,CB18,Color,ArtifactNFC,toilet,6
+2,CB,CB18,Color,ArtifactFC,street sign,5
+2,CB,CB18,Color,ArtifactNFC,pants,4
+2,CB,CB18,Color,ArtifactNFC,mug,3
+2,CB,CB18,Color,ArtifactNFC,book,3
+2,CB,CB18,Color,ArtifactNFC,purse,3
+2,CB,CB18,Color,ArtifactFC,crayon,2
+2,CB,CB18,Color,ArtifactNFC,lunch box,2
+2,CB,CB18,Color,ArtifactNFC,suitcase,5
+2,CB,CB18,Color,ArtifactNFC,couch,3
+2,CB,CB18,Color,ArtifactNFC,shoes,4
+2,CB,CB18,Color,ArtifactNFC,vacuum,4
+2,CB,CB18,Function,Natural,wood,4
+2,CB,CB18,Function,Natural,rock,5
+2,CB,CB18,Function,Natural,mud,4
+2,CB,CB18,Function,Natural,gold,3
+2,CB,CB18,Function,Natural,grass,6
+2,CB,CB18,Function,Natural,leaf,2
+2,CB,CB18,Function,Natural,tree bark,4
+2,CB,CB18,Function,Natural,water,4
+2,CB,CB18,Function,Natural,dirt,2
+2,CB,CB18,Function,Natural,flower,5
+2,CB,CB18,Function,Artifact,hole puncher,7
+2,CB,CB18,Function,Artifact,stapler,7
+2,CB,CB18,Function,Artifact,hammer,6
+2,CB,CB18,Function,Artifact,drill,7
+2,CB,CB18,Function,Artifact,iron,7
+2,CB,CB18,Function,Artifact,toaster,7
+2,CB,CB18,Function,Artifact,coffee maker,7
+2,CB,CB18,Function,Artifact,bed,5
+2,CB,CB18,Function,Artifact,pencil,6
+2,CB,CB18,Function,Artifact,bathtub,7
+2,CB,CB18,Filler,Natural,dog,3
+2,CB,CB18,Filler,Natural,pumpkin,3
+2,CB,CB18,Filler,Natural,cucumber,4
+2,CB,CB18,Filler,Natural,tree branch,1
+2,CB,CB18,Filler,Natural,pebble,5
+2,CB,CB18,Filler,Natural,seashell,5
+2,CB,CB18,Filler,Natural,orange,7
+2,CB,CB18,Filler,Natural,sand,2
+2,CB,CB18,Filler,Natural,watermelon,4
+2,CB,CB18,Filler,Natural,mouse,7
+2,CB,CB18,Filler,Natural,acorn,7
+2,CB,CB18,Filler,Natural,snake,5
+2,CB,CB18,Filler,Natural,pineapple,7
+2,CB,CB18,Filler,Artifact,chair,5
+2,CB,CB18,Filler,Artifact,coffee table,4
+2,CB,CB18,Filler,Artifact,knife,4
+2,CB,CB18,Filler,Artifact,rug,3
+2,CB,CB18,Filler,Artifact,coat,2
+2,CB,CB18,Filler,Artifact,bowl,3
+2,CB,CB18,Filler,Artifact,door,4
+2,CB,CB19,Color,Natural,strawberry,6
+2,CB,CB19,Color,Natural,banana,6
+2,CB,CB19,Color,Natural,broccoli,7
+2,CB,CB19,Color,Natural,lemon,7
+2,CB,CB19,Color,Natural,coal,6
+2,CB,CB19,Color,Natural,snow,5
+2,CB,CB19,Color,Natural,flamingo,5
+2,CB,CB19,Color,Natural,elephant,6
+2,CB,CB19,Color,Natural,ruby,7
+2,CB,CB19,Color,Natural,pearl,6
+2,CB,CB19,Color,ArtifactFC,go traffic,7
+2,CB,CB19,Color,ArtifactFC,fire truck,7
+2,CB,CB19,Color,ArtifactFC,basketball,6
+2,CB,CB19,Color,ArtifactFC,taxi cab,7
+2,CB,CB19,Color,ArtifactFC,police uniform,7
+2,CB,CB19,Color,ArtifactFC,dollar bill,
+2,CB,CB19,Color,ArtifactFC,tennis ball,6
+2,CB,CB19,Color,ArtifactFC,chalkboard,6
+2,CB,CB19,Color,ArtifactNFC,toilet,6
+2,CB,CB19,Color,ArtifactFC,street sign,6
+2,CB,CB19,Color,ArtifactNFC,pants,2
+2,CB,CB19,Color,ArtifactNFC,mug,5
+2,CB,CB19,Color,ArtifactNFC,book,5
+2,CB,CB19,Color,ArtifactNFC,purse,2
+2,CB,CB19,Color,ArtifactFC,crayon,3
+2,CB,CB19,Color,ArtifactNFC,lunch box,5
+2,CB,CB19,Color,ArtifactNFC,suitcase,2
+2,CB,CB19,Color,ArtifactNFC,couch,3
+2,CB,CB19,Color,ArtifactNFC,shoes,2
+2,CB,CB19,Color,ArtifactNFC,vacuum,6
+2,CB,CB19,Function,Natural,wood,3
+2,CB,CB19,Function,Natural,rock,4
+2,CB,CB19,Function,Natural,mud,3
+2,CB,CB19,Function,Natural,gold,4
+2,CB,CB19,Function,Natural,grass,4
+2,CB,CB19,Function,Natural,leaf,4
+2,CB,CB19,Function,Natural,tree bark,4
+2,CB,CB19,Function,Natural,water,4
+2,CB,CB19,Function,Natural,dirt,3
+2,CB,CB19,Function,Natural,flower,5
+2,CB,CB19,Function,Artifact,hole puncher,6
+2,CB,CB19,Function,Artifact,stapler,6
+2,CB,CB19,Function,Artifact,hammer,5
+2,CB,CB19,Function,Artifact,drill,6
+2,CB,CB19,Function,Artifact,iron,7
+2,CB,CB19,Function,Artifact,toaster,6
+2,CB,CB19,Function,Artifact,coffee maker,7
+2,CB,CB19,Function,Artifact,bed,5
+2,CB,CB19,Function,Artifact,pencil,5
+2,CB,CB19,Function,Artifact,bathtub,5
+2,CB,CB19,Filler,Natural,dog,4
+2,CB,CB19,Filler,Natural,pumpkin,3
+2,CB,CB19,Filler,Natural,cucumber,5
+2,CB,CB19,Filler,Natural,tree branch,3
+2,CB,CB19,Filler,Natural,pebble,5
+2,CB,CB19,Filler,Natural,seashell,4
+2,CB,CB19,Filler,Natural,orange,5
+2,CB,CB19,Filler,Natural,sand,6
+2,CB,CB19,Filler,Natural,watermelon,5
+2,CB,CB19,Filler,Natural,mouse,6
+2,CB,CB19,Filler,Natural,acorn,6
+2,CB,CB19,Filler,Natural,snake,6
+2,CB,CB19,Filler,Natural,pineapple,6
+2,CB,CB19,Filler,Artifact,chair,4
+2,CB,CB19,Filler,Artifact,coffee table,5
+2,CB,CB19,Filler,Artifact,knife,4
+2,CB,CB19,Filler,Artifact,rug,4
+2,CB,CB19,Filler,Artifact,coat,5
+2,CB,CB19,Filler,Artifact,bowl,4
+2,CB,CB19,Filler,Artifact,door,4
+2,CB,CB20,Color,Natural,strawberry,5
+2,CB,CB20,Color,Natural,banana,3
+2,CB,CB20,Color,Natural,broccoli,7
+2,CB,CB20,Color,Natural,lemon,3
+2,CB,CB20,Color,Natural,coal,5
+2,CB,CB20,Color,Natural,snow,7
+2,CB,CB20,Color,Natural,flamingo,1
+2,CB,CB20,Color,Natural,elephant,3
+2,CB,CB20,Color,Natural,ruby,5
+2,CB,CB20,Color,Natural,pearl,5
+2,CB,CB20,Color,ArtifactFC,go traffic,7
+2,CB,CB20,Color,ArtifactFC,fire truck,3
+2,CB,CB20,Color,ArtifactFC,basketball,5
+2,CB,CB20,Color,ArtifactFC,taxi cab,7
+2,CB,CB20,Color,ArtifactFC,police uniform,5
+2,CB,CB20,Color,ArtifactFC,dollar bill,
+2,CB,CB20,Color,ArtifactFC,tennis ball,3
+2,CB,CB20,Color,ArtifactFC,chalkboard,3
+2,CB,CB20,Color,ArtifactNFC,toilet,3
+2,CB,CB20,Color,ArtifactFC,street sign,3
+2,CB,CB20,Color,ArtifactNFC,pants,3
+2,CB,CB20,Color,ArtifactNFC,mug,3
+2,CB,CB20,Color,ArtifactNFC,book,3
+2,CB,CB20,Color,ArtifactNFC,purse,3
+2,CB,CB20,Color,ArtifactFC,crayon,5
+2,CB,CB20,Color,ArtifactNFC,lunch box,3
+2,CB,CB20,Color,ArtifactNFC,suitcase,3
+2,CB,CB20,Color,ArtifactNFC,couch,3
+2,CB,CB20,Color,ArtifactNFC,shoes,3
+2,CB,CB20,Color,ArtifactNFC,vacuum,3
+2,CB,CB20,Function,Natural,wood,3
+2,CB,CB20,Function,Natural,rock,5
+2,CB,CB20,Function,Natural,mud,5
+2,CB,CB20,Function,Natural,gold,3
+2,CB,CB20,Function,Natural,grass,3
+2,CB,CB20,Function,Natural,leaf,3
+2,CB,CB20,Function,Natural,tree bark,5
+2,CB,CB20,Function,Natural,water,3
+2,CB,CB20,Function,Natural,dirt,3
+2,CB,CB20,Function,Natural,flower,5
+2,CB,CB20,Function,Artifact,hole puncher,3
+2,CB,CB20,Function,Artifact,stapler,7
+2,CB,CB20,Function,Artifact,hammer,5
+2,CB,CB20,Function,Artifact,drill,5
+2,CB,CB20,Function,Artifact,iron,5
+2,CB,CB20,Function,Artifact,toaster,7
+2,CB,CB20,Function,Artifact,coffee maker,5
+2,CB,CB20,Function,Artifact,bed,7
+2,CB,CB20,Function,Artifact,pencil,7
+2,CB,CB20,Function,Artifact,bathtub,5
+2,CB,CB20,Filler,Natural,dog,1
+2,CB,CB20,Filler,Natural,pumpkin,3
+2,CB,CB20,Filler,Natural,cucumber,5
+2,CB,CB20,Filler,Natural,tree branch,3
+2,CB,CB20,Filler,Natural,pebble,5
+2,CB,CB20,Filler,Natural,seashell,5
+2,CB,CB20,Filler,Natural,orange,5
+2,CB,CB20,Filler,Natural,sand,3
+2,CB,CB20,Filler,Natural,watermelon,3
+2,CB,CB20,Filler,Natural,mouse,3
+2,CB,CB20,Filler,Natural,acorn,5
+2,CB,CB20,Filler,Natural,snake,3
+2,CB,CB20,Filler,Natural,pineapple,5
+2,CB,CB20,Filler,Artifact,chair,3
+2,CB,CB20,Filler,Artifact,coffee table,5
+2,CB,CB20,Filler,Artifact,knife,3
+2,CB,CB20,Filler,Artifact,rug,3
+2,CB,CB20,Filler,Artifact,coat,3
+2,CB,CB20,Filler,Artifact,bowl,3
+2,CB,CB20,Filler,Artifact,door,3
+2,S,S1,Color,Natural,strawberry,6
+2,S,S1,Color,Natural,banana,5
+2,S,S1,Color,Natural,broccoli,7
+2,S,S1,Color,Natural,lemon,5
+2,S,S1,Color,Natural,coal,7
+2,S,S1,Color,Natural,snow,6
+2,S,S1,Color,Natural,flamingo,6
+2,S,S1,Color,Natural,elephant,6
+2,S,S1,Color,Natural,ruby,6
+2,S,S1,Color,Natural,pearl,6
+2,S,S1,Color,ArtifactFC,go traffic,7
+2,S,S1,Color,ArtifactFC,fire truck,6
+2,S,S1,Color,ArtifactFC,basketball,5
+2,S,S1,Color,ArtifactFC,taxi cab,5
+2,S,S1,Color,ArtifactFC,police uniform,3
+2,S,S1,Color,ArtifactFC,dollar bill,7
+2,S,S1,Color,ArtifactFC,tennis ball,6
+2,S,S1,Color,ArtifactFC,chalkboard,5
+2,S,S1,Color,ArtifactNFC,toilet,6
+2,S,S1,Color,ArtifactFC,street sign,4
+2,S,S1,Color,ArtifactNFC,pants,3
+2,S,S1,Color,ArtifactNFC,mug,2
+2,S,S1,Color,ArtifactNFC,book,2
+2,S,S1,Color,ArtifactNFC,purse,2
+2,S,S1,Color,ArtifactFC,crayon,2
+2,S,S1,Color,ArtifactNFC,lunch box,2
+2,S,S1,Color,ArtifactNFC,suitcase,3
+2,S,S1,Color,ArtifactNFC,couch,3
+2,S,S1,Color,ArtifactNFC,shoes,2
+2,S,S1,Color,ArtifactNFC,vacuum,3
+2,S,S1,Function,Natural,wood,2
+2,S,S1,Function,Natural,rock,3
+2,S,S1,Function,Natural,mud,3
+2,S,S1,Function,Natural,gold,3
+2,S,S1,Function,Natural,grass,4
+2,S,S1,Function,Natural,leaf,3
+2,S,S1,Function,Natural,tree bark,2
+2,S,S1,Function,Natural,water,3
+2,S,S1,Function,Natural,dirt,3
+2,S,S1,Function,Natural,flower,3
+2,S,S1,Function,Artifact,hole puncher,6
+2,S,S1,Function,Artifact,stapler,5
+2,S,S1,Function,Artifact,hammer,5
+2,S,S1,Function,Artifact,drill,4
+2,S,S1,Function,Artifact,iron,7
+2,S,S1,Function,Artifact,toaster,4
+2,S,S1,Function,Artifact,coffee maker,6
+2,S,S1,Function,Artifact,bed,6
+2,S,S1,Function,Artifact,pencil,6
+2,S,S1,Function,Artifact,bathtub,5
+2,S,S1,Filler,Natural,dog,4
+2,S,S1,Filler,Natural,pumpkin,2
+2,S,S1,Filler,Natural,cucumber,5
+2,S,S1,Filler,Natural,tree branch,1
+2,S,S1,Filler,Natural,pebble,5
+2,S,S1,Filler,Natural,seashell,4
+2,S,S1,Filler,Natural,orange,6
+2,S,S1,Filler,Natural,sand,7
+2,S,S1,Filler,Natural,watermelon,4
+2,S,S1,Filler,Natural,mouse,6
+2,S,S1,Filler,Natural,acorn,5
+2,S,S1,Filler,Natural,snake,7
+2,S,S1,Filler,Natural,pineapple,6
+2,S,S1,Filler,Artifact,chair,4
+2,S,S1,Filler,Artifact,coffee table,3
+2,S,S1,Filler,Artifact,knife,3
+2,S,S1,Filler,Artifact,rug,4
+2,S,S1,Filler,Artifact,coat,3
+2,S,S1,Filler,Artifact,bowl,3
+2,S,S1,Filler,Artifact,door,5
+2,S,S2,Color,Natural,strawberry,7
+2,S,S2,Color,Natural,banana,5
+2,S,S2,Color,Natural,broccoli,7
+2,S,S2,Color,Natural,lemon,7
+2,S,S2,Color,Natural,coal,6
+2,S,S2,Color,Natural,snow,6
+2,S,S2,Color,Natural,flamingo,6
+2,S,S2,Color,Natural,elephant,5
+2,S,S2,Color,Natural,ruby,6
+2,S,S2,Color,Natural,pearl,6
+2,S,S2,Color,ArtifactFC,go traffic,7
+2,S,S2,Color,ArtifactFC,fire truck,7
+2,S,S2,Color,ArtifactFC,basketball,6
+2,S,S2,Color,ArtifactFC,taxi cab,5
+2,S,S2,Color,ArtifactFC,police uniform,4
+2,S,S2,Color,ArtifactFC,dollar bill,7
+2,S,S2,Color,ArtifactFC,tennis ball,6
+2,S,S2,Color,ArtifactFC,chalkboard,7
+2,S,S2,Color,ArtifactNFC,toilet,5
+2,S,S2,Color,ArtifactFC,street sign,3
+2,S,S2,Color,ArtifactNFC,pants,3
+2,S,S2,Color,ArtifactNFC,mug,2
+2,S,S2,Color,ArtifactNFC,book,1
+2,S,S2,Color,ArtifactNFC,purse,3
+2,S,S2,Color,ArtifactFC,crayon,1
+2,S,S2,Color,ArtifactNFC,lunch box,2
+2,S,S2,Color,ArtifactNFC,suitcase,3
+2,S,S2,Color,ArtifactNFC,couch,2
+2,S,S2,Color,ArtifactNFC,shoes,2
+2,S,S2,Color,ArtifactNFC,vacuum,3
+2,S,S2,Function,Natural,wood,4
+2,S,S2,Function,Natural,rock,4
+2,S,S2,Function,Natural,mud,2
+2,S,S2,Function,Natural,gold,2
+2,S,S2,Function,Natural,grass,7
+2,S,S2,Function,Natural,leaf,4
+2,S,S2,Function,Natural,tree bark,1
+2,S,S2,Function,Natural,water,2
+2,S,S2,Function,Natural,dirt,3
+2,S,S2,Function,Natural,flower,4
+2,S,S2,Function,Artifact,hole puncher,7
+2,S,S2,Function,Artifact,stapler,7
+2,S,S2,Function,Artifact,hammer,6
+2,S,S2,Function,Artifact,drill,7
+2,S,S2,Function,Artifact,iron,7
+2,S,S2,Function,Artifact,toaster,7
+2,S,S2,Function,Artifact,coffee maker,7
+2,S,S2,Function,Artifact,bed,6
+2,S,S2,Function,Artifact,pencil,7
+2,S,S2,Function,Artifact,bathtub,6
+2,S,S2,Filler,Natural,dog,4
+2,S,S2,Filler,Natural,pumpkin,1
+2,S,S2,Filler,Natural,cucumber,1
+2,S,S2,Filler,Natural,tree branch,1
+2,S,S2,Filler,Natural,pebble,4
+2,S,S2,Filler,Natural,seashell,1
+2,S,S2,Filler,Natural,orange,5
+2,S,S2,Filler,Natural,sand,7
+2,S,S2,Filler,Natural,watermelon,4
+2,S,S2,Filler,Natural,mouse,5
+2,S,S2,Filler,Natural,acorn,5
+2,S,S2,Filler,Natural,snake,7
+2,S,S2,Filler,Natural,pineapple,7
+2,S,S2,Filler,Artifact,chair,2
+2,S,S2,Filler,Artifact,coffee table,5
+2,S,S2,Filler,Artifact,knife,3
+2,S,S2,Filler,Artifact,rug,1
+2,S,S2,Filler,Artifact,coat,4
+2,S,S2,Filler,Artifact,bowl,2
+2,S,S2,Filler,Artifact,door,6
+2,S,S3,Color,Natural,strawberry,6
+2,S,S3,Color,Natural,banana,6
+2,S,S3,Color,Natural,broccoli,6
+2,S,S3,Color,Natural,lemon,6
+2,S,S3,Color,Natural,coal,7
+2,S,S3,Color,Natural,snow,7
+2,S,S3,Color,Natural,flamingo,6
+2,S,S3,Color,Natural,elephant,6
+2,S,S3,Color,Natural,ruby,7
+2,S,S3,Color,Natural,pearl,5
+2,S,S3,Color,ArtifactFC,go traffic,7
+2,S,S3,Color,ArtifactFC,fire truck,7
+2,S,S3,Color,ArtifactFC,basketball,6
+2,S,S3,Color,ArtifactFC,taxi cab,6
+2,S,S3,Color,ArtifactFC,police uniform,6
+2,S,S3,Color,ArtifactFC,dollar bill,7
+2,S,S3,Color,ArtifactFC,tennis ball,7
+2,S,S3,Color,ArtifactFC,chalkboard,4
+2,S,S3,Color,ArtifactNFC,toilet,6
+2,S,S3,Color,ArtifactFC,street sign,3
+2,S,S3,Color,ArtifactNFC,pants,3
+2,S,S3,Color,ArtifactNFC,mug,3
+2,S,S3,Color,ArtifactNFC,book,4
+2,S,S3,Color,ArtifactNFC,purse,4
+2,S,S3,Color,ArtifactFC,crayon,1
+2,S,S3,Color,ArtifactNFC,lunch box,4
+2,S,S3,Color,ArtifactNFC,suitcase,6
+2,S,S3,Color,ArtifactNFC,couch,4
+2,S,S3,Color,ArtifactNFC,shoes,3
+2,S,S3,Color,ArtifactNFC,vacuum,5
+2,S,S3,Function,Natural,wood,2
+2,S,S3,Function,Natural,rock,4
+2,S,S3,Function,Natural,mud,3
+2,S,S3,Function,Natural,gold,4
+2,S,S3,Function,Natural,grass,5
+2,S,S3,Function,Natural,leaf,5
+2,S,S3,Function,Natural,tree bark,3
+2,S,S3,Function,Natural,water,5
+2,S,S3,Function,Natural,dirt,4
+2,S,S3,Function,Natural,flower,4
+2,S,S3,Function,Artifact,hole puncher,7
+2,S,S3,Function,Artifact,stapler,7
+2,S,S3,Function,Artifact,hammer,6
+2,S,S3,Function,Artifact,drill,5
+2,S,S3,Function,Artifact,iron,6
+2,S,S3,Function,Artifact,toaster,6
+2,S,S3,Function,Artifact,coffee maker,7
+2,S,S3,Function,Artifact,bed,4
+2,S,S3,Function,Artifact,pencil,6
+2,S,S3,Function,Artifact,bathtub,3
+2,S,S3,Filler,Natural,dog,3
+2,S,S3,Filler,Natural,pumpkin,4
+2,S,S3,Filler,Natural,cucumber,5
+2,S,S3,Filler,Natural,tree branch,2
+2,S,S3,Filler,Natural,pebble,6
+2,S,S3,Filler,Natural,seashell,3
+2,S,S3,Filler,Natural,orange,6
+2,S,S3,Filler,Natural,sand,7
+2,S,S3,Filler,Natural,watermelon,3
+2,S,S3,Filler,Natural,mouse,7
+2,S,S3,Filler,Natural,acorn,6
+2,S,S3,Filler,Natural,snake,7
+2,S,S3,Filler,Natural,pineapple,7
+2,S,S3,Filler,Artifact,chair,4
+2,S,S3,Filler,Artifact,coffee table,5
+2,S,S3,Filler,Artifact,knife,3
+2,S,S3,Filler,Artifact,rug,4
+2,S,S3,Filler,Artifact,coat,5
+2,S,S3,Filler,Artifact,bowl,4
+2,S,S3,Filler,Artifact,door,5
+2,S,S4,Color,Natural,strawberry,6
+2,S,S4,Color,Natural,banana,6
+2,S,S4,Color,Natural,broccoli,6
+2,S,S4,Color,Natural,lemon,6
+2,S,S4,Color,Natural,coal,6
+2,S,S4,Color,Natural,snow,6
+2,S,S4,Color,Natural,flamingo,6
+2,S,S4,Color,Natural,elephant,6
+2,S,S4,Color,Natural,ruby,6
+2,S,S4,Color,Natural,pearl,5
+2,S,S4,Color,ArtifactFC,go traffic,7
+2,S,S4,Color,ArtifactFC,fire truck,6
+2,S,S4,Color,ArtifactFC,basketball,6
+2,S,S4,Color,ArtifactFC,taxi cab,5
+2,S,S4,Color,ArtifactFC,police uniform,6
+2,S,S4,Color,ArtifactFC,dollar bill,6
+2,S,S4,Color,ArtifactFC,tennis ball,6
+2,S,S4,Color,ArtifactFC,chalkboard,5
+2,S,S4,Color,ArtifactNFC,toilet,5
+2,S,S4,Color,ArtifactFC,street sign,5
+2,S,S4,Color,ArtifactNFC,pants,5
+2,S,S4,Color,ArtifactNFC,mug,3
+2,S,S4,Color,ArtifactNFC,book,3
+2,S,S4,Color,ArtifactNFC,purse,4
+2,S,S4,Color,ArtifactFC,crayon,2
+2,S,S4,Color,ArtifactNFC,lunch box,3
+2,S,S4,Color,ArtifactNFC,suitcase,5
+2,S,S4,Color,ArtifactNFC,couch,3
+2,S,S4,Color,ArtifactNFC,shoes,3
+2,S,S4,Color,ArtifactNFC,vacuum,3
+2,S,S4,Function,Natural,wood,4
+2,S,S4,Function,Natural,rock,4
+2,S,S4,Function,Natural,mud,4
+2,S,S4,Function,Natural,gold,5
+2,S,S4,Function,Natural,grass,4
+2,S,S4,Function,Natural,leaf,3
+2,S,S4,Function,Natural,tree bark,3
+2,S,S4,Function,Natural,water,5
+2,S,S4,Function,Natural,dirt,4
+2,S,S4,Function,Natural,flower,5
+2,S,S4,Function,Artifact,hole puncher,7
+2,S,S4,Function,Artifact,stapler,6
+2,S,S4,Function,Artifact,hammer,5
+2,S,S4,Function,Artifact,drill,5
+2,S,S4,Function,Artifact,iron,6
+2,S,S4,Function,Artifact,toaster,6
+2,S,S4,Function,Artifact,coffee maker,6
+2,S,S4,Function,Artifact,bed,5
+2,S,S4,Function,Artifact,pencil,6
+2,S,S4,Function,Artifact,bathtub,5
+2,S,S4,Filler,Natural,dog,3
+2,S,S4,Filler,Natural,pumpkin,3
+2,S,S4,Filler,Natural,cucumber,4
+2,S,S4,Filler,Natural,tree branch,2
+2,S,S4,Filler,Natural,pebble,6
+2,S,S4,Filler,Natural,seashell,4
+2,S,S4,Filler,Natural,orange,6
+2,S,S4,Filler,Natural,sand,6
+2,S,S4,Filler,Natural,watermelon,4
+2,S,S4,Filler,Natural,mouse,7
+2,S,S4,Filler,Natural,acorn,6
+2,S,S4,Filler,Natural,snake,6
+2,S,S4,Filler,Natural,pineapple,6
+2,S,S4,Filler,Artifact,chair,5
+2,S,S4,Filler,Artifact,coffee table,5
+2,S,S4,Filler,Artifact,knife,4
+2,S,S4,Filler,Artifact,rug,4
+2,S,S4,Filler,Artifact,coat,4
+2,S,S4,Filler,Artifact,bowl,4
+2,S,S4,Filler,Artifact,door,6
+2,S,S5,Color,Natural,strawberry,7
+2,S,S5,Color,Natural,banana,7
+2,S,S5,Color,Natural,broccoli,7
+2,S,S5,Color,Natural,lemon,7
+2,S,S5,Color,Natural,coal,7
+2,S,S5,Color,Natural,snow,7
+2,S,S5,Color,Natural,flamingo,7
+2,S,S5,Color,Natural,elephant,7
+2,S,S5,Color,Natural,ruby,7
+2,S,S5,Color,Natural,pearl,6
+2,S,S5,Color,ArtifactFC,go traffic,7
+2,S,S5,Color,ArtifactFC,fire truck,7
+2,S,S5,Color,ArtifactFC,basketball,7
+2,S,S5,Color,ArtifactFC,taxi cab,7
+2,S,S5,Color,ArtifactFC,police uniform,7
+2,S,S5,Color,ArtifactFC,dollar bill,7
+2,S,S5,Color,ArtifactFC,tennis ball,7
+2,S,S5,Color,ArtifactFC,chalkboard,7
+2,S,S5,Color,ArtifactNFC,toilet,7
+2,S,S5,Color,ArtifactFC,street sign,6
+2,S,S5,Color,ArtifactNFC,pants,5
+2,S,S5,Color,ArtifactNFC,mug,4
+2,S,S5,Color,ArtifactNFC,book,3
+2,S,S5,Color,ArtifactNFC,purse,6
+2,S,S5,Color,ArtifactFC,crayon,3
+2,S,S5,Color,ArtifactNFC,lunch box,6
+2,S,S5,Color,ArtifactNFC,suitcase,7
+2,S,S5,Color,ArtifactNFC,couch,5
+2,S,S5,Color,ArtifactNFC,shoes,5
+2,S,S5,Color,ArtifactNFC,vacuum,7
+2,S,S5,Function,Natural,wood,6
+2,S,S5,Function,Natural,rock,5
+2,S,S5,Function,Natural,mud,5
+2,S,S5,Function,Natural,gold,7
+2,S,S5,Function,Natural,grass,6
+2,S,S5,Function,Natural,leaf,5
+2,S,S5,Function,Natural,tree bark,5
+2,S,S5,Function,Natural,water,6
+2,S,S5,Function,Natural,dirt,7
+2,S,S5,Function,Natural,flower,5
+2,S,S5,Function,Artifact,hole puncher,7
+2,S,S5,Function,Artifact,stapler,7
+2,S,S5,Function,Artifact,hammer,7
+2,S,S5,Function,Artifact,drill,7
+2,S,S5,Function,Artifact,iron,7
+2,S,S5,Function,Artifact,toaster,7
+2,S,S5,Function,Artifact,coffee maker,7
+2,S,S5,Function,Artifact,bed,7
+2,S,S5,Function,Artifact,pencil,7
+2,S,S5,Function,Artifact,bathtub,7
+2,S,S5,Filler,Natural,dog,3
+2,S,S5,Filler,Natural,pumpkin,5
+2,S,S5,Filler,Natural,cucumber,6
+2,S,S5,Filler,Natural,tree branch,6
+2,S,S5,Filler,Natural,pebble,7
+2,S,S5,Filler,Natural,seashell,6
+2,S,S5,Filler,Natural,orange,6
+2,S,S5,Filler,Natural,sand,7
+2,S,S5,Filler,Natural,watermelon,7
+2,S,S5,Filler,Natural,mouse,7
+2,S,S5,Filler,Natural,acorn,7
+2,S,S5,Filler,Natural,snake,7
+2,S,S5,Filler,Natural,pineapple,7
+2,S,S5,Filler,Artifact,chair,5
+2,S,S5,Filler,Artifact,coffee table,7
+2,S,S5,Filler,Artifact,knife,5
+2,S,S5,Filler,Artifact,rug,6
+2,S,S5,Filler,Artifact,coat,6
+2,S,S5,Filler,Artifact,bowl,6
+2,S,S5,Filler,Artifact,door,7
+2,S,S6,Color,Natural,strawberry,7
+2,S,S6,Color,Natural,banana,7
+2,S,S6,Color,Natural,broccoli,7
+2,S,S6,Color,Natural,lemon,7
+2,S,S6,Color,Natural,coal,7
+2,S,S6,Color,Natural,snow,7
+2,S,S6,Color,Natural,flamingo,7
+2,S,S6,Color,Natural,elephant,7
+2,S,S6,Color,Natural,ruby,7
+2,S,S6,Color,Natural,pearl,7
+2,S,S6,Color,ArtifactFC,go traffic,7
+2,S,S6,Color,ArtifactFC,fire truck,6
+2,S,S6,Color,ArtifactFC,basketball,6
+2,S,S6,Color,ArtifactFC,taxi cab,6
+2,S,S6,Color,ArtifactFC,police uniform,7
+2,S,S6,Color,ArtifactFC,dollar bill,7
+2,S,S6,Color,ArtifactFC,tennis ball,5
+2,S,S6,Color,ArtifactFC,chalkboard,5
+2,S,S6,Color,ArtifactNFC,toilet,5
+2,S,S6,Color,ArtifactFC,street sign,5
+2,S,S6,Color,ArtifactNFC,pants,2
+2,S,S6,Color,ArtifactNFC,mug,3
+2,S,S6,Color,ArtifactNFC,book,1
+2,S,S6,Color,ArtifactNFC,purse,5
+2,S,S6,Color,ArtifactFC,crayon,1
+2,S,S6,Color,ArtifactNFC,lunch box,2
+2,S,S6,Color,ArtifactNFC,suitcase,5
+2,S,S6,Color,ArtifactNFC,couch,2
+2,S,S6,Color,ArtifactNFC,shoes,2
+2,S,S6,Color,ArtifactNFC,vacuum,5
+2,S,S6,Function,Natural,wood,1
+2,S,S6,Function,Natural,rock,1
+2,S,S6,Function,Natural,mud,7
+2,S,S6,Function,Natural,gold,5
+2,S,S6,Function,Natural,grass,6
+2,S,S6,Function,Natural,leaf,3
+2,S,S6,Function,Natural,tree bark,3
+2,S,S6,Function,Natural,water,1
+2,S,S6,Function,Natural,dirt,5
+2,S,S6,Function,Natural,flower,4
+2,S,S6,Function,Artifact,hole puncher,7
+2,S,S6,Function,Artifact,stapler,6
+2,S,S6,Function,Artifact,hammer,6
+2,S,S6,Function,Artifact,drill,1
+2,S,S6,Function,Artifact,iron,6
+2,S,S6,Function,Artifact,toaster,7
+2,S,S6,Function,Artifact,coffee maker,6
+2,S,S6,Function,Artifact,bed,6
+2,S,S6,Function,Artifact,pencil,4
+2,S,S6,Function,Artifact,bathtub,6
+2,S,S6,Filler,Natural,dog,2
+2,S,S6,Filler,Natural,pumpkin,5
+2,S,S6,Filler,Natural,cucumber,6
+2,S,S6,Filler,Natural,tree branch,1
+2,S,S6,Filler,Natural,pebble,5
+2,S,S6,Filler,Natural,seashell,2
+2,S,S6,Filler,Natural,orange,6
+2,S,S6,Filler,Natural,sand,7
+2,S,S6,Filler,Natural,watermelon,5
+2,S,S6,Filler,Natural,mouse,6
+2,S,S6,Filler,Natural,acorn,7
+2,S,S6,Filler,Natural,snake,7
+2,S,S6,Filler,Natural,pineapple,7
+2,S,S6,Filler,Artifact,chair,3
+2,S,S6,Filler,Artifact,coffee table,4
+2,S,S6,Filler,Artifact,knife,3
+2,S,S6,Filler,Artifact,rug,7
+2,S,S6,Filler,Artifact,coat,4
+2,S,S6,Filler,Artifact,bowl,4
+2,S,S6,Filler,Artifact,door,6
+2,S,S7,Color,Natural,strawberry,6
+2,S,S7,Color,Natural,banana,6
+2,S,S7,Color,Natural,broccoli,6
+2,S,S7,Color,Natural,lemon,6
+2,S,S7,Color,Natural,coal,7
+2,S,S7,Color,Natural,snow,7
+2,S,S7,Color,Natural,flamingo,6
+2,S,S7,Color,Natural,elephant,7
+2,S,S7,Color,Natural,ruby,6
+2,S,S7,Color,Natural,pearl,2
+2,S,S7,Color,ArtifactFC,go traffic,7
+2,S,S7,Color,ArtifactFC,fire truck,5
+2,S,S7,Color,ArtifactFC,basketball,7
+2,S,S7,Color,ArtifactFC,taxi cab,4
+2,S,S7,Color,ArtifactFC,police uniform,4
+2,S,S7,Color,ArtifactFC,dollar bill,7
+2,S,S7,Color,ArtifactFC,tennis ball,7
+2,S,S7,Color,ArtifactFC,chalkboard,4
+2,S,S7,Color,ArtifactNFC,toilet,6
+2,S,S7,Color,ArtifactFC,street sign,2
+2,S,S7,Color,ArtifactNFC,pants,3
+2,S,S7,Color,ArtifactNFC,mug,2
+2,S,S7,Color,ArtifactNFC,book,1
+2,S,S7,Color,ArtifactNFC,purse,2
+2,S,S7,Color,ArtifactFC,crayon,1
+2,S,S7,Color,ArtifactNFC,lunch box,2
+2,S,S7,Color,ArtifactNFC,suitcase,5
+2,S,S7,Color,ArtifactNFC,couch,1
+2,S,S7,Color,ArtifactNFC,shoes,2
+2,S,S7,Color,ArtifactNFC,vacuum,3
+2,S,S7,Function,Natural,wood,3
+2,S,S7,Function,Natural,rock,2
+2,S,S7,Function,Natural,mud,1
+2,S,S7,Function,Natural,gold,3
+2,S,S7,Function,Natural,grass,4
+2,S,S7,Function,Natural,leaf,1
+2,S,S7,Function,Natural,tree bark,1
+2,S,S7,Function,Natural,water,4
+2,S,S7,Function,Natural,dirt,2
+2,S,S7,Function,Natural,flower,1
+2,S,S7,Function,Artifact,hole puncher,7
+2,S,S7,Function,Artifact,stapler,7
+2,S,S7,Function,Artifact,hammer,5
+2,S,S7,Function,Artifact,drill,7
+2,S,S7,Function,Artifact,iron,6
+2,S,S7,Function,Artifact,toaster,4
+2,S,S7,Function,Artifact,coffee maker,6
+2,S,S7,Function,Artifact,bed,2
+2,S,S7,Function,Artifact,pencil,5
+2,S,S7,Function,Artifact,bathtub,4
+2,S,S7,Filler,Natural,dog,1
+2,S,S7,Filler,Natural,pumpkin,1
+2,S,S7,Filler,Natural,cucumber,3
+2,S,S7,Filler,Natural,tree branch,1
+2,S,S7,Filler,Natural,pebble,5
+2,S,S7,Filler,Natural,seashell,3
+2,S,S7,Filler,Natural,orange,6
+2,S,S7,Filler,Natural,sand,5
+2,S,S7,Filler,Natural,watermelon,4
+2,S,S7,Filler,Natural,mouse,6
+2,S,S7,Filler,Natural,acorn,6
+2,S,S7,Filler,Natural,snake,6
+2,S,S7,Filler,Natural,pineapple,6
+2,S,S7,Filler,Artifact,chair,6
+2,S,S7,Filler,Artifact,coffee table,2
+2,S,S7,Filler,Artifact,knife,2
+2,S,S7,Filler,Artifact,rug,3
+2,S,S7,Filler,Artifact,coat,3
+2,S,S7,Filler,Artifact,bowl,3
+2,S,S7,Filler,Artifact,door,5
+2,S,S8,Color,Natural,strawberry,7
+2,S,S8,Color,Natural,banana,1
+2,S,S8,Color,Natural,broccoli,2
+2,S,S8,Color,Natural,lemon,7
+2,S,S8,Color,Natural,coal,7
+2,S,S8,Color,Natural,snow,7
+2,S,S8,Color,Natural,flamingo,4
+2,S,S8,Color,Natural,elephant,4
+2,S,S8,Color,Natural,ruby,5
+2,S,S8,Color,Natural,pearl,2
+2,S,S8,Color,ArtifactFC,go traffic,7
+2,S,S8,Color,ArtifactFC,fire truck,7
+2,S,S8,Color,ArtifactFC,basketball,5
+2,S,S8,Color,ArtifactFC,taxi cab,5
+2,S,S8,Color,ArtifactFC,police uniform,7
+2,S,S8,Color,ArtifactFC,dollar bill,7
+2,S,S8,Color,ArtifactFC,tennis ball,6
+2,S,S8,Color,ArtifactFC,chalkboard,7
+2,S,S8,Color,ArtifactNFC,toilet,7
+2,S,S8,Color,ArtifactFC,street sign,1
+2,S,S8,Color,ArtifactNFC,pants,5
+2,S,S8,Color,ArtifactNFC,mug,7
+2,S,S8,Color,ArtifactNFC,book,3
+2,S,S8,Color,ArtifactNFC,purse,7
+2,S,S8,Color,ArtifactFC,crayon,1
+2,S,S8,Color,ArtifactNFC,lunch box,6
+2,S,S8,Color,ArtifactNFC,suitcase,5
+2,S,S8,Color,ArtifactNFC,couch,1
+2,S,S8,Color,ArtifactNFC,shoes,5
+2,S,S8,Color,ArtifactNFC,vacuum,7
+2,S,S8,Function,Natural,wood,1
+2,S,S8,Function,Natural,rock,2
+2,S,S8,Function,Natural,mud,1
+2,S,S8,Function,Natural,gold,1
+2,S,S8,Function,Natural,grass,6
+2,S,S8,Function,Natural,leaf,4
+2,S,S8,Function,Natural,tree bark,1
+2,S,S8,Function,Natural,water,5
+2,S,S8,Function,Natural,dirt,5
+2,S,S8,Function,Natural,flower,3
+2,S,S8,Function,Artifact,hole puncher,2
+2,S,S8,Function,Artifact,stapler,2
+2,S,S8,Function,Artifact,hammer,1
+2,S,S8,Function,Artifact,drill,2
+2,S,S8,Function,Artifact,iron,3
+2,S,S8,Function,Artifact,toaster,7
+2,S,S8,Function,Artifact,coffee maker,2
+2,S,S8,Function,Artifact,bed,5
+2,S,S8,Function,Artifact,pencil,7
+2,S,S8,Function,Artifact,bathtub,2
+2,S,S8,Filler,Natural,dog,1
+2,S,S8,Filler,Natural,pumpkin,2
+2,S,S8,Filler,Natural,cucumber,4
+2,S,S8,Filler,Natural,tree branch,1
+2,S,S8,Filler,Natural,pebble,2
+2,S,S8,Filler,Natural,seashell,4
+2,S,S8,Filler,Natural,orange,6
+2,S,S8,Filler,Natural,sand,7
+2,S,S8,Filler,Natural,watermelon,3
+2,S,S8,Filler,Natural,mouse,4
+2,S,S8,Filler,Natural,acorn,6
+2,S,S8,Filler,Natural,snake,1
+2,S,S8,Filler,Natural,pineapple,7
+2,S,S8,Filler,Artifact,chair,1
+2,S,S8,Filler,Artifact,coffee table,5
+2,S,S8,Filler,Artifact,knife,4
+2,S,S8,Filler,Artifact,rug,5
+2,S,S8,Filler,Artifact,coat,4
+2,S,S8,Filler,Artifact,bowl,5
+2,S,S8,Filler,Artifact,door,5
+2,S,S9,Color,Natural,strawberry,6
+2,S,S9,Color,Natural,banana,6
+2,S,S9,Color,Natural,broccoli,7
+2,S,S9,Color,Natural,lemon,6
+2,S,S9,Color,Natural,coal,7
+2,S,S9,Color,Natural,snow,6
+2,S,S9,Color,Natural,flamingo,6
+2,S,S9,Color,Natural,elephant,7
+2,S,S9,Color,Natural,ruby,6
+2,S,S9,Color,Natural,pearl,6
+2,S,S9,Color,ArtifactFC,go traffic,7
+2,S,S9,Color,ArtifactFC,fire truck,7
+2,S,S9,Color,ArtifactFC,basketball,5
+2,S,S9,Color,ArtifactFC,taxi cab,3
+2,S,S9,Color,ArtifactFC,police uniform,5
+2,S,S9,Color,ArtifactFC,dollar bill,
+2,S,S9,Color,ArtifactFC,tennis ball,6
+2,S,S9,Color,ArtifactFC,chalkboard,6
+2,S,S9,Color,ArtifactNFC,toilet,4
+2,S,S9,Color,ArtifactFC,street sign,4
+2,S,S9,Color,ArtifactNFC,pants,4
+2,S,S9,Color,ArtifactNFC,mug,4
+2,S,S9,Color,ArtifactNFC,book,2
+2,S,S9,Color,ArtifactNFC,purse,5
+2,S,S9,Color,ArtifactFC,crayon,2
+2,S,S9,Color,ArtifactNFC,lunch box,3
+2,S,S9,Color,ArtifactNFC,suitcase,5
+2,S,S9,Color,ArtifactNFC,couch,2
+2,S,S9,Color,ArtifactNFC,shoes,5
+2,S,S9,Color,ArtifactNFC,vacuum,4
+2,S,S9,Function,Natural,wood,3
+2,S,S9,Function,Natural,rock,4
+2,S,S9,Function,Natural,mud,5
+2,S,S9,Function,Natural,gold,3
+2,S,S9,Function,Natural,grass,5
+2,S,S9,Function,Natural,leaf,2
+2,S,S9,Function,Natural,tree bark,3
+2,S,S9,Function,Natural,water,5
+2,S,S9,Function,Natural,dirt,4
+2,S,S9,Function,Natural,flower,3
+2,S,S9,Function,Artifact,hole puncher,6
+2,S,S9,Function,Artifact,stapler,6
+2,S,S9,Function,Artifact,hammer,6
+2,S,S9,Function,Artifact,drill,6
+2,S,S9,Function,Artifact,iron,6
+2,S,S9,Function,Artifact,toaster,6
+2,S,S9,Function,Artifact,coffee maker,6
+2,S,S9,Function,Artifact,bed,3
+2,S,S9,Function,Artifact,pencil,4
+2,S,S9,Function,Artifact,bathtub,5
+2,S,S9,Filler,Natural,dog,2
+2,S,S9,Filler,Natural,pumpkin,4
+2,S,S9,Filler,Natural,cucumber,3
+2,S,S9,Filler,Natural,tree branch,2
+2,S,S9,Filler,Natural,pebble,3
+2,S,S9,Filler,Natural,seashell,2
+2,S,S9,Filler,Natural,orange,5
+2,S,S9,Filler,Natural,sand,6
+2,S,S9,Filler,Natural,watermelon,3
+2,S,S9,Filler,Natural,mouse,6
+2,S,S9,Filler,Natural,acorn,5
+2,S,S9,Filler,Natural,snake,6
+2,S,S9,Filler,Natural,pineapple,7
+2,S,S9,Filler,Artifact,chair,3
+2,S,S9,Filler,Artifact,coffee table,5
+2,S,S9,Filler,Artifact,knife,2
+2,S,S9,Filler,Artifact,rug,5
+2,S,S9,Filler,Artifact,coat,5
+2,S,S9,Filler,Artifact,bowl,2
+2,S,S9,Filler,Artifact,door,5
+2,S,S10,Color,Natural,strawberry,7
+2,S,S10,Color,Natural,banana,6
+2,S,S10,Color,Natural,broccoli,7
+2,S,S10,Color,Natural,lemon,7
+2,S,S10,Color,Natural,coal,7
+2,S,S10,Color,Natural,snow,7
+2,S,S10,Color,Natural,flamingo,7
+2,S,S10,Color,Natural,elephant,5
+2,S,S10,Color,Natural,ruby,7
+2,S,S10,Color,Natural,pearl,5
+2,S,S10,Color,ArtifactFC,go traffic,7
+2,S,S10,Color,ArtifactFC,fire truck,7
+2,S,S10,Color,ArtifactFC,basketball,6
+2,S,S10,Color,ArtifactFC,taxi cab,5
+2,S,S10,Color,ArtifactFC,police uniform,5
+2,S,S10,Color,ArtifactFC,dollar bill,
+2,S,S10,Color,ArtifactFC,tennis ball,6
+2,S,S10,Color,ArtifactFC,chalkboard,6
+2,S,S10,Color,ArtifactNFC,toilet,6
+2,S,S10,Color,ArtifactFC,street sign,3
+2,S,S10,Color,ArtifactNFC,pants,3
+2,S,S10,Color,ArtifactNFC,mug,2
+2,S,S10,Color,ArtifactNFC,book,1
+2,S,S10,Color,ArtifactNFC,purse,3
+2,S,S10,Color,ArtifactFC,crayon,1
+2,S,S10,Color,ArtifactNFC,lunch box,1
+2,S,S10,Color,ArtifactNFC,suitcase,3
+2,S,S10,Color,ArtifactNFC,couch,1
+2,S,S10,Color,ArtifactNFC,shoes,2
+2,S,S10,Color,ArtifactNFC,vacuum,3
+2,S,S10,Function,Natural,wood,5
+2,S,S10,Function,Natural,rock,4
+2,S,S10,Function,Natural,mud,5
+2,S,S10,Function,Natural,gold,4
+2,S,S10,Function,Natural,grass,2
+2,S,S10,Function,Natural,leaf,5
+2,S,S10,Function,Natural,tree bark,5
+2,S,S10,Function,Natural,water,6
+2,S,S10,Function,Natural,dirt,2
+2,S,S10,Function,Natural,flower,5
+2,S,S10,Function,Artifact,hole puncher,5
+2,S,S10,Function,Artifact,stapler,7
+2,S,S10,Function,Artifact,hammer,5
+2,S,S10,Function,Artifact,drill,5
+2,S,S10,Function,Artifact,iron,6
+2,S,S10,Function,Artifact,toaster,6
+2,S,S10,Function,Artifact,coffee maker,6
+2,S,S10,Function,Artifact,bed,6
+2,S,S10,Function,Artifact,pencil,6
+2,S,S10,Function,Artifact,bathtub,6
+2,S,S10,Filler,Natural,dog,2
+2,S,S10,Filler,Natural,pumpkin,2
+2,S,S10,Filler,Natural,cucumber,4
+2,S,S10,Filler,Natural,tree branch,2
+2,S,S10,Filler,Natural,pebble,4
+2,S,S10,Filler,Natural,seashell,5
+2,S,S10,Filler,Natural,orange,7
+2,S,S10,Filler,Natural,sand,7
+2,S,S10,Filler,Natural,watermelon,4
+2,S,S10,Filler,Natural,mouse,5
+2,S,S10,Filler,Natural,acorn,7
+2,S,S10,Filler,Natural,snake,5
+2,S,S10,Filler,Natural,pineapple,7
+2,S,S10,Filler,Artifact,chair,5
+2,S,S10,Filler,Artifact,coffee table,4
+2,S,S10,Filler,Artifact,knife,3
+2,S,S10,Filler,Artifact,rug,4
+2,S,S10,Filler,Artifact,coat,5
+2,S,S10,Filler,Artifact,bowl,1
+2,S,S10,Filler,Artifact,door,5
+2,S,S11,Color,Natural,strawberry,5
+2,S,S11,Color,Natural,banana,6
+2,S,S11,Color,Natural,broccoli,7
+2,S,S11,Color,Natural,lemon,7
+2,S,S11,Color,Natural,coal,7
+2,S,S11,Color,Natural,snow,7
+2,S,S11,Color,Natural,flamingo,6
+2,S,S11,Color,Natural,elephant,7
+2,S,S11,Color,Natural,ruby,7
+2,S,S11,Color,Natural,pearl,7
+2,S,S11,Color,ArtifactFC,go traffic,7
+2,S,S11,Color,ArtifactFC,fire truck,7
+2,S,S11,Color,ArtifactFC,basketball,6
+2,S,S11,Color,ArtifactFC,taxi cab,6
+2,S,S11,Color,ArtifactFC,police uniform,7
+2,S,S11,Color,ArtifactFC,dollar bill,
+2,S,S11,Color,ArtifactFC,tennis ball,5
+2,S,S11,Color,ArtifactFC,chalkboard,5
+2,S,S11,Color,ArtifactNFC,toilet,6
+2,S,S11,Color,ArtifactFC,street sign,2
+2,S,S11,Color,ArtifactNFC,pants,1
+2,S,S11,Color,ArtifactNFC,mug,1
+2,S,S11,Color,ArtifactNFC,book,2
+2,S,S11,Color,ArtifactNFC,purse,1
+2,S,S11,Color,ArtifactFC,crayon,4
+2,S,S11,Color,ArtifactNFC,lunch box,1
+2,S,S11,Color,ArtifactNFC,suitcase,2
+2,S,S11,Color,ArtifactNFC,couch,2
+2,S,S11,Color,ArtifactNFC,shoes,2
+2,S,S11,Color,ArtifactNFC,vacuum,3
+2,S,S11,Function,Natural,wood,4
+2,S,S11,Function,Natural,rock,5
+2,S,S11,Function,Natural,mud,4
+2,S,S11,Function,Natural,gold,5
+2,S,S11,Function,Natural,grass,3
+2,S,S11,Function,Natural,leaf,3
+2,S,S11,Function,Natural,tree bark,1
+2,S,S11,Function,Natural,water,5
+2,S,S11,Function,Natural,dirt,4
+2,S,S11,Function,Natural,flower,5
+2,S,S11,Function,Artifact,hole puncher,7
+2,S,S11,Function,Artifact,stapler,7
+2,S,S11,Function,Artifact,hammer,4
+2,S,S11,Function,Artifact,drill,6
+2,S,S11,Function,Artifact,iron,7
+2,S,S11,Function,Artifact,toaster,6
+2,S,S11,Function,Artifact,coffee maker,7
+2,S,S11,Function,Artifact,bed,6
+2,S,S11,Function,Artifact,pencil,4
+2,S,S11,Function,Artifact,bathtub,6
+2,S,S11,Filler,Natural,dog,1
+2,S,S11,Filler,Natural,pumpkin,2
+2,S,S11,Filler,Natural,cucumber,5
+2,S,S11,Filler,Natural,tree branch,2
+2,S,S11,Filler,Natural,pebble,1
+2,S,S11,Filler,Natural,seashell,5
+2,S,S11,Filler,Natural,orange,6
+2,S,S11,Filler,Natural,sand,5
+2,S,S11,Filler,Natural,watermelon,3
+2,S,S11,Filler,Natural,mouse,7
+2,S,S11,Filler,Natural,acorn,7
+2,S,S11,Filler,Natural,snake,3
+2,S,S11,Filler,Natural,pineapple,7
+2,S,S11,Filler,Artifact,chair,4
+2,S,S11,Filler,Artifact,coffee table,3
+2,S,S11,Filler,Artifact,knife,2
+2,S,S11,Filler,Artifact,rug,4
+2,S,S11,Filler,Artifact,coat,1
+2,S,S11,Filler,Artifact,bowl,4
+2,S,S11,Filler,Artifact,door,5
+2,S,S12,Color,Natural,strawberry,7
+2,S,S12,Color,Natural,banana,4
+2,S,S12,Color,Natural,broccoli,7
+2,S,S12,Color,Natural,lemon,7
+2,S,S12,Color,Natural,coal,6
+2,S,S12,Color,Natural,snow,7
+2,S,S12,Color,Natural,flamingo,6
+2,S,S12,Color,Natural,elephant,7
+2,S,S12,Color,Natural,ruby,6
+2,S,S12,Color,Natural,pearl,2
+2,S,S12,Color,ArtifactFC,go traffic,7
+2,S,S12,Color,ArtifactFC,fire truck,7
+2,S,S12,Color,ArtifactFC,basketball,5
+2,S,S12,Color,ArtifactFC,taxi cab,5
+2,S,S12,Color,ArtifactFC,police uniform,5
+2,S,S12,Color,ArtifactFC,dollar bill,
+2,S,S12,Color,ArtifactFC,tennis ball,4
+2,S,S12,Color,ArtifactFC,chalkboard,4
+2,S,S12,Color,ArtifactNFC,toilet,5
+2,S,S12,Color,ArtifactFC,street sign,4
+2,S,S12,Color,ArtifactNFC,pants,3
+2,S,S12,Color,ArtifactNFC,mug,2
+2,S,S12,Color,ArtifactNFC,book,3
+2,S,S12,Color,ArtifactNFC,purse,1
+2,S,S12,Color,ArtifactFC,crayon,2
+2,S,S12,Color,ArtifactNFC,lunch box,2
+2,S,S12,Color,ArtifactNFC,suitcase,4
+2,S,S12,Color,ArtifactNFC,couch,3
+2,S,S12,Color,ArtifactNFC,shoes,2
+2,S,S12,Color,ArtifactNFC,vacuum,1
+2,S,S12,Function,Natural,wood,3
+2,S,S12,Function,Natural,rock,3
+2,S,S12,Function,Natural,mud,4
+2,S,S12,Function,Natural,gold,2
+2,S,S12,Function,Natural,grass,3
+2,S,S12,Function,Natural,leaf,2
+2,S,S12,Function,Natural,tree bark,2
+2,S,S12,Function,Natural,water,3
+2,S,S12,Function,Natural,dirt,2
+2,S,S12,Function,Natural,flower,2
+2,S,S12,Function,Artifact,hole puncher,7
+2,S,S12,Function,Artifact,stapler,5
+2,S,S12,Function,Artifact,hammer,4
+2,S,S12,Function,Artifact,drill,4
+2,S,S12,Function,Artifact,iron,6
+2,S,S12,Function,Artifact,toaster,4
+2,S,S12,Function,Artifact,coffee maker,7
+2,S,S12,Function,Artifact,bed,5
+2,S,S12,Function,Artifact,pencil,6
+2,S,S12,Function,Artifact,bathtub,5
+2,S,S12,Filler,Natural,dog,1
+2,S,S12,Filler,Natural,pumpkin,2
+2,S,S12,Filler,Natural,cucumber,1
+2,S,S12,Filler,Natural,tree branch,1
+2,S,S12,Filler,Natural,pebble,5
+2,S,S12,Filler,Natural,seashell,3
+2,S,S12,Filler,Natural,orange,3
+2,S,S12,Filler,Natural,sand,6
+2,S,S12,Filler,Natural,watermelon,4
+2,S,S12,Filler,Natural,mouse,3
+2,S,S12,Filler,Natural,acorn,6
+2,S,S12,Filler,Natural,snake,4
+2,S,S12,Filler,Natural,pineapple,5
+2,S,S12,Filler,Artifact,chair,2
+2,S,S12,Filler,Artifact,coffee table,5
+2,S,S12,Filler,Artifact,knife,3
+2,S,S12,Filler,Artifact,rug,3
+2,S,S12,Filler,Artifact,coat,3
+2,S,S12,Filler,Artifact,bowl,2
+2,S,S12,Filler,Artifact,door,5
+2,S,S13,Color,Natural,strawberry,6
+2,S,S13,Color,Natural,banana,4
+2,S,S13,Color,Natural,broccoli,6
+2,S,S13,Color,Natural,lemon,7
+2,S,S13,Color,Natural,coal,7
+2,S,S13,Color,Natural,snow,6
+2,S,S13,Color,Natural,flamingo,6
+2,S,S13,Color,Natural,elephant,5
+2,S,S13,Color,Natural,ruby,7
+2,S,S13,Color,Natural,pearl,6
+2,S,S13,Color,ArtifactFC,go traffic,7
+2,S,S13,Color,ArtifactFC,fire truck,6
+2,S,S13,Color,ArtifactFC,basketball,5
+2,S,S13,Color,ArtifactFC,taxi cab,5
+2,S,S13,Color,ArtifactFC,police uniform,5
+2,S,S13,Color,ArtifactFC,dollar bill,
+2,S,S13,Color,ArtifactFC,tennis ball,5
+2,S,S13,Color,ArtifactFC,chalkboard,6
+2,S,S13,Color,ArtifactNFC,toilet,6
+2,S,S13,Color,ArtifactFC,street sign,4
+2,S,S13,Color,ArtifactNFC,pants,3
+2,S,S13,Color,ArtifactNFC,mug,2
+2,S,S13,Color,ArtifactNFC,book,3
+2,S,S13,Color,ArtifactNFC,purse,3
+2,S,S13,Color,ArtifactFC,crayon,3
+2,S,S13,Color,ArtifactNFC,lunch box,1
+2,S,S13,Color,ArtifactNFC,suitcase,4
+2,S,S13,Color,ArtifactNFC,couch,4
+2,S,S13,Color,ArtifactNFC,shoes,2
+2,S,S13,Color,ArtifactNFC,vacuum,4
+2,S,S13,Function,Natural,wood,4
+2,S,S13,Function,Natural,rock,5
+2,S,S13,Function,Natural,mud,2
+2,S,S13,Function,Natural,gold,2
+2,S,S13,Function,Natural,grass,7
+2,S,S13,Function,Natural,leaf,2
+2,S,S13,Function,Natural,tree bark,2
+2,S,S13,Function,Natural,water,1
+2,S,S13,Function,Natural,dirt,4
+2,S,S13,Function,Natural,flower,5
+2,S,S13,Function,Artifact,hole puncher,7
+2,S,S13,Function,Artifact,stapler,7
+2,S,S13,Function,Artifact,hammer,1
+2,S,S13,Function,Artifact,drill,5
+2,S,S13,Function,Artifact,iron,7
+2,S,S13,Function,Artifact,toaster,7
+2,S,S13,Function,Artifact,coffee maker,6
+2,S,S13,Function,Artifact,bed,5
+2,S,S13,Function,Artifact,pencil,6
+2,S,S13,Function,Artifact,bathtub,6
+2,S,S13,Filler,Natural,dog,4
+2,S,S13,Filler,Natural,pumpkin,5
+2,S,S13,Filler,Natural,cucumber,2
+2,S,S13,Filler,Natural,tree branch,1
+2,S,S13,Filler,Natural,pebble,2
+2,S,S13,Filler,Natural,seashell,3
+2,S,S13,Filler,Natural,orange,6
+2,S,S13,Filler,Natural,sand,5
+2,S,S13,Filler,Natural,watermelon,5
+2,S,S13,Filler,Natural,mouse,1
+2,S,S13,Filler,Natural,acorn,6
+2,S,S13,Filler,Natural,snake,6
+2,S,S13,Filler,Natural,pineapple,7
+2,S,S13,Filler,Artifact,chair,4
+2,S,S13,Filler,Artifact,coffee table,5
+2,S,S13,Filler,Artifact,knife,3
+2,S,S13,Filler,Artifact,rug,3
+2,S,S13,Filler,Artifact,coat,5
+2,S,S13,Filler,Artifact,bowl,4
+2,S,S13,Filler,Artifact,door,6
+2,S,S14,Color,Natural,strawberry,7
+2,S,S14,Color,Natural,banana,7
+2,S,S14,Color,Natural,broccoli,7
+2,S,S14,Color,Natural,lemon,7
+2,S,S14,Color,Natural,coal,6
+2,S,S14,Color,Natural,snow,6
+2,S,S14,Color,Natural,flamingo,7
+2,S,S14,Color,Natural,elephant,7
+2,S,S14,Color,Natural,ruby,4
+2,S,S14,Color,Natural,pearl,7
+2,S,S14,Color,ArtifactFC,go traffic,7
+2,S,S14,Color,ArtifactFC,fire truck,7
+2,S,S14,Color,ArtifactFC,basketball,3
+2,S,S14,Color,ArtifactFC,taxi cab,5
+2,S,S14,Color,ArtifactFC,police uniform,7
+2,S,S14,Color,ArtifactFC,dollar bill,
+2,S,S14,Color,ArtifactFC,tennis ball,7
+2,S,S14,Color,ArtifactFC,chalkboard,5
+2,S,S14,Color,ArtifactNFC,toilet,7
+2,S,S14,Color,ArtifactFC,street sign,6
+2,S,S14,Color,ArtifactNFC,pants,6
+2,S,S14,Color,ArtifactNFC,mug,3
+2,S,S14,Color,ArtifactNFC,book,1
+2,S,S14,Color,ArtifactNFC,purse,1
+2,S,S14,Color,ArtifactFC,crayon,2
+2,S,S14,Color,ArtifactNFC,lunch box,1
+2,S,S14,Color,ArtifactNFC,suitcase,6
+2,S,S14,Color,ArtifactNFC,couch,1
+2,S,S14,Color,ArtifactNFC,shoes,4
+2,S,S14,Color,ArtifactNFC,vacuum,4
+2,S,S14,Function,Natural,wood,2
+2,S,S14,Function,Natural,rock,5
+2,S,S14,Function,Natural,mud,2
+2,S,S14,Function,Natural,gold,2
+2,S,S14,Function,Natural,grass,3
+2,S,S14,Function,Natural,leaf,1
+2,S,S14,Function,Natural,tree bark,1
+2,S,S14,Function,Natural,water,2
+2,S,S14,Function,Natural,dirt,6
+2,S,S14,Function,Natural,flower,3
+2,S,S14,Function,Artifact,hole puncher,7
+2,S,S14,Function,Artifact,stapler,7
+2,S,S14,Function,Artifact,hammer,6
+2,S,S14,Function,Artifact,drill,7
+2,S,S14,Function,Artifact,iron,7
+2,S,S14,Function,Artifact,toaster,7
+2,S,S14,Function,Artifact,coffee maker,2
+2,S,S14,Function,Artifact,bed,6
+2,S,S14,Function,Artifact,pencil,1
+2,S,S14,Function,Artifact,bathtub,5
+2,S,S14,Filler,Natural,dog,1
+2,S,S14,Filler,Natural,pumpkin,1
+2,S,S14,Filler,Natural,cucumber,2
+2,S,S14,Filler,Natural,tree branch,2
+2,S,S14,Filler,Natural,pebble,2
+2,S,S14,Filler,Natural,seashell,1
+2,S,S14,Filler,Natural,orange,3
+2,S,S14,Filler,Natural,sand,3
+2,S,S14,Filler,Natural,watermelon,6
+2,S,S14,Filler,Natural,mouse,5
+2,S,S14,Filler,Natural,acorn,7
+2,S,S14,Filler,Natural,snake,2
+2,S,S14,Filler,Natural,pineapple,5
+2,S,S14,Filler,Artifact,chair,5
+2,S,S14,Filler,Artifact,coffee table,5
+2,S,S14,Filler,Artifact,knife,4
+2,S,S14,Filler,Artifact,rug,1
+2,S,S14,Filler,Artifact,coat,1
+2,S,S14,Filler,Artifact,bowl,6
+2,S,S14,Filler,Artifact,door,7
+2,S,S15,Color,Natural,strawberry,6
+2,S,S15,Color,Natural,banana,7
+2,S,S15,Color,Natural,broccoli,7
+2,S,S15,Color,Natural,lemon,7
+2,S,S15,Color,Natural,coal,7
+2,S,S15,Color,Natural,snow,6
+2,S,S15,Color,Natural,flamingo,6
+2,S,S15,Color,Natural,elephant,6
+2,S,S15,Color,Natural,ruby,6
+2,S,S15,Color,Natural,pearl,6
+2,S,S15,Color,ArtifactFC,go traffic,7
+2,S,S15,Color,ArtifactFC,fire truck,7
+2,S,S15,Color,ArtifactFC,basketball,4
+2,S,S15,Color,ArtifactFC,taxi cab,3
+2,S,S15,Color,ArtifactFC,police uniform,6
+2,S,S15,Color,ArtifactFC,dollar bill,
+2,S,S15,Color,ArtifactFC,tennis ball,5
+2,S,S15,Color,ArtifactFC,chalkboard,5
+2,S,S15,Color,ArtifactNFC,toilet,6
+2,S,S15,Color,ArtifactFC,street sign,2
+2,S,S15,Color,ArtifactNFC,pants,3
+2,S,S15,Color,ArtifactNFC,mug,1
+2,S,S15,Color,ArtifactNFC,book,1
+2,S,S15,Color,ArtifactNFC,purse,2
+2,S,S15,Color,ArtifactFC,crayon,2
+2,S,S15,Color,ArtifactNFC,lunch box,1
+2,S,S15,Color,ArtifactNFC,suitcase,5
+2,S,S15,Color,ArtifactNFC,couch,1
+2,S,S15,Color,ArtifactNFC,shoes,2
+2,S,S15,Color,ArtifactNFC,vacuum,1
+2,S,S15,Function,Natural,wood,2
+2,S,S15,Function,Natural,rock,6
+2,S,S15,Function,Natural,mud,2
+2,S,S15,Function,Natural,gold,1
+2,S,S15,Function,Natural,grass,5
+2,S,S15,Function,Natural,leaf,4
+2,S,S15,Function,Natural,tree bark,3
+2,S,S15,Function,Natural,water,4
+2,S,S15,Function,Natural,dirt,5
+2,S,S15,Function,Natural,flower,6
+2,S,S15,Function,Artifact,hole puncher,7
+2,S,S15,Function,Artifact,stapler,7
+2,S,S15,Function,Artifact,hammer,7
+2,S,S15,Function,Artifact,drill,7
+2,S,S15,Function,Artifact,iron,7
+2,S,S15,Function,Artifact,toaster,7
+2,S,S15,Function,Artifact,coffee maker,7
+2,S,S15,Function,Artifact,bed,4
+2,S,S15,Function,Artifact,pencil,6
+2,S,S15,Function,Artifact,bathtub,6
+2,S,S15,Filler,Natural,dog,1
+2,S,S15,Filler,Natural,pumpkin,1
+2,S,S15,Filler,Natural,cucumber,4
+2,S,S15,Filler,Natural,tree branch,1
+2,S,S15,Filler,Natural,pebble,1
+2,S,S15,Filler,Natural,seashell,4
+2,S,S15,Filler,Natural,orange,7
+2,S,S15,Filler,Natural,sand,4
+2,S,S15,Filler,Natural,watermelon,1
+2,S,S15,Filler,Natural,mouse,7
+2,S,S15,Filler,Natural,acorn,7
+2,S,S15,Filler,Natural,snake,7
+2,S,S15,Filler,Natural,pineapple,7
+2,S,S15,Filler,Artifact,chair,5
+2,S,S15,Filler,Artifact,coffee table,3
+2,S,S15,Filler,Artifact,knife,3
+2,S,S15,Filler,Artifact,rug,2
+2,S,S15,Filler,Artifact,coat,2
+2,S,S15,Filler,Artifact,bowl,1
+2,S,S15,Filler,Artifact,door,6
+2,S,S16,Color,Natural,strawberry,7
+2,S,S16,Color,Natural,banana,7
+2,S,S16,Color,Natural,broccoli,7
+2,S,S16,Color,Natural,lemon,7
+2,S,S16,Color,Natural,coal,7
+2,S,S16,Color,Natural,snow,4
+2,S,S16,Color,Natural,flamingo,3
+2,S,S16,Color,Natural,elephant,7
+2,S,S16,Color,Natural,ruby,6
+2,S,S16,Color,Natural,pearl,7
+2,S,S16,Color,ArtifactFC,go traffic,7
+2,S,S16,Color,ArtifactFC,fire truck,7
+2,S,S16,Color,ArtifactFC,basketball,7
+2,S,S16,Color,ArtifactFC,taxi cab,5
+2,S,S16,Color,ArtifactFC,police uniform,7
+2,S,S16,Color,ArtifactFC,dollar bill,
+2,S,S16,Color,ArtifactFC,tennis ball,7
+2,S,S16,Color,ArtifactFC,chalkboard,6
+2,S,S16,Color,ArtifactNFC,toilet,4
+2,S,S16,Color,ArtifactFC,street sign,5
+2,S,S16,Color,ArtifactNFC,pants,6
+2,S,S16,Color,ArtifactNFC,mug,3
+2,S,S16,Color,ArtifactNFC,book,3
+2,S,S16,Color,ArtifactNFC,purse,7
+2,S,S16,Color,ArtifactFC,crayon,1
+2,S,S16,Color,ArtifactNFC,lunch box,5
+2,S,S16,Color,ArtifactNFC,suitcase,5
+2,S,S16,Color,ArtifactNFC,couch,5
+2,S,S16,Color,ArtifactNFC,shoes,5
+2,S,S16,Color,ArtifactNFC,vacuum,4
+2,S,S16,Function,Natural,wood,5
+2,S,S16,Function,Natural,rock,6
+2,S,S16,Function,Natural,mud,4
+2,S,S16,Function,Natural,gold,7
+2,S,S16,Function,Natural,grass,6
+2,S,S16,Function,Natural,leaf,1
+2,S,S16,Function,Natural,tree bark,6
+2,S,S16,Function,Natural,water,7
+2,S,S16,Function,Natural,dirt,5
+2,S,S16,Function,Natural,flower,5
+2,S,S16,Function,Artifact,hole puncher,7
+2,S,S16,Function,Artifact,stapler,7
+2,S,S16,Function,Artifact,hammer,7
+2,S,S16,Function,Artifact,drill,7
+2,S,S16,Function,Artifact,iron,7
+2,S,S16,Function,Artifact,toaster,5
+2,S,S16,Function,Artifact,coffee maker,7
+2,S,S16,Function,Artifact,bed,1
+2,S,S16,Function,Artifact,pencil,7
+2,S,S16,Function,Artifact,bathtub,6
+2,S,S16,Filler,Natural,dog,2
+2,S,S16,Filler,Natural,pumpkin,1
+2,S,S16,Filler,Natural,cucumber,2
+2,S,S16,Filler,Natural,tree branch,2
+2,S,S16,Filler,Natural,pebble,6
+2,S,S16,Filler,Natural,seashell,2
+2,S,S16,Filler,Natural,orange,6
+2,S,S16,Filler,Natural,sand,7
+2,S,S16,Filler,Natural,watermelon,7
+2,S,S16,Filler,Natural,mouse,5
+2,S,S16,Filler,Natural,acorn,6
+2,S,S16,Filler,Natural,snake,2
+2,S,S16,Filler,Natural,pineapple,7
+2,S,S16,Filler,Artifact,chair,1
+2,S,S16,Filler,Artifact,coffee table,3
+2,S,S16,Filler,Artifact,knife,1
+2,S,S16,Filler,Artifact,rug,7
+2,S,S16,Filler,Artifact,coat,6
+2,S,S16,Filler,Artifact,bowl,1
+2,S,S16,Filler,Artifact,door,7
+2,S,S17,Color,Natural,strawberry,6
+2,S,S17,Color,Natural,banana,5
+2,S,S17,Color,Natural,broccoli,7
+2,S,S17,Color,Natural,lemon,6
+2,S,S17,Color,Natural,coal,6
+2,S,S17,Color,Natural,snow,6
+2,S,S17,Color,Natural,flamingo,6
+2,S,S17,Color,Natural,elephant,6
+2,S,S17,Color,Natural,ruby,4
+2,S,S17,Color,Natural,pearl,4
+2,S,S17,Color,ArtifactFC,go traffic,7
+2,S,S17,Color,ArtifactFC,fire truck,6
+2,S,S17,Color,ArtifactFC,basketball,3
+2,S,S17,Color,ArtifactFC,taxi cab,3
+2,S,S17,Color,ArtifactFC,police uniform,2
+2,S,S17,Color,ArtifactFC,dollar bill,
+2,S,S17,Color,ArtifactFC,tennis ball,5
+2,S,S17,Color,ArtifactFC,chalkboard,6
+2,S,S17,Color,ArtifactNFC,toilet,5
+2,S,S17,Color,ArtifactFC,street sign,2
+2,S,S17,Color,ArtifactNFC,pants,3
+2,S,S17,Color,ArtifactNFC,mug,3
+2,S,S17,Color,ArtifactNFC,book,1
+2,S,S17,Color,ArtifactNFC,purse,1
+2,S,S17,Color,ArtifactFC,crayon,3
+2,S,S17,Color,ArtifactNFC,lunch box,1
+2,S,S17,Color,ArtifactNFC,suitcase,3
+2,S,S17,Color,ArtifactNFC,couch,1
+2,S,S17,Color,ArtifactNFC,shoes,3
+2,S,S17,Color,ArtifactNFC,vacuum,2
+2,S,S17,Function,Natural,wood,3
+2,S,S17,Function,Natural,rock,3
+2,S,S17,Function,Natural,mud,4
+2,S,S17,Function,Natural,gold,3
+2,S,S17,Function,Natural,grass,5
+2,S,S17,Function,Natural,leaf,1
+2,S,S17,Function,Natural,tree bark,2
+2,S,S17,Function,Natural,water,3
+2,S,S17,Function,Natural,dirt,3
+2,S,S17,Function,Natural,flower,5
+2,S,S17,Function,Artifact,hole puncher,6
+2,S,S17,Function,Artifact,stapler,6
+2,S,S17,Function,Artifact,hammer,2
+2,S,S17,Function,Artifact,drill,4
+2,S,S17,Function,Artifact,iron,6
+2,S,S17,Function,Artifact,toaster,7
+2,S,S17,Function,Artifact,coffee maker,6
+2,S,S17,Function,Artifact,bed,4
+2,S,S17,Function,Artifact,pencil,4
+2,S,S17,Function,Artifact,bathtub,6
+2,S,S17,Filler,Natural,dog,1
+2,S,S17,Filler,Natural,pumpkin,1
+2,S,S17,Filler,Natural,cucumber,1
+2,S,S17,Filler,Natural,tree branch,1
+2,S,S17,Filler,Natural,pebble,1
+2,S,S17,Filler,Natural,seashell,1
+2,S,S17,Filler,Natural,orange,3
+2,S,S17,Filler,Natural,sand,7
+2,S,S17,Filler,Natural,watermelon,1
+2,S,S17,Filler,Natural,mouse,7
+2,S,S17,Filler,Natural,acorn,6
+2,S,S17,Filler,Natural,snake,7
+2,S,S17,Filler,Natural,pineapple,7
+2,S,S17,Filler,Artifact,chair,1
+2,S,S17,Filler,Artifact,coffee table,3
+2,S,S17,Filler,Artifact,knife,3
+2,S,S17,Filler,Artifact,rug,2
+2,S,S17,Filler,Artifact,coat,3
+2,S,S17,Filler,Artifact,bowl,2
+2,S,S17,Filler,Artifact,door,5
+2,S,S18,Color,Natural,strawberry,7
+2,S,S18,Color,Natural,banana,7
+2,S,S18,Color,Natural,broccoli,7
+2,S,S18,Color,Natural,lemon,7
+2,S,S18,Color,Natural,coal,7
+2,S,S18,Color,Natural,snow,7
+2,S,S18,Color,Natural,flamingo,7
+2,S,S18,Color,Natural,elephant,7
+2,S,S18,Color,Natural,ruby,7
+2,S,S18,Color,Natural,pearl,6
+2,S,S18,Color,ArtifactFC,go traffic,7
+2,S,S18,Color,ArtifactFC,fire truck,6
+2,S,S18,Color,ArtifactFC,basketball,7
+2,S,S18,Color,ArtifactFC,taxi cab,6
+2,S,S18,Color,ArtifactFC,police uniform,5
+2,S,S18,Color,ArtifactFC,dollar bill,
+2,S,S18,Color,ArtifactFC,tennis ball,7
+2,S,S18,Color,ArtifactFC,chalkboard,6
+2,S,S18,Color,ArtifactNFC,toilet,6
+2,S,S18,Color,ArtifactFC,street sign,4
+2,S,S18,Color,ArtifactNFC,pants,5
+2,S,S18,Color,ArtifactNFC,mug,2
+2,S,S18,Color,ArtifactNFC,book,2
+2,S,S18,Color,ArtifactNFC,purse,3
+2,S,S18,Color,ArtifactFC,crayon,2
+2,S,S18,Color,ArtifactNFC,lunch box,3
+2,S,S18,Color,ArtifactNFC,suitcase,3
+2,S,S18,Color,ArtifactNFC,couch,3
+2,S,S18,Color,ArtifactNFC,shoes,2
+2,S,S18,Color,ArtifactNFC,vacuum,4
+2,S,S18,Function,Natural,wood,6
+2,S,S18,Function,Natural,rock,5
+2,S,S18,Function,Natural,mud,5
+2,S,S18,Function,Natural,gold,5
+2,S,S18,Function,Natural,grass,5
+2,S,S18,Function,Natural,leaf,3
+2,S,S18,Function,Natural,tree bark,3
+2,S,S18,Function,Natural,water,5
+2,S,S18,Function,Natural,dirt,5
+2,S,S18,Function,Natural,flower,4
+2,S,S18,Function,Artifact,hole puncher,6
+2,S,S18,Function,Artifact,stapler,7
+2,S,S18,Function,Artifact,hammer,6
+2,S,S18,Function,Artifact,drill,7
+2,S,S18,Function,Artifact,iron,7
+2,S,S18,Function,Artifact,toaster,5
+2,S,S18,Function,Artifact,coffee maker,7
+2,S,S18,Function,Artifact,bed,6
+2,S,S18,Function,Artifact,pencil,5
+2,S,S18,Function,Artifact,bathtub,6
+2,S,S18,Filler,Natural,dog,3
+2,S,S18,Filler,Natural,pumpkin,4
+2,S,S18,Filler,Natural,cucumber,3
+2,S,S18,Filler,Natural,tree branch,1
+2,S,S18,Filler,Natural,pebble,6
+2,S,S18,Filler,Natural,seashell,3
+2,S,S18,Filler,Natural,orange,7
+2,S,S18,Filler,Natural,sand,5
+2,S,S18,Filler,Natural,watermelon,6
+2,S,S18,Filler,Natural,mouse,7
+2,S,S18,Filler,Natural,acorn,6
+2,S,S18,Filler,Natural,snake,7
+2,S,S18,Filler,Natural,pineapple,7
+2,S,S18,Filler,Artifact,chair,4
+2,S,S18,Filler,Artifact,coffee table,5
+2,S,S18,Filler,Artifact,knife,3
+2,S,S18,Filler,Artifact,rug,5
+2,S,S18,Filler,Artifact,coat,5
+2,S,S18,Filler,Artifact,bowl,3
+2,S,S18,Filler,Artifact,door,6
+2,S,S19,Color,Natural,strawberry,6
+2,S,S19,Color,Natural,banana,6
+2,S,S19,Color,Natural,broccoli,7
+2,S,S19,Color,Natural,lemon,6
+2,S,S19,Color,Natural,coal,7
+2,S,S19,Color,Natural,snow,7
+2,S,S19,Color,Natural,flamingo,6
+2,S,S19,Color,Natural,elephant,7
+2,S,S19,Color,Natural,ruby,7
+2,S,S19,Color,Natural,pearl,3
+2,S,S19,Color,ArtifactFC,go traffic,6
+2,S,S19,Color,ArtifactFC,fire truck,6
+2,S,S19,Color,ArtifactFC,basketball,4
+2,S,S19,Color,ArtifactFC,taxi cab,4
+2,S,S19,Color,ArtifactFC,police uniform,2
+2,S,S19,Color,ArtifactFC,dollar bill,
+2,S,S19,Color,ArtifactFC,tennis ball,5
+2,S,S19,Color,ArtifactFC,chalkboard,5
+2,S,S19,Color,ArtifactNFC,toilet,6
+2,S,S19,Color,ArtifactFC,street sign,3
+2,S,S19,Color,ArtifactNFC,pants,3
+2,S,S19,Color,ArtifactNFC,mug,2
+2,S,S19,Color,ArtifactNFC,book,1
+2,S,S19,Color,ArtifactNFC,purse,3
+2,S,S19,Color,ArtifactFC,crayon,1
+2,S,S19,Color,ArtifactNFC,lunch box,2
+2,S,S19,Color,ArtifactNFC,suitcase,5
+2,S,S19,Color,ArtifactNFC,couch,2
+2,S,S19,Color,ArtifactNFC,shoes,3
+2,S,S19,Color,ArtifactNFC,vacuum,5
+2,S,S19,Function,Natural,wood,2
+2,S,S19,Function,Natural,rock,5
+2,S,S19,Function,Natural,mud,4
+2,S,S19,Function,Natural,gold,5
+2,S,S19,Function,Natural,grass,5
+2,S,S19,Function,Natural,leaf,4
+2,S,S19,Function,Natural,tree bark,1
+2,S,S19,Function,Natural,water,3
+2,S,S19,Function,Natural,dirt,5
+2,S,S19,Function,Natural,flower,3
+2,S,S19,Function,Artifact,hole puncher,5
+2,S,S19,Function,Artifact,stapler,6
+2,S,S19,Function,Artifact,hammer,6
+2,S,S19,Function,Artifact,drill,5
+2,S,S19,Function,Artifact,iron,5
+2,S,S19,Function,Artifact,toaster,6
+2,S,S19,Function,Artifact,coffee maker,6
+2,S,S19,Function,Artifact,bed,5
+2,S,S19,Function,Artifact,pencil,5
+2,S,S19,Function,Artifact,bathtub,4
+2,S,S19,Filler,Natural,dog,2
+2,S,S19,Filler,Natural,pumpkin,2
+2,S,S19,Filler,Natural,cucumber,4
+2,S,S19,Filler,Natural,tree branch,1
+2,S,S19,Filler,Natural,pebble,2
+2,S,S19,Filler,Natural,seashell,5
+2,S,S19,Filler,Natural,orange,5
+2,S,S19,Filler,Natural,sand,7
+2,S,S19,Filler,Natural,watermelon,2
+2,S,S19,Filler,Natural,mouse,7
+2,S,S19,Filler,Natural,acorn,6
+2,S,S19,Filler,Natural,snake,3
+2,S,S19,Filler,Natural,pineapple,7
+2,S,S19,Filler,Artifact,chair,5
+2,S,S19,Filler,Artifact,coffee table,4
+2,S,S19,Filler,Artifact,knife,3
+2,S,S19,Filler,Artifact,rug,3
+2,S,S19,Filler,Artifact,coat,4
+2,S,S19,Filler,Artifact,bowl,3
+2,S,S19,Filler,Artifact,door,5
+3,CB,CB1,Color,Natural,apple,3
+3,CB,CB1,Color,Natural,blueberry,7
+3,CB,CB1,Color,Natural,carrot,7
+3,CB,CB1,Color,Natural,corn,5
+3,CB,CB1,Color,Natural,fire,5
+3,CB,CB1,Color,Natural,kiwi,7
+3,CB,CB1,Color,Natural,polar bear,7
+3,CB,CB1,Color,Natural,spinach,7
+3,CB,CB1,Color,ArtifactFC,coin,5
+3,CB,CB1,Color,ArtifactFC,lab coat,7
+3,CB,CB1,Color,ArtifactFC,military uniform,4
+3,CB,CB1,Color,ArtifactFC,paper,5
+3,CB,CB1,Color,ArtifactFC,recycling bin,5
+3,CB,CB1,Color,ArtifactFC,school bus,5
+3,CB,CB1,Color,ArtifactFC,stop sign,7
+3,CB,CB1,Color,ArtifactFC,wedding dress,6
+3,CB,CB1,Color,ArtifactNFC,car,1
+3,CB,CB1,Color,ArtifactNFC,cup,4
+3,CB,CB1,Color,ArtifactNFC,fork,3
+3,CB,CB1,Color,ArtifactNFC,laptop,3
+3,CB,CB1,Color,ArtifactFC,pen,4
+3,CB,CB1,Color,ArtifactNFC,soap,5
+3,CB,CB1,Color,ArtifactNFC,table,5
+3,CB,CB1,Color,ArtifactNFC,towel,4
+3,CB,CB2,Color,Natural,apple,3
+3,CB,CB2,Color,Natural,blueberry,6
+3,CB,CB2,Color,Natural,carrot,6
+3,CB,CB2,Color,Natural,corn,5
+3,CB,CB2,Color,Natural,fire,5
+3,CB,CB2,Color,Natural,kiwi,4
+3,CB,CB2,Color,Natural,polar bear,5
+3,CB,CB2,Color,Natural,spinach,7
+3,CB,CB2,Color,ArtifactFC,coin,5
+3,CB,CB2,Color,ArtifactFC,lab coat,4
+3,CB,CB2,Color,ArtifactFC,military uniform,3
+3,CB,CB2,Color,ArtifactFC,paper,3
+3,CB,CB2,Color,ArtifactFC,recycling bin,5
+3,CB,CB2,Color,ArtifactFC,school bus,4
+3,CB,CB2,Color,ArtifactFC,stop sign,7
+3,CB,CB2,Color,ArtifactFC,wedding dress,2
+3,CB,CB2,Color,ArtifactNFC,car,1
+3,CB,CB2,Color,ArtifactNFC,cup,3
+3,CB,CB2,Color,ArtifactNFC,fork,5
+3,CB,CB2,Color,ArtifactNFC,laptop,3
+3,CB,CB2,Color,ArtifactFC,pen,4
+3,CB,CB2,Color,ArtifactNFC,soap,4
+3,CB,CB2,Color,ArtifactNFC,table,2
+3,CB,CB2,Color,ArtifactNFC,towel,2
+3,CB,CB3,Color,Natural,apple,5
+3,CB,CB3,Color,Natural,blueberry,5
+3,CB,CB3,Color,Natural,carrot,3
+3,CB,CB3,Color,Natural,corn,5
+3,CB,CB3,Color,Natural,fire,6
+3,CB,CB3,Color,Natural,kiwi,5
+3,CB,CB3,Color,Natural,polar bear,4
+3,CB,CB3,Color,Natural,spinach,7
+3,CB,CB3,Color,ArtifactFC,coin,5
+3,CB,CB3,Color,ArtifactFC,lab coat,7
+3,CB,CB3,Color,ArtifactFC,military uniform,6
+3,CB,CB3,Color,ArtifactFC,paper,5
+3,CB,CB3,Color,ArtifactFC,recycling bin,6
+3,CB,CB3,Color,ArtifactFC,school bus,6
+3,CB,CB3,Color,ArtifactFC,stop sign,7
+3,CB,CB3,Color,ArtifactFC,wedding dress,5
+3,CB,CB3,Color,ArtifactNFC,car,2
+3,CB,CB3,Color,ArtifactNFC,cup,3
+3,CB,CB3,Color,ArtifactNFC,fork,6
+3,CB,CB3,Color,ArtifactNFC,laptop,4
+3,CB,CB3,Color,ArtifactFC,pen,2
+3,CB,CB3,Color,ArtifactNFC,soap,2
+3,CB,CB3,Color,ArtifactNFC,table,5
+3,CB,CB3,Color,ArtifactNFC,towel,5
+3,CB,CB4,Color,Natural,apple,4
+3,CB,CB4,Color,Natural,blueberry,5
+3,CB,CB4,Color,Natural,carrot,5
+3,CB,CB4,Color,Natural,corn,5
+3,CB,CB4,Color,Natural,fire,4
+3,CB,CB4,Color,Natural,kiwi,3
+3,CB,CB4,Color,Natural,polar bear,4
+3,CB,CB4,Color,Natural,spinach,5
+3,CB,CB4,Color,ArtifactFC,coin,5
+3,CB,CB4,Color,ArtifactFC,lab coat,6
+3,CB,CB4,Color,ArtifactFC,military uniform,4
+3,CB,CB4,Color,ArtifactFC,paper,3
+3,CB,CB4,Color,ArtifactFC,recycling bin,6
+3,CB,CB4,Color,ArtifactFC,school bus,6
+3,CB,CB4,Color,ArtifactFC,stop sign,7
+3,CB,CB4,Color,ArtifactFC,wedding dress,1
+3,CB,CB4,Color,ArtifactNFC,car,2
+3,CB,CB4,Color,ArtifactNFC,cup,2
+3,CB,CB4,Color,ArtifactNFC,fork,3
+3,CB,CB4,Color,ArtifactNFC,laptop,4
+3,CB,CB4,Color,ArtifactFC,pen,2
+3,CB,CB4,Color,ArtifactNFC,soap,6
+3,CB,CB4,Color,ArtifactNFC,table,4
+3,CB,CB4,Color,ArtifactNFC,towel,4
+3,CB,CB5,Color,Natural,apple,5
+3,CB,CB5,Color,Natural,blueberry,7
+3,CB,CB5,Color,Natural,carrot,7
+3,CB,CB5,Color,Natural,corn,7
+3,CB,CB5,Color,Natural,fire,7
+3,CB,CB5,Color,Natural,kiwi,7
+3,CB,CB5,Color,Natural,polar bear,3
+3,CB,CB5,Color,Natural,spinach,7
+3,CB,CB5,Color,ArtifactFC,coin,5
+3,CB,CB5,Color,ArtifactFC,lab coat,6
+3,CB,CB5,Color,ArtifactFC,military uniform,7
+3,CB,CB5,Color,ArtifactFC,paper,5
+3,CB,CB5,Color,ArtifactFC,recycling bin,7
+3,CB,CB5,Color,ArtifactFC,school bus,7
+3,CB,CB5,Color,ArtifactFC,stop sign,6
+3,CB,CB5,Color,ArtifactFC,wedding dress,1
+3,CB,CB5,Color,ArtifactNFC,car,1
+3,CB,CB5,Color,ArtifactNFC,cup,2
+3,CB,CB5,Color,ArtifactNFC,fork,6
+3,CB,CB5,Color,ArtifactNFC,laptop,6
+3,CB,CB5,Color,ArtifactFC,pen,5
+3,CB,CB5,Color,ArtifactNFC,soap,6
+3,CB,CB5,Color,ArtifactNFC,table,5
+3,CB,CB5,Color,ArtifactNFC,towel,6
+3,CB,CB6,Color,Natural,apple,5
+3,CB,CB6,Color,Natural,blueberry,7
+3,CB,CB6,Color,Natural,carrot,6
+3,CB,CB6,Color,Natural,corn,6
+3,CB,CB6,Color,Natural,fire,6
+3,CB,CB6,Color,Natural,kiwi,5
+3,CB,CB6,Color,Natural,polar bear,7
+3,CB,CB6,Color,Natural,spinach,7
+3,CB,CB6,Color,ArtifactFC,coin,6
+3,CB,CB6,Color,ArtifactFC,lab coat,6
+3,CB,CB6,Color,ArtifactFC,military uniform,7
+3,CB,CB6,Color,ArtifactFC,paper,5
+3,CB,CB6,Color,ArtifactFC,recycling bin,7
+3,CB,CB6,Color,ArtifactFC,school bus,7
+3,CB,CB6,Color,ArtifactFC,stop sign,5
+3,CB,CB6,Color,ArtifactFC,wedding dress,5
+3,CB,CB6,Color,ArtifactNFC,car,3
+3,CB,CB6,Color,ArtifactNFC,cup,4
+3,CB,CB6,Color,ArtifactNFC,fork,6
+3,CB,CB6,Color,ArtifactNFC,laptop,4
+3,CB,CB6,Color,ArtifactFC,pen,5
+3,CB,CB6,Color,ArtifactNFC,soap,5
+3,CB,CB6,Color,ArtifactNFC,table,4
+3,CB,CB6,Color,ArtifactNFC,towel,6
+3,CB,CB7,Color,Natural,apple,6
+3,CB,CB7,Color,Natural,blueberry,6
+3,CB,CB7,Color,Natural,carrot,5
+3,CB,CB7,Color,Natural,corn,7
+3,CB,CB7,Color,Natural,fire,5
+3,CB,CB7,Color,Natural,kiwi,7
+3,CB,CB7,Color,Natural,polar bear,7
+3,CB,CB7,Color,Natural,spinach,7
+3,CB,CB7,Color,ArtifactFC,coin,7
+3,CB,CB7,Color,ArtifactFC,lab coat,7
+3,CB,CB7,Color,ArtifactFC,military uniform,7
+3,CB,CB7,Color,ArtifactFC,paper,4
+3,CB,CB7,Color,ArtifactFC,recycling bin,7
+3,CB,CB7,Color,ArtifactFC,school bus,5
+3,CB,CB7,Color,ArtifactFC,stop sign,6
+3,CB,CB7,Color,ArtifactFC,wedding dress,4
+3,CB,CB7,Color,ArtifactNFC,car,4
+3,CB,CB7,Color,ArtifactNFC,cup,3
+3,CB,CB7,Color,ArtifactNFC,fork,6
+3,CB,CB7,Color,ArtifactNFC,laptop,5
+3,CB,CB7,Color,ArtifactFC,pen,4
+3,CB,CB7,Color,ArtifactNFC,soap,7
+3,CB,CB7,Color,ArtifactNFC,table,4
+3,CB,CB7,Color,ArtifactNFC,towel,4
+3,CB,CB8,Color,Natural,apple,1
+3,CB,CB8,Color,Natural,blueberry,7
+3,CB,CB8,Color,Natural,carrot,6
+3,CB,CB8,Color,Natural,corn,7
+3,CB,CB8,Color,Natural,fire,7
+3,CB,CB8,Color,Natural,kiwi,1
+3,CB,CB8,Color,Natural,polar bear,1
+3,CB,CB8,Color,Natural,spinach,7
+3,CB,CB8,Color,ArtifactFC,coin,7
+3,CB,CB8,Color,ArtifactFC,lab coat,1
+3,CB,CB8,Color,ArtifactFC,military uniform,7
+3,CB,CB8,Color,ArtifactFC,paper,7
+3,CB,CB8,Color,ArtifactFC,recycling bin,7
+3,CB,CB8,Color,ArtifactFC,school bus,7
+3,CB,CB8,Color,ArtifactFC,stop sign,7
+3,CB,CB8,Color,ArtifactFC,wedding dress,1
+3,CB,CB8,Color,ArtifactNFC,car,1
+3,CB,CB8,Color,ArtifactNFC,cup,1
+3,CB,CB8,Color,ArtifactNFC,fork,1
+3,CB,CB8,Color,ArtifactNFC,laptop,1
+3,CB,CB8,Color,ArtifactFC,pen,1
+3,CB,CB8,Color,ArtifactNFC,soap,1
+3,CB,CB8,Color,ArtifactNFC,table,1
+3,CB,CB8,Color,ArtifactNFC,towel,1
+3,CB,CB9,Color,Natural,apple,5
+3,CB,CB9,Color,Natural,blueberry,7
+3,CB,CB9,Color,Natural,carrot,7
+3,CB,CB9,Color,Natural,corn,6
+3,CB,CB9,Color,Natural,fire,5
+3,CB,CB9,Color,Natural,kiwi,7
+3,CB,CB9,Color,Natural,polar bear,7
+3,CB,CB9,Color,Natural,spinach,7
+3,CB,CB9,Color,ArtifactFC,coin,6
+3,CB,CB9,Color,ArtifactFC,lab coat,7
+3,CB,CB9,Color,ArtifactFC,military uniform,7
+3,CB,CB9,Color,ArtifactFC,paper,3
+3,CB,CB9,Color,ArtifactFC,recycling bin,7
+3,CB,CB9,Color,ArtifactFC,school bus,6
+3,CB,CB9,Color,ArtifactFC,stop sign,7
+3,CB,CB9,Color,ArtifactFC,wedding dress,6
+3,CB,CB9,Color,ArtifactNFC,car,1
+3,CB,CB9,Color,ArtifactNFC,cup,1
+3,CB,CB9,Color,ArtifactNFC,fork,6
+3,CB,CB9,Color,ArtifactNFC,laptop,2
+3,CB,CB9,Color,ArtifactFC,pen,2
+3,CB,CB9,Color,ArtifactNFC,soap,5
+3,CB,CB9,Color,ArtifactNFC,table,3
+3,CB,CB9,Color,ArtifactNFC,towel,2
+3,CB,CB10,Color,Natural,apple,3
+3,CB,CB10,Color,Natural,blueberry,7
+3,CB,CB10,Color,Natural,carrot,7
+3,CB,CB10,Color,Natural,corn,7
+3,CB,CB10,Color,Natural,fire,7
+3,CB,CB10,Color,Natural,kiwi,7
+3,CB,CB10,Color,Natural,polar bear,5
+3,CB,CB10,Color,Natural,spinach,7
+3,CB,CB10,Color,ArtifactFC,coin,3
+3,CB,CB10,Color,ArtifactFC,lab coat,7
+3,CB,CB10,Color,ArtifactFC,military uniform,7
+3,CB,CB10,Color,ArtifactFC,paper,3
+3,CB,CB10,Color,ArtifactFC,recycling bin,3
+3,CB,CB10,Color,ArtifactFC,school bus,7
+3,CB,CB10,Color,ArtifactFC,stop sign,5
+3,CB,CB10,Color,ArtifactFC,wedding dress,3
+3,CB,CB10,Color,ArtifactNFC,car,3
+3,CB,CB10,Color,ArtifactNFC,cup,3
+3,CB,CB10,Color,ArtifactNFC,fork,3
+3,CB,CB10,Color,ArtifactNFC,laptop,3
+3,CB,CB10,Color,ArtifactFC,pen,3
+3,CB,CB10,Color,ArtifactNFC,soap,3
+3,CB,CB10,Color,ArtifactNFC,table,3
+3,CB,CB10,Color,ArtifactNFC,towel,3
+3,CB,CB11,Color,Natural,apple,5
+3,CB,CB11,Color,Natural,blueberry,7
+3,CB,CB11,Color,Natural,carrot,7
+3,CB,CB11,Color,Natural,corn,6
+3,CB,CB11,Color,Natural,fire,7
+3,CB,CB11,Color,Natural,kiwi,7
+3,CB,CB11,Color,Natural,polar bear,7
+3,CB,CB11,Color,Natural,spinach,7
+3,CB,CB11,Color,ArtifactFC,coin,7
+3,CB,CB11,Color,ArtifactFC,lab coat,7
+3,CB,CB11,Color,ArtifactFC,military uniform,4
+3,CB,CB11,Color,ArtifactFC,paper,6
+3,CB,CB11,Color,ArtifactFC,recycling bin,5
+3,CB,CB11,Color,ArtifactFC,school bus,7
+3,CB,CB11,Color,ArtifactFC,stop sign,7
+3,CB,CB11,Color,ArtifactFC,wedding dress,7
+3,CB,CB11,Color,ArtifactNFC,car,4
+3,CB,CB11,Color,ArtifactNFC,cup,4
+3,CB,CB11,Color,ArtifactNFC,fork,5
+3,CB,CB11,Color,ArtifactNFC,laptop,4
+3,CB,CB11,Color,ArtifactFC,pen,6
+3,CB,CB11,Color,ArtifactNFC,soap,7
+3,CB,CB11,Color,ArtifactNFC,table,5
+3,CB,CB11,Color,ArtifactNFC,towel,2
+3,CB,CB12,Color,Natural,apple,3
+3,CB,CB12,Color,Natural,blueberry,6
+3,CB,CB12,Color,Natural,carrot,7
+3,CB,CB12,Color,Natural,corn,5
+3,CB,CB12,Color,Natural,fire,5
+3,CB,CB12,Color,Natural,kiwi,6
+3,CB,CB12,Color,Natural,polar bear,5
+3,CB,CB12,Color,Natural,spinach,7
+3,CB,CB12,Color,ArtifactFC,coin,5
+3,CB,CB12,Color,ArtifactFC,lab coat,5
+3,CB,CB12,Color,ArtifactFC,military uniform,4
+3,CB,CB12,Color,ArtifactFC,paper,5
+3,CB,CB12,Color,ArtifactFC,recycling bin,3
+3,CB,CB12,Color,ArtifactFC,school bus,6
+3,CB,CB12,Color,ArtifactFC,stop sign,7
+3,CB,CB12,Color,ArtifactFC,wedding dress,4
+3,CB,CB12,Color,ArtifactNFC,car,3
+3,CB,CB12,Color,ArtifactNFC,cup,3
+3,CB,CB12,Color,ArtifactNFC,fork,6
+3,CB,CB12,Color,ArtifactNFC,laptop,5
+3,CB,CB12,Color,ArtifactFC,pen,3
+3,CB,CB12,Color,ArtifactNFC,soap,5
+3,CB,CB12,Color,ArtifactNFC,table,5
+3,CB,CB12,Color,ArtifactNFC,towel,3
+3,CB,CB13,Color,Natural,apple,1
+3,CB,CB13,Color,Natural,blueberry,7
+3,CB,CB13,Color,Natural,carrot,7
+3,CB,CB13,Color,Natural,corn,1
+3,CB,CB13,Color,Natural,fire,1
+3,CB,CB13,Color,Natural,kiwi,3
+3,CB,CB13,Color,Natural,polar bear,7
+3,CB,CB13,Color,Natural,spinach,5
+3,CB,CB13,Color,ArtifactFC,coin,4
+3,CB,CB13,Color,ArtifactFC,lab coat,7
+3,CB,CB13,Color,ArtifactFC,military uniform,1
+3,CB,CB13,Color,ArtifactFC,paper,1
+3,CB,CB13,Color,ArtifactFC,recycling bin,1
+3,CB,CB13,Color,ArtifactFC,school bus,7
+3,CB,CB13,Color,ArtifactFC,stop sign,7
+3,CB,CB13,Color,ArtifactFC,wedding dress,1
+3,CB,CB13,Color,ArtifactNFC,car,3
+3,CB,CB13,Color,ArtifactNFC,cup,1
+3,CB,CB13,Color,ArtifactNFC,fork,1
+3,CB,CB13,Color,ArtifactNFC,laptop,1
+3,CB,CB13,Color,ArtifactFC,pen,1
+3,CB,CB13,Color,ArtifactNFC,soap,1
+3,CB,CB13,Color,ArtifactNFC,table,1
+3,CB,CB13,Color,ArtifactNFC,towel,1
+3,CB,CB14,Color,Natural,apple,7
+3,CB,CB14,Color,Natural,blueberry,7
+3,CB,CB14,Color,Natural,carrot,7
+3,CB,CB14,Color,Natural,corn,7
+3,CB,CB14,Color,Natural,fire,7
+3,CB,CB14,Color,Natural,kiwi,7
+3,CB,CB14,Color,Natural,polar bear,7
+3,CB,CB14,Color,Natural,spinach,7
+3,CB,CB14,Color,ArtifactFC,coin,7
+3,CB,CB14,Color,ArtifactFC,lab coat,7
+3,CB,CB14,Color,ArtifactFC,military uniform,4
+3,CB,CB14,Color,ArtifactFC,paper,4
+3,CB,CB14,Color,ArtifactFC,recycling bin,7
+3,CB,CB14,Color,ArtifactFC,school bus,6
+3,CB,CB14,Color,ArtifactFC,stop sign,7
+3,CB,CB14,Color,ArtifactFC,wedding dress,4
+3,CB,CB14,Color,ArtifactNFC,car,4
+3,CB,CB14,Color,ArtifactNFC,cup,3
+3,CB,CB14,Color,ArtifactNFC,fork,7
+3,CB,CB14,Color,ArtifactNFC,laptop,3
+3,CB,CB14,Color,ArtifactFC,pen,3
+3,CB,CB14,Color,ArtifactNFC,soap,4
+3,CB,CB14,Color,ArtifactNFC,table,4
+3,CB,CB14,Color,ArtifactNFC,towel,4
+3,CB,CB15,Color,Natural,apple,5
+3,CB,CB15,Color,Natural,blueberry,7
+3,CB,CB15,Color,Natural,carrot,6
+3,CB,CB15,Color,Natural,corn,6
+3,CB,CB15,Color,Natural,fire,6
+3,CB,CB15,Color,Natural,kiwi,6
+3,CB,CB15,Color,Natural,polar bear,6
+3,CB,CB15,Color,Natural,spinach,6
+3,CB,CB15,Color,ArtifactFC,coin,6
+3,CB,CB15,Color,ArtifactFC,lab coat,6
+3,CB,CB15,Color,ArtifactFC,military uniform,5
+3,CB,CB15,Color,ArtifactFC,paper,5
+3,CB,CB15,Color,ArtifactFC,recycling bin,5
+3,CB,CB15,Color,ArtifactFC,school bus,6
+3,CB,CB15,Color,ArtifactFC,stop sign,7
+3,CB,CB15,Color,ArtifactFC,wedding dress,6
+3,CB,CB15,Color,ArtifactNFC,car,3
+3,CB,CB15,Color,ArtifactNFC,cup,2
+3,CB,CB15,Color,ArtifactNFC,fork,5
+3,CB,CB15,Color,ArtifactNFC,laptop,5
+3,CB,CB15,Color,ArtifactFC,pen,5
+3,CB,CB15,Color,ArtifactNFC,soap,5
+3,CB,CB15,Color,ArtifactNFC,table,3
+3,CB,CB15,Color,ArtifactNFC,towel,2
+3,CB,CB16,Color,Natural,apple,6
+3,CB,CB16,Color,Natural,blueberry,7
+3,CB,CB16,Color,Natural,carrot,6
+3,CB,CB16,Color,Natural,corn,6
+3,CB,CB16,Color,Natural,fire,7
+3,CB,CB16,Color,Natural,kiwi,3
+3,CB,CB16,Color,Natural,polar bear,7
+3,CB,CB16,Color,Natural,spinach,7
+3,CB,CB16,Color,ArtifactFC,coin,1
+3,CB,CB16,Color,ArtifactFC,lab coat,5
+3,CB,CB16,Color,ArtifactFC,military uniform,5
+3,CB,CB16,Color,ArtifactFC,paper,3
+3,CB,CB16,Color,ArtifactFC,recycling bin,6
+3,CB,CB16,Color,ArtifactFC,school bus,7
+3,CB,CB16,Color,ArtifactFC,stop sign,5
+3,CB,CB16,Color,ArtifactFC,wedding dress,3
+3,CB,CB16,Color,ArtifactNFC,car,1
+3,CB,CB16,Color,ArtifactNFC,cup,1
+3,CB,CB16,Color,ArtifactNFC,fork,1
+3,CB,CB16,Color,ArtifactNFC,laptop,1
+3,CB,CB16,Color,ArtifactFC,pen,2
+3,CB,CB16,Color,ArtifactNFC,soap,1
+3,CB,CB16,Color,ArtifactNFC,table,5
+3,CB,CB16,Color,ArtifactNFC,towel,4
+3,CB,CB17,Color,Natural,apple,3
+3,CB,CB17,Color,Natural,blueberry,7
+3,CB,CB17,Color,Natural,carrot,6
+3,CB,CB17,Color,Natural,corn,3
+3,CB,CB17,Color,Natural,fire,7
+3,CB,CB17,Color,Natural,kiwi,6
+3,CB,CB17,Color,Natural,polar bear,7
+3,CB,CB17,Color,Natural,spinach,7
+3,CB,CB17,Color,ArtifactFC,coin,5
+3,CB,CB17,Color,ArtifactFC,lab coat,4
+3,CB,CB17,Color,ArtifactFC,military uniform,4
+3,CB,CB17,Color,ArtifactFC,paper,4
+3,CB,CB17,Color,ArtifactFC,recycling bin,5
+3,CB,CB17,Color,ArtifactFC,school bus,6
+3,CB,CB17,Color,ArtifactFC,stop sign,7
+3,CB,CB17,Color,ArtifactFC,wedding dress,5
+3,CB,CB17,Color,ArtifactNFC,car,2
+3,CB,CB17,Color,ArtifactNFC,cup,2
+3,CB,CB17,Color,ArtifactNFC,fork,4
+3,CB,CB17,Color,ArtifactNFC,laptop,3
+3,CB,CB17,Color,ArtifactFC,pen,5
+3,CB,CB17,Color,ArtifactNFC,soap,4
+3,CB,CB17,Color,ArtifactNFC,table,2
+3,CB,CB17,Color,ArtifactNFC,towel,3
+3,CB,CB18,Color,Natural,apple,4
+3,CB,CB18,Color,Natural,blueberry,7
+3,CB,CB18,Color,Natural,carrot,5
+3,CB,CB18,Color,Natural,corn,5
+3,CB,CB18,Color,Natural,fire,5
+3,CB,CB18,Color,Natural,kiwi,5
+3,CB,CB18,Color,Natural,polar bear,7
+3,CB,CB18,Color,Natural,spinach,7
+3,CB,CB18,Color,ArtifactFC,coin,4
+3,CB,CB18,Color,ArtifactFC,lab coat,5
+3,CB,CB18,Color,ArtifactFC,military uniform,5
+3,CB,CB18,Color,ArtifactFC,paper,5
+3,CB,CB18,Color,ArtifactFC,recycling bin,4
+3,CB,CB18,Color,ArtifactFC,school bus,6
+3,CB,CB18,Color,ArtifactFC,stop sign,7
+3,CB,CB18,Color,ArtifactFC,wedding dress,6
+3,CB,CB18,Color,ArtifactNFC,car,2
+3,CB,CB18,Color,ArtifactNFC,cup,1
+3,CB,CB18,Color,ArtifactNFC,fork,2
+3,CB,CB18,Color,ArtifactNFC,laptop,3
+3,CB,CB18,Color,ArtifactFC,pen,4
+3,CB,CB18,Color,ArtifactNFC,soap,2
+3,CB,CB18,Color,ArtifactNFC,table,3
+3,CB,CB18,Color,ArtifactNFC,towel,3
+3,CB,CB19,Color,Natural,apple,4
+3,CB,CB19,Color,Natural,blueberry,6
+3,CB,CB19,Color,Natural,carrot,6
+3,CB,CB19,Color,Natural,corn,5
+3,CB,CB19,Color,Natural,fire,6
+3,CB,CB19,Color,Natural,kiwi,6
+3,CB,CB19,Color,Natural,polar bear,6
+3,CB,CB19,Color,Natural,spinach,6
+3,CB,CB19,Color,ArtifactFC,coin,5
+3,CB,CB19,Color,ArtifactFC,lab coat,6
+3,CB,CB19,Color,ArtifactFC,military uniform,6
+3,CB,CB19,Color,ArtifactFC,paper,5
+3,CB,CB19,Color,ArtifactFC,recycling bin,6
+3,CB,CB19,Color,ArtifactFC,school bus,7
+3,CB,CB19,Color,ArtifactFC,stop sign,7
+3,CB,CB19,Color,ArtifactFC,wedding dress,4
+3,CB,CB19,Color,ArtifactNFC,car,2
+3,CB,CB19,Color,ArtifactNFC,cup,3
+3,CB,CB19,Color,ArtifactNFC,fork,5
+3,CB,CB19,Color,ArtifactNFC,laptop,5
+3,CB,CB19,Color,ArtifactFC,pen,3
+3,CB,CB19,Color,ArtifactNFC,soap,6
+3,CB,CB19,Color,ArtifactNFC,table,4
+3,CB,CB19,Color,ArtifactNFC,towel,4
+3,CB,CB20,Color,Natural,apple,7
+3,CB,CB20,Color,Natural,blueberry,7
+3,CB,CB20,Color,Natural,carrot,7
+3,CB,CB20,Color,Natural,corn,7
+3,CB,CB20,Color,Natural,fire,7
+3,CB,CB20,Color,Natural,kiwi,7
+3,CB,CB20,Color,Natural,polar bear,1
+3,CB,CB20,Color,Natural,spinach,7
+3,CB,CB20,Color,ArtifactFC,coin,3
+3,CB,CB20,Color,ArtifactFC,lab coat,1
+3,CB,CB20,Color,ArtifactFC,military uniform,7
+3,CB,CB20,Color,ArtifactFC,paper,1
+3,CB,CB20,Color,ArtifactFC,recycling bin,1
+3,CB,CB20,Color,ArtifactFC,school bus,7
+3,CB,CB20,Color,ArtifactFC,stop sign,7
+3,CB,CB20,Color,ArtifactFC,wedding dress,3
+3,CB,CB20,Color,ArtifactNFC,car,1
+3,CB,CB20,Color,ArtifactNFC,cup,1
+3,CB,CB20,Color,ArtifactNFC,fork,3
+3,CB,CB20,Color,ArtifactNFC,laptop,1
+3,CB,CB20,Color,ArtifactFC,pen,7
+3,CB,CB20,Color,ArtifactNFC,soap,1
+3,CB,CB20,Color,ArtifactNFC,table,5
+3,CB,CB20,Color,ArtifactNFC,towel,1
+3,S,S1,Color,Natural,apple,3
+3,S,S1,Color,Natural,blueberry,7
+3,S,S1,Color,Natural,carrot,4
+3,S,S1,Color,Natural,corn,3
+3,S,S1,Color,Natural,fire,5
+3,S,S1,Color,Natural,kiwi,5
+3,S,S1,Color,Natural,polar bear,7
+3,S,S1,Color,Natural,spinach,7
+3,S,S1,Color,ArtifactFC,coin,4
+3,S,S1,Color,ArtifactFC,lab coat,4
+3,S,S1,Color,ArtifactFC,military uniform,3
+3,S,S1,Color,ArtifactFC,paper,3
+3,S,S1,Color,ArtifactFC,recycling bin,4
+3,S,S1,Color,ArtifactFC,school bus,5
+3,S,S1,Color,ArtifactFC,stop sign,7
+3,S,S1,Color,ArtifactFC,wedding dress,5
+3,S,S1,Color,ArtifactNFC,car,2
+3,S,S1,Color,ArtifactNFC,cup,2
+3,S,S1,Color,ArtifactNFC,fork,2
+3,S,S1,Color,ArtifactNFC,laptop,2
+3,S,S1,Color,ArtifactFC,pen,1
+3,S,S1,Color,ArtifactNFC,soap,2
+3,S,S1,Color,ArtifactNFC,table,2
+3,S,S1,Color,ArtifactNFC,towel,1
+3,S,S2,Color,Natural,apple,4
+3,S,S2,Color,Natural,blueberry,7
+3,S,S2,Color,Natural,carrot,6
+3,S,S2,Color,Natural,corn,3
+3,S,S2,Color,Natural,fire,5
+3,S,S2,Color,Natural,kiwi,6
+3,S,S2,Color,Natural,polar bear,6
+3,S,S2,Color,Natural,spinach,7
+3,S,S2,Color,ArtifactFC,coin,4
+3,S,S2,Color,ArtifactFC,lab coat,6
+3,S,S2,Color,ArtifactFC,military uniform,5
+3,S,S2,Color,ArtifactFC,paper,5
+3,S,S2,Color,ArtifactFC,recycling bin,5
+3,S,S2,Color,ArtifactFC,school bus,6
+3,S,S2,Color,ArtifactFC,stop sign,7
+3,S,S2,Color,ArtifactFC,wedding dress,3
+3,S,S2,Color,ArtifactNFC,car,3
+3,S,S2,Color,ArtifactNFC,cup,1
+3,S,S2,Color,ArtifactNFC,fork,4
+3,S,S2,Color,ArtifactNFC,laptop,5
+3,S,S2,Color,ArtifactFC,pen,4
+3,S,S2,Color,ArtifactNFC,soap,4
+3,S,S2,Color,ArtifactNFC,table,2
+3,S,S2,Color,ArtifactNFC,towel,1
+3,S,S3,Color,Natural,apple,4
+3,S,S3,Color,Natural,blueberry,6
+3,S,S3,Color,Natural,carrot,5
+3,S,S3,Color,Natural,corn,5
+3,S,S3,Color,Natural,fire,6
+3,S,S3,Color,Natural,kiwi,6
+3,S,S3,Color,Natural,polar bear,6
+3,S,S3,Color,Natural,spinach,6
+3,S,S3,Color,ArtifactFC,coin,5
+3,S,S3,Color,ArtifactFC,lab coat,6
+3,S,S3,Color,ArtifactFC,military uniform,4
+3,S,S3,Color,ArtifactFC,paper,5
+3,S,S3,Color,ArtifactFC,recycling bin,4
+3,S,S3,Color,ArtifactFC,school bus,6
+3,S,S3,Color,ArtifactFC,stop sign,7
+3,S,S3,Color,ArtifactFC,wedding dress,5
+3,S,S3,Color,ArtifactNFC,car,4
+3,S,S3,Color,ArtifactNFC,cup,4
+3,S,S3,Color,ArtifactNFC,fork,5
+3,S,S3,Color,ArtifactNFC,laptop,5
+3,S,S3,Color,ArtifactFC,pen,4
+3,S,S3,Color,ArtifactNFC,soap,5
+3,S,S3,Color,ArtifactNFC,table,4
+3,S,S3,Color,ArtifactNFC,towel,3
+3,S,S4,Color,Natural,apple,5
+3,S,S4,Color,Natural,blueberry,5
+3,S,S4,Color,Natural,carrot,5
+3,S,S4,Color,Natural,corn,5
+3,S,S4,Color,Natural,fire,5
+3,S,S4,Color,Natural,kiwi,6
+3,S,S4,Color,Natural,polar bear,6
+3,S,S4,Color,Natural,spinach,7
+3,S,S4,Color,ArtifactFC,coin,4
+3,S,S4,Color,ArtifactFC,lab coat,6
+3,S,S4,Color,ArtifactFC,military uniform,4
+3,S,S4,Color,ArtifactFC,paper,5
+3,S,S4,Color,ArtifactFC,recycling bin,5
+3,S,S4,Color,ArtifactFC,school bus,6
+3,S,S4,Color,ArtifactFC,stop sign,7
+3,S,S4,Color,ArtifactFC,wedding dress,6
+3,S,S4,Color,ArtifactNFC,car,3
+3,S,S4,Color,ArtifactNFC,cup,3
+3,S,S4,Color,ArtifactNFC,fork,5
+3,S,S4,Color,ArtifactNFC,laptop,5
+3,S,S4,Color,ArtifactFC,pen,5
+3,S,S4,Color,ArtifactNFC,soap,3
+3,S,S4,Color,ArtifactNFC,table,4
+3,S,S4,Color,ArtifactNFC,towel,4
+3,S,S5,Color,Natural,apple,3
+3,S,S5,Color,Natural,blueberry,7
+3,S,S5,Color,Natural,carrot,7
+3,S,S5,Color,Natural,corn,6
+3,S,S5,Color,Natural,fire,7
+3,S,S5,Color,Natural,kiwi,7
+3,S,S5,Color,Natural,polar bear,7
+3,S,S5,Color,Natural,spinach,7
+3,S,S5,Color,ArtifactFC,coin,7
+3,S,S5,Color,ArtifactFC,lab coat,7
+3,S,S5,Color,ArtifactFC,military uniform,5
+3,S,S5,Color,ArtifactFC,paper,5
+3,S,S5,Color,ArtifactFC,recycling bin,5
+3,S,S5,Color,ArtifactFC,school bus,7
+3,S,S5,Color,ArtifactFC,stop sign,7
+3,S,S5,Color,ArtifactFC,wedding dress,6
+3,S,S5,Color,ArtifactNFC,car,4
+3,S,S5,Color,ArtifactNFC,cup,3
+3,S,S5,Color,ArtifactNFC,fork,5
+3,S,S5,Color,ArtifactNFC,laptop,5
+3,S,S5,Color,ArtifactFC,pen,6
+3,S,S5,Color,ArtifactNFC,soap,5
+3,S,S5,Color,ArtifactNFC,table,5
+3,S,S5,Color,ArtifactNFC,towel,3
+3,S,S6,Color,Natural,apple,5
+3,S,S6,Color,Natural,blueberry,7
+3,S,S6,Color,Natural,carrot,6
+3,S,S6,Color,Natural,corn,6
+3,S,S6,Color,Natural,fire,6
+3,S,S6,Color,Natural,kiwi,7
+3,S,S6,Color,Natural,polar bear,7
+3,S,S6,Color,Natural,spinach,7
+3,S,S6,Color,ArtifactFC,coin,4
+3,S,S6,Color,ArtifactFC,lab coat,7
+3,S,S6,Color,ArtifactFC,military uniform,3
+3,S,S6,Color,ArtifactFC,paper,5
+3,S,S6,Color,ArtifactFC,recycling bin,6
+3,S,S6,Color,ArtifactFC,school bus,7
+3,S,S6,Color,ArtifactFC,stop sign,7
+3,S,S6,Color,ArtifactFC,wedding dress,7
+3,S,S6,Color,ArtifactNFC,car,5
+3,S,S6,Color,ArtifactNFC,cup,1
+3,S,S6,Color,ArtifactNFC,fork,3
+3,S,S6,Color,ArtifactNFC,laptop,5
+3,S,S6,Color,ArtifactFC,pen,5
+3,S,S6,Color,ArtifactNFC,soap,1
+3,S,S6,Color,ArtifactNFC,table,2
+3,S,S6,Color,ArtifactNFC,towel,1
+3,S,S7,Color,Natural,apple,2
+3,S,S7,Color,Natural,blueberry,6
+3,S,S7,Color,Natural,carrot,5
+3,S,S7,Color,Natural,corn,2
+3,S,S7,Color,Natural,fire,5
+3,S,S7,Color,Natural,kiwi,5
+3,S,S7,Color,Natural,polar bear,6
+3,S,S7,Color,Natural,spinach,7
+3,S,S7,Color,ArtifactFC,coin,4
+3,S,S7,Color,ArtifactFC,lab coat,7
+3,S,S7,Color,ArtifactFC,military uniform,2
+3,S,S7,Color,ArtifactFC,paper,4
+3,S,S7,Color,ArtifactFC,recycling bin,3
+3,S,S7,Color,ArtifactFC,school bus,5
+3,S,S7,Color,ArtifactFC,stop sign,7
+3,S,S7,Color,ArtifactFC,wedding dress,1
+3,S,S7,Color,ArtifactNFC,car,2
+3,S,S7,Color,ArtifactNFC,cup,3
+3,S,S7,Color,ArtifactNFC,fork,5
+3,S,S7,Color,ArtifactNFC,laptop,2
+3,S,S7,Color,ArtifactFC,pen,2
+3,S,S7,Color,ArtifactNFC,soap,2
+3,S,S7,Color,ArtifactNFC,table,1
+3,S,S7,Color,ArtifactNFC,towel,3
+3,S,S8,Color,Natural,apple,1
+3,S,S8,Color,Natural,blueberry,7
+3,S,S8,Color,Natural,carrot,7
+3,S,S8,Color,Natural,corn,7
+3,S,S8,Color,Natural,fire,1
+3,S,S8,Color,Natural,kiwi,7
+3,S,S8,Color,Natural,polar bear,5
+3,S,S8,Color,Natural,spinach,7
+3,S,S8,Color,ArtifactFC,coin,7
+3,S,S8,Color,ArtifactFC,lab coat,7
+3,S,S8,Color,ArtifactFC,military uniform,3
+3,S,S8,Color,ArtifactFC,paper,7
+3,S,S8,Color,ArtifactFC,recycling bin,7
+3,S,S8,Color,ArtifactFC,school bus,7
+3,S,S8,Color,ArtifactFC,stop sign,7
+3,S,S8,Color,ArtifactFC,wedding dress,5
+3,S,S8,Color,ArtifactNFC,car,7
+3,S,S8,Color,ArtifactNFC,cup,7
+3,S,S8,Color,ArtifactNFC,fork,7
+3,S,S8,Color,ArtifactNFC,laptop,7
+3,S,S8,Color,ArtifactFC,pen,7
+3,S,S8,Color,ArtifactNFC,soap,4
+3,S,S8,Color,ArtifactNFC,table,5
+3,S,S8,Color,ArtifactNFC,towel,7
+3,S,S9,Color,Natural,apple,5
+3,S,S9,Color,Natural,blueberry,6
+3,S,S9,Color,Natural,carrot,6
+3,S,S9,Color,Natural,corn,4
+3,S,S9,Color,Natural,fire,6
+3,S,S9,Color,Natural,kiwi,6
+3,S,S9,Color,Natural,polar bear,7
+3,S,S9,Color,Natural,spinach,6
+3,S,S9,Color,ArtifactFC,coin,4
+3,S,S9,Color,ArtifactFC,lab coat,5
+3,S,S9,Color,ArtifactFC,military uniform,5
+3,S,S9,Color,ArtifactFC,paper,5
+3,S,S9,Color,ArtifactFC,recycling bin,6
+3,S,S9,Color,ArtifactFC,school bus,5
+3,S,S9,Color,ArtifactFC,stop sign,7
+3,S,S9,Color,ArtifactFC,wedding dress,6
+3,S,S9,Color,ArtifactNFC,car,4
+3,S,S9,Color,ArtifactNFC,cup,4
+3,S,S9,Color,ArtifactNFC,fork,3
+3,S,S9,Color,ArtifactNFC,laptop,4
+3,S,S9,Color,ArtifactFC,pen,4
+3,S,S9,Color,ArtifactNFC,soap,4
+3,S,S9,Color,ArtifactNFC,table,4
+3,S,S9,Color,ArtifactNFC,towel,5
+3,S,S10,Color,Natural,apple,4
+3,S,S10,Color,Natural,blueberry,6
+3,S,S10,Color,Natural,carrot,6
+3,S,S10,Color,Natural,corn,5
+3,S,S10,Color,Natural,fire,5
+3,S,S10,Color,Natural,kiwi,6
+3,S,S10,Color,Natural,polar bear,7
+3,S,S10,Color,Natural,spinach,7
+3,S,S10,Color,ArtifactFC,coin,5
+3,S,S10,Color,ArtifactFC,lab coat,6
+3,S,S10,Color,ArtifactFC,military uniform,5
+3,S,S10,Color,ArtifactFC,paper,5
+3,S,S10,Color,ArtifactFC,recycling bin,5
+3,S,S10,Color,ArtifactFC,school bus,6
+3,S,S10,Color,ArtifactFC,stop sign,7
+3,S,S10,Color,ArtifactFC,wedding dress,6
+3,S,S10,Color,ArtifactNFC,car,3
+3,S,S10,Color,ArtifactNFC,cup,2
+3,S,S10,Color,ArtifactNFC,fork,5
+3,S,S10,Color,ArtifactNFC,laptop,5
+3,S,S10,Color,ArtifactFC,pen,3
+3,S,S10,Color,ArtifactNFC,soap,4
+3,S,S10,Color,ArtifactNFC,table,3
+3,S,S10,Color,ArtifactNFC,towel,2
+3,S,S11,Color,Natural,apple,5
+3,S,S11,Color,Natural,blueberry,7
+3,S,S11,Color,Natural,carrot,7
+3,S,S11,Color,Natural,corn,6
+3,S,S11,Color,Natural,fire,6
+3,S,S11,Color,Natural,kiwi,7
+3,S,S11,Color,Natural,polar bear,7
+3,S,S11,Color,Natural,spinach,7
+3,S,S11,Color,ArtifactFC,coin,6
+3,S,S11,Color,ArtifactFC,lab coat,6
+3,S,S11,Color,ArtifactFC,military uniform,5
+3,S,S11,Color,ArtifactFC,paper,4
+3,S,S11,Color,ArtifactFC,recycling bin,5
+3,S,S11,Color,ArtifactFC,school bus,7
+3,S,S11,Color,ArtifactFC,stop sign,7
+3,S,S11,Color,ArtifactFC,wedding dress,6
+3,S,S11,Color,ArtifactNFC,car,3
+3,S,S11,Color,ArtifactNFC,cup,3
+3,S,S11,Color,ArtifactNFC,fork,5
+3,S,S11,Color,ArtifactNFC,laptop,6
+3,S,S11,Color,ArtifactFC,pen,5
+3,S,S11,Color,ArtifactNFC,soap,6
+3,S,S11,Color,ArtifactNFC,table,2
+3,S,S11,Color,ArtifactNFC,towel,1
+3,S,S12,Color,Natural,apple,5
+3,S,S12,Color,Natural,blueberry,7
+3,S,S12,Color,Natural,carrot,7
+3,S,S12,Color,Natural,corn,7
+3,S,S12,Color,Natural,fire,6
+3,S,S12,Color,Natural,kiwi,5
+3,S,S12,Color,Natural,polar bear,7
+3,S,S12,Color,Natural,spinach,7
+3,S,S12,Color,ArtifactFC,coin,4
+3,S,S12,Color,ArtifactFC,lab coat,6
+3,S,S12,Color,ArtifactFC,military uniform,3
+3,S,S12,Color,ArtifactFC,paper,6
+3,S,S12,Color,ArtifactFC,recycling bin,4
+3,S,S12,Color,ArtifactFC,school bus,6
+3,S,S12,Color,ArtifactFC,stop sign,7
+3,S,S12,Color,ArtifactFC,wedding dress,7
+3,S,S12,Color,ArtifactNFC,car,2
+3,S,S12,Color,ArtifactNFC,cup,1
+3,S,S12,Color,ArtifactNFC,fork,5
+3,S,S12,Color,ArtifactNFC,laptop,3
+3,S,S12,Color,ArtifactFC,pen,4
+3,S,S12,Color,ArtifactNFC,soap,2
+3,S,S12,Color,ArtifactNFC,table,5
+3,S,S12,Color,ArtifactNFC,towel,2
+3,S,S13,Color,Natural,apple,4
+3,S,S13,Color,Natural,blueberry,7
+3,S,S13,Color,Natural,carrot,6
+3,S,S13,Color,Natural,corn,5
+3,S,S13,Color,Natural,fire,5
+3,S,S13,Color,Natural,kiwi,7
+3,S,S13,Color,Natural,polar bear,6
+3,S,S13,Color,Natural,spinach,7
+3,S,S13,Color,ArtifactFC,coin,5
+3,S,S13,Color,ArtifactFC,lab coat,6
+3,S,S13,Color,ArtifactFC,military uniform,5
+3,S,S13,Color,ArtifactFC,paper,3
+3,S,S13,Color,ArtifactFC,recycling bin,5
+3,S,S13,Color,ArtifactFC,school bus,7
+3,S,S13,Color,ArtifactFC,stop sign,7
+3,S,S13,Color,ArtifactFC,wedding dress,6
+3,S,S13,Color,ArtifactNFC,car,2
+3,S,S13,Color,ArtifactNFC,cup,2
+3,S,S13,Color,ArtifactNFC,fork,1
+3,S,S13,Color,ArtifactNFC,laptop,2
+3,S,S13,Color,ArtifactFC,pen,2
+3,S,S13,Color,ArtifactNFC,soap,2
+3,S,S13,Color,ArtifactNFC,table,3
+3,S,S13,Color,ArtifactNFC,towel,1
+3,S,S14,Color,Natural,apple,5
+3,S,S14,Color,Natural,blueberry,7
+3,S,S14,Color,Natural,carrot,6
+3,S,S14,Color,Natural,corn,7
+3,S,S14,Color,Natural,fire,5
+3,S,S14,Color,Natural,kiwi,7
+3,S,S14,Color,Natural,polar bear,7
+3,S,S14,Color,Natural,spinach,7
+3,S,S14,Color,ArtifactFC,coin,4
+3,S,S14,Color,ArtifactFC,lab coat,7
+3,S,S14,Color,ArtifactFC,military uniform,1
+3,S,S14,Color,ArtifactFC,paper,7
+3,S,S14,Color,ArtifactFC,recycling bin,5
+3,S,S14,Color,ArtifactFC,school bus,6
+3,S,S14,Color,ArtifactFC,stop sign,7
+3,S,S14,Color,ArtifactFC,wedding dress,7
+3,S,S14,Color,ArtifactNFC,car,3
+3,S,S14,Color,ArtifactNFC,cup,5
+3,S,S14,Color,ArtifactNFC,fork,5
+3,S,S14,Color,ArtifactNFC,laptop,6
+3,S,S14,Color,ArtifactFC,pen,4
+3,S,S14,Color,ArtifactNFC,soap,4
+3,S,S14,Color,ArtifactNFC,table,3
+3,S,S14,Color,ArtifactNFC,towel,3
+3,S,S15,Color,Natural,apple,2
+3,S,S15,Color,Natural,blueberry,6
+3,S,S15,Color,Natural,carrot,6
+3,S,S15,Color,Natural,corn,6
+3,S,S15,Color,Natural,fire,6
+3,S,S15,Color,Natural,kiwi,7
+3,S,S15,Color,Natural,polar bear,7
+3,S,S15,Color,Natural,spinach,7
+3,S,S15,Color,ArtifactFC,coin,2
+3,S,S15,Color,ArtifactFC,lab coat,7
+3,S,S15,Color,ArtifactFC,military uniform,5
+3,S,S15,Color,ArtifactFC,paper,6
+3,S,S15,Color,ArtifactFC,recycling bin,2
+3,S,S15,Color,ArtifactFC,school bus,6
+3,S,S15,Color,ArtifactFC,stop sign,7
+3,S,S15,Color,ArtifactFC,wedding dress,6
+3,S,S15,Color,ArtifactNFC,car,2
+3,S,S15,Color,ArtifactNFC,cup,2
+3,S,S15,Color,ArtifactNFC,fork,4
+3,S,S15,Color,ArtifactNFC,laptop,4
+3,S,S15,Color,ArtifactFC,pen,4
+3,S,S15,Color,ArtifactNFC,soap,3
+3,S,S15,Color,ArtifactNFC,table,4
+3,S,S15,Color,ArtifactNFC,towel,4
+3,S,S16,Color,Natural,apple,4
+3,S,S16,Color,Natural,blueberry,7
+3,S,S16,Color,Natural,carrot,7
+3,S,S16,Color,Natural,corn,7
+3,S,S16,Color,Natural,fire,5
+3,S,S16,Color,Natural,kiwi,7
+3,S,S16,Color,Natural,polar bear,7
+3,S,S16,Color,Natural,spinach,7
+3,S,S16,Color,ArtifactFC,coin,6
+3,S,S16,Color,ArtifactFC,lab coat,7
+3,S,S16,Color,ArtifactFC,military uniform,2
+3,S,S16,Color,ArtifactFC,paper,4
+3,S,S16,Color,ArtifactFC,recycling bin,3
+3,S,S16,Color,ArtifactFC,school bus,7
+3,S,S16,Color,ArtifactFC,stop sign,7
+3,S,S16,Color,ArtifactFC,wedding dress,7
+3,S,S16,Color,ArtifactNFC,car,2
+3,S,S16,Color,ArtifactNFC,cup,1
+3,S,S16,Color,ArtifactNFC,fork,4
+3,S,S16,Color,ArtifactNFC,laptop,5
+3,S,S16,Color,ArtifactFC,pen,3
+3,S,S16,Color,ArtifactNFC,soap,5
+3,S,S16,Color,ArtifactNFC,table,5
+3,S,S16,Color,ArtifactNFC,towel,4
+3,S,S17,Color,Natural,apple,7
+3,S,S17,Color,Natural,blueberry,3
+3,S,S17,Color,Natural,carrot,1
+3,S,S17,Color,Natural,corn,5
+3,S,S17,Color,Natural,fire,1
+3,S,S17,Color,Natural,kiwi,6
+3,S,S17,Color,Natural,polar bear,1
+3,S,S17,Color,Natural,spinach,6
+3,S,S17,Color,ArtifactFC,coin,1
+3,S,S17,Color,ArtifactFC,lab coat,5
+3,S,S17,Color,ArtifactFC,military uniform,1
+3,S,S17,Color,ArtifactFC,paper,1
+3,S,S17,Color,ArtifactFC,recycling bin,3
+3,S,S17,Color,ArtifactFC,school bus,6
+3,S,S17,Color,ArtifactFC,stop sign,1
+3,S,S17,Color,ArtifactFC,wedding dress,7
+3,S,S17,Color,ArtifactNFC,car,1
+3,S,S17,Color,ArtifactNFC,cup,7
+3,S,S17,Color,ArtifactNFC,fork,7
+3,S,S17,Color,ArtifactNFC,laptop,3
+3,S,S17,Color,ArtifactFC,pen,1
+3,S,S17,Color,ArtifactNFC,soap,3
+3,S,S17,Color,ArtifactNFC,table,3
+3,S,S17,Color,ArtifactNFC,towel,4
+3,S,S18,Color,Natural,apple,3
+3,S,S18,Color,Natural,blueberry,7
+3,S,S18,Color,Natural,carrot,6
+3,S,S18,Color,Natural,corn,6
+3,S,S18,Color,Natural,fire,6
+3,S,S18,Color,Natural,kiwi,7
+3,S,S18,Color,Natural,polar bear,6
+3,S,S18,Color,Natural,spinach,7
+3,S,S18,Color,ArtifactFC,coin,5
+3,S,S18,Color,ArtifactFC,lab coat,5
+3,S,S18,Color,ArtifactFC,military uniform,4
+3,S,S18,Color,ArtifactFC,paper,6
+3,S,S18,Color,ArtifactFC,recycling bin,4
+3,S,S18,Color,ArtifactFC,school bus,6
+3,S,S18,Color,ArtifactFC,stop sign,7
+3,S,S18,Color,ArtifactFC,wedding dress,7
+3,S,S18,Color,ArtifactNFC,car,4
+3,S,S18,Color,ArtifactNFC,cup,4
+3,S,S18,Color,ArtifactNFC,fork,5
+3,S,S18,Color,ArtifactNFC,laptop,4
+3,S,S18,Color,ArtifactFC,pen,4
+3,S,S18,Color,ArtifactNFC,soap,2
+3,S,S18,Color,ArtifactNFC,table,3
+3,S,S18,Color,ArtifactNFC,towel,3
+3,S,S19,Color,Natural,apple,3
+3,S,S19,Color,Natural,blueberry,7
+3,S,S19,Color,Natural,carrot,6
+3,S,S19,Color,Natural,corn,5
+3,S,S19,Color,Natural,fire,5
+3,S,S19,Color,Natural,kiwi,6
+3,S,S19,Color,Natural,polar bear,7
+3,S,S19,Color,Natural,spinach,7
+3,S,S19,Color,ArtifactFC,coin,4
+3,S,S19,Color,ArtifactFC,lab coat,6
+3,S,S19,Color,ArtifactFC,military uniform,2
+3,S,S19,Color,ArtifactFC,paper,5
+3,S,S19,Color,ArtifactFC,recycling bin,4
+3,S,S19,Color,ArtifactFC,school bus,4
+3,S,S19,Color,ArtifactFC,stop sign,7
+3,S,S19,Color,ArtifactFC,wedding dress,5
+3,S,S19,Color,ArtifactNFC,car,3
+3,S,S19,Color,ArtifactNFC,cup,1
+3,S,S19,Color,ArtifactNFC,fork,4
+3,S,S19,Color,ArtifactNFC,laptop,6
+3,S,S19,Color,ArtifactFC,pen,4
+3,S,S19,Color,ArtifactNFC,soap,3
+3,S,S19,Color,ArtifactNFC,table,2
+3,S,S19,Color,ArtifactNFC,towel,1

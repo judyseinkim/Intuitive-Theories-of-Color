@@ -1,0 +1,632 @@
+---
+title: "Shared intuitive theories of color among sighted and congenitally blind adults"
+author: "Judy Kim, Brianna Aheimer, Veronica Montane & Marina Bedny"
+subtitle: Analyses 
+output:
+  html_document:
+    code_folding: hide
+    number_sections: yes
+    theme: paper
+    toc: yes
+    toc_float: no
+  pdf_document:
+    toc: yes
+---
+******
+```{r setup, include = FALSE}
+
+library(tidyverse)
+library(knitr)
+library(here)
+library(ggplot2)
+library(lme4) 
+library(car)
+require(MASS)
+library(ordinal)
+library(broom)
+
+opts_chunk$set(echo = F, message = F, warning = F, 
+               error = F, cache = F, tidy = F, fig.height = 4.5)
+options(shiny.sanitize.errors = FALSE)
+theme_set(theme_classic())
+
+```
+
+All data and source code can be found here: httpls://github.com/judyseinkim/color_theories
+
+# Analysis Procedures 
+
+## Knowledge of specific object colors 
+
+Across Experiments 1 and 3, participants named the color of 54 objects. (Exp 1: 30 objects, "What is one common color of... ?" and Exp 3: 24 objects, "What is the most common color of... ?"). Objects were chosen from three larger types: natural kinds (NK) (e.g. lemons), artifacts with non-functional colors (A-NFC) (e.g. cars) and artifacts with functional colors (A-FC) (e.g. stop-signs).  
+
+### Raw data 
+
+In the table below you can find the colors provided by all individual blind and sighted participants (use the search tool to filter by specific objects or participant). Data for function and filler trials are not shown here, but can be found in 'real_objects_all_raw.csv' in the respository. A note about missing data: responses for 'dollar bill' were not collected for half of the participants (for both blind sighted groups) due to experimenter error. 
+
+```{r}
+
+real_objects_color <- read_csv(here("../data/real object color naming/real_object_naming_color_only.csv"))
+DT::datatable(real_objects_color)
+
+```
+
+### Quantifying color naming agreement
+
+For each object, we quantified naming agreement by using the Simpson's Diversity Index (Majid et al., 2018; Kim et al., 2019). For unique color words (1 to R) provided for each object across all participants within a group (blind or sighted), a naming agreement score was calculated according to the equation below. N is the total number of words used across participants for each object, and n is the number of times each unique word (1 to R) was provided. The index ranges for 0 to 1, where 0 indicates that the same color word was never used by two participants (i.e., low color naming agreement), and 1 suggests all participants provided the same color (i.e., high naming agreement). 
+
+Although participants were instructed to provide one color, a few provided multiple (at most 3, e.g., "red, white, and blue"). All of these colors were included in the analysis. Further, a small proportion of parti cipants  said “I don’t know” or provided words that were not typical color terms (dark, light, beige, neon). These  responses were treated the same as color terms (“I don’t know” counted as one word, coded "IDK").
+
+
+$$D=\frac{\sum_{i=1}^R n_i(n_i-1)}{N(N-1)}$$
+
+******
+This table is the same data as above, this time organized by frequency count of color words provided for each object (within group).
+
+```{r}
+
+roc_gathered <- real_objects_color %>%
+  gather("ColorNum","Color","color1","color2","color3")
+
+roc_counts <- roc_gathered %>% 
+  dplyr::select(Group,Kind,Object,ColorNum,Color) %>%
+  group_by(Group,Kind,Object,Color) %>%
+  summarize(Count = n(), CountI = Count*(Count-1)) %>%
+  na.omit()
+
+DT::datatable(roc_counts[-c(6)])
+
+roc_count_sum <- roc_counts %>% 
+  dplyr::select(Group,Kind,Object,Color,Count) %>%
+  group_by(Group,Kind,Object) %>%
+  summarize(Count_sum = sum(Count))
+
+roc_spread <- roc_counts %>%
+  dplyr::select(Group,Kind,Object,Color,Count) %>%
+  spread(key = Color, value = Count)
+
+```
+
+******
+This time, showing SDIs for each object. 
+
+```{r}
+
+roc_SDI <- roc_counts %>% 
+  dplyr::select(Group,Kind,Object,Count,CountI) %>%
+  group_by(Group,Kind,Object) %>%
+  summarize(SumAll = sum(CountI), N = sum(Count), SumN = N*(N-1), SDI = SumAll/SumN)
+
+DT::datatable(roc_SDI[c(1:3,7)]) %>%
+  DT::formatRound('SDI',digits = 3) 
+  
+```
+
+### Comparison across blind vs. sighted groups
+
+The bar graph below shows SDIs averaged across object types within group (error bars are across items SEM).
+
+```{r}
+
+roc_SDI_summary <- roc_SDI %>% 
+  dplyr::select(Group,Kind,SDI) %>%
+  group_by(Group,Kind) %>%
+  summarise(SDI_M = mean(SDI), SDI_SD = sd(SDI), SDI_SE = SDI_SD/sqrt(n()))
+
+gg_SDI <- roc_SDI_summary %>%
+  ggplot(aes(x = reorder(Group, desc(Group)), y= SDI_M, fill = reorder(Kind, desc(Kind)))) + 
+  geom_col(position = "dodge", width = 0.7) +
+  geom_errorbar(aes(ymin = SDI_M - SDI_SE, ymax = SDI_M + SDI_SE), width = 0.7,
+                position = "dodge") + 
+  scale_fill_manual(values = c("#9BAE61","#737FA4","#A4AFCB"))
+
+gg_SDI + ggtitle("Color Naming Agreement") + 
+  ylab("Simpson's Diversity Index") + xlab("") +
+  theme(plot.title = element_text(size = 15, hjust = 0.5)) + 
+  theme(legend.title = element_blank()) + 
+  theme(axis.text.x = element_text(size = 15)) + 
+  theme(axis.text.y = element_text(size = 13)) 
+
+# Log transformation makes distributions a tiny bit better... 
+# ggplot(data=roc_sums,aes(x=SDI)) + geom_histogram(binwidth=0.1) + facet_grid(Kind ~Group)
+# ggplot(data=roc_sums,aes(x=log(SDI))) + geom_histogram(binwidth=0.6) + facet_grid(Kind ~Group)
+
+```
+
+To examine differences across groups, we perform linear mixed effects regression on log-transformed SDIs (using lme4, objects as random effects). Results are summarized in the table below. As reported in our paper, there is a big difference across groups and across object kinds in color naming agreement, but no group by kind interaction.  
+
+```{r}
+
+SDI_m <- lmer(log(SDI) ~ Group * Kind + (1|Object), data = roc_SDI)
+SDI_table <- Anova(SDI_m)
+kable(SDI_table, digits = 3, format = "pandoc", caption = "ANOVA results")
+
+```
+
+## Color consistency inference 
+
+Participants were asked to judge the likelihood that two objects (e.g. two lemons), randomly chosen from the same object category, would have the same color for natural kinds, artifacts with non-functional colors, and artifacts with functional colors, for real objects (Experiment 1) and novel objects (Experiment 2). In a control condition, participants also judged the likelihood that two people chosen at random would do the same thing with an object (e.g. a leaf vs. a car). Participants rated consistency likelihood on a scale of 1 to 7 (1: not likely, 7: very likely). 
+
+### Inference for real objects 
+
+Both sighted and blind participants showed a double-dissociation between object kind (natural vs. artifacts) and trial type (color vs. usage), as shown belown. For usage trials, participants rated the likelihood that the object would be used for the same purpose as low for natural kinds and high for artifacts. In contrast, for color, participants judged that natural kinds are more likely to have the same color. In addition, both blind and sighted participants knew that not all artifacts are the same--those with function-relevant colors (e.g., stop signs) were judged to have high color consistency. 
+
+```{r} 
+
+# Real Object Inference (VERSION: EXPERIMENT 2 ONLY)
+# note to self: change the subject IDs back to original names
+
+d.real <- read_csv(here("../data/real object inference/real_object_inf_allData_exp2.csv")) 
+noFiller <- c("Color","Function") # ignore filler trials 
+d.realNew<- subset(d.real, TrialType %in% noFiller)
+
+d.real_object <- d.realNew %>%  # This one has artifact, artifactFC, artifactNFC
+  dplyr::select(Group,Kind,Object,TrialType,Rating) %>%
+  group_by(Group,Kind,TrialType,Object) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+d.real_sum <- d.realNew %>% 
+  dplyr::select(Group,TrialType,Kind,Rating) %>%
+  group_by(Group,TrialType,Kind) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+d.real_sum_combo <- unite(d.real_sum, "Condition","TrialType","Kind") 
+d.real_sum_combo$Condition <- factor(d.real_sum_combo$Condition,levels = 
+                                       c("Function_Natural","Function_Artifact",
+                                   "Color_Natural","Color_ArtifactNFC","Color_ArtifactFC"))
+
+gg_d.real <- d.real_sum_combo %>%
+  ggplot(aes(x = reorder(Group, desc(Group)), y = Rating_M, fill = Condition)) + 
+  geom_col(position = "dodge", width = 0.7) + 
+  geom_errorbar(aes(ymin = Rating_M - Rating_SE, ymax = Rating_M + Rating_SE), width = 0.7,
+                position = "dodge") + 
+  scale_fill_manual(values = c("#9BAE61","#737FA4","#9BAE61","#737FA4","#A4AFCB"))
+
+gg_d.real + ggtitle("Real Objects Inference: Experiment2") + 
+  ylab("Consistency Ratings") + xlab("") + 
+  theme(plot.title = element_text(size = 15, hjust = 0.5)) + 
+  theme(legend.title = element_blank()) + 
+  theme(axis.text.x = element_text(size = 15)) + 
+  theme(axis.text.y = element_text(size = 13)) 
+```
+
+Consistency likelihood judgments were analyzed using ordinal logistic regression (using clmm and ordinal packages, participants and objects and random effects). These data can be found in 'data/real_object_inf_allData_exp2.csv'
+
+First, we compared group differences for natural kinds and artifacts with non-functional color only (since artifacts with functional color are a special category). This also allows us to look at a group (blind vs. sighted) x object kind (natural vs. artifact) x trial type (color vs. function) interaction. Baselines are coded as sighted group, usage trial, artifact.
+
+```{r}
+######## Real Objects Inference ########
+
+d.real$Rating <- factor(d.real$Rating, ordered=TRUE, levels=c("1","2","3","4","5","6","7"))
+d.realInf <- d.realNew # This one only has artifact, aritfactFC (for later)
+
+# Pairwise comparisons between conditions (within group)
+# Wilcoxon signed-rank test 
+
+roc_s_color <- subset(d.realInf, Group=="S" & TrialType=="Color")
+roc_cb_color <- subset(d.realInf, Group=="CB" & TrialType=="Color")
+roc_s_usage <- subset(d.realInf, Group=="S" & TrialType=="Function")
+roc_cb_usage <- subset(d.realInf, Group=="CB" & TrialType=="Function")
+
+# for S group first: 
+roc_s_color_sum <- roc_s_color %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+  
+s_c_nk_NFC <- wilcox.test(roc_s_color_sum$Natural, roc_s_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_nk_NFC$p.value/2)
+s_c_FC_NFC <- wilcox.test(roc_s_color_sum$ArtifactFC, roc_s_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_FC_NFC$p.value/2)
+s_c_FC_NK <- wilcox.test(roc_s_color_sum$ArtifactFC, roc_s_color_sum$Natural, paired=TRUE)
+#qnorm(s_c_FC_NK$p.value/2)
+
+roc_s_usage_sum <- roc_s_usage %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+
+s_u_nk_NFC <- wilcox.test(roc_s_usage_sum$Natural, roc_s_usage_sum$Artifact, paired=TRUE)
+#qnorm(s_u_nk_NFC$p.value/2)
+
+# for CB group : 
+roc_cb_color_sum <- roc_cb_color %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+  
+cb_c_nk_NFC <- wilcox.test(roc_cb_color_sum$Natural, roc_cb_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_nk_NFC$p.value/2)
+cb_c_FC_NFC <- wilcox.test(roc_cb_color_sum$ArtifactFC, roc_cb_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_FC_NFC$p.value/2)
+cb_c_FC_NK <- wilcox.test(roc_cb_color_sum$ArtifactFC, roc_cb_color_sum$Natural, paired=TRUE)
+#qnorm(s_c_FC_NK$p.value/2)
+
+roc_cb_usage_sum <- roc_cb_usage %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+
+cb_u_nk_NFC <- wilcox.test(roc_cb_usage_sum$Natural, roc_cb_usage_sum$Artifact, paired=TRUE)
+#qnorm(cb_u_nk_NFC$p.value/2)
+
+## # Ordered Logistic Regression (cumulative link)
+# Fixed: group, object kind, trial type
+# Random: subject, item
+# (Using CLMM + Ordinal package because polr doesn't allow random effects) 
+# item nested in object kind and trial type 
+
+d.realInf$Kind <- str_replace_all(d.realInf$Kind,"ArtifactNFC","Artifact") # recoding so only one "artifact" 
+
+# First only compare natural vs. artifact NFC (e.g., mugs) for both color and function trials 
+
+noArtifactFC <- c("Natural","ArtifactNFC","Artifact") # ignore "ArtifactFC" ("Artifact"" is for function)
+d.realInf <- subset(d.real, TrialType %in% noFiller & Kind %in% noArtifactFC)
+d.realInf$Kind<-str_replace_all(d.realInf$Kind,"ArtifactNFC","Artifact") # recoding so just one "artifact" 
+
+d.realInf$Group <- factor(d.realInf$Group, levels=c('S','CB'))
+d.realInf <- d.realInf %>% 
+  mutate(Group = relevel(Group, ref= 'S')) # baseline is S 0
+d.realInf$TrialType <- factor (d.realInf$TrialType, levels=c('Color','Function'))
+d.realInf <- d.realInf %>% 
+  mutate(TrialType = relevel(TrialType, ref= 'Function')) # baseline is Function 0
+d.realInf$Kind <- factor(d.realInf$Kind, levels=c('Natural','Artifact'))
+d.realInf <- d.realInf %>% 
+  mutate(Kind = relevel(Kind, ref= 'Artifact')) # baseline is Artifact 0
+
+# Group (blind vs. sighted) x object kind (natural vs. artifact) x trial type (color vs. function)
+# i.e., three-way interaction: group*kind*trial type 
+
+# reduced down from maximal (nesting subject in group or adding interaction to object RX is too much)
+
+m.real <- clmm(Rating ~ Group*TrialType*Kind + (1|Subject) + (1|Object), data=d.realInf)
+summary(m.real)
+
+```
+
+We also looked at a group comparison for color trials only, this time including all three kinds of objects (natural, artifact with functional color, artifact with non-functional color).
+
+```{r}
+
+d.realColor <- subset(d.realNew, TrialType %in% "Color")
+d.realColor$Rating <- factor(d.realColor$Rating, ordered=TRUE, levels=c("1","2","3","4","5","6","7"))
+d.realColor$Group <- factor(d.realColor$Group, levels=c('S','CB'))
+d.realColor <- d.realColor %>% 
+  mutate(Group = relevel(Group, ref= 'S')) # baseline is S 0
+d.realColor$Kind <- factor(d.realColor$Kind, levels=c('Natural','ArtifactNFC','ArtifactFC'))
+d.realColor <- d.realColor %>% 
+  mutate(Kind = relevel(Kind, ref= 'ArtifactNFC')) # baseline is Artifact 0
+
+m.realColor <- clmm(Rating ~ Group*Kind + (1|Subject) + (1|Object), data=d.realColor)
+summary(m.realColor)
+
+```
+
+Note that the same color consistency questions for the additional 24 objects used in Experiment 3. The figure below shows this data combined with the data above. These data were not combined in the main paper because the number of trials becomes unbalanced for color vs. usage trials (plus, the results are the same). These data can be found in 'data/real_object_inf_allData_exp2_and_3.csv'.  
+
+```{r} 
+
+# Real Object Inference (VERSION 2: EXPERIMENT 2 AND 3 COMBINED)
+# note to self: change the subject IDs back to original names
+
+d.real2 <- read_csv(here("../data/real object inference/real_object_inf_allData_exp2_and_3.csv")) 
+noFiller <- c("Color","Function") # ignore filler trials 
+d.realNew2<- subset(d.real2, TrialType %in% noFiller)
+
+d.real_object2 <- d.realNew2 %>%  # This one has artifact, artifactFC, artifactNFC
+  dplyr::select(Group,Kind,Object,TrialType,Rating) %>%
+  group_by(Group,Kind,TrialType,Object) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+d.real_sum2 <- d.realNew2 %>% 
+  dplyr::select(Group,TrialType,Kind,Rating) %>%
+  group_by(Group,TrialType,Kind) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+d.real_sum_combo2 <- unite(d.real_sum2, "Condition","TrialType","Kind") 
+d.real_sum_combo2$Condition <- factor(d.real_sum_combo2$Condition,levels = 
+                                       c("Function_Natural","Function_Artifact",
+                                   "Color_Natural","Color_ArtifactNFC","Color_ArtifactFC"))
+
+gg_d.real2 <- d.real_sum_combo2 %>%
+  ggplot(aes(x = reorder(Group, desc(Group)), y = Rating_M, fill = Condition)) + 
+  geom_col(position = "dodge", width = 0.7) + 
+  geom_errorbar(aes(ymin = Rating_M - Rating_SE, ymax = Rating_M + Rating_SE), width = 0.7,
+                position = "dodge") + 
+  scale_fill_manual(values = c("#9BAE61","#737FA4","#9BAE61","#737FA4","#A4AFCB"))
+
+gg_d.real2 + ggtitle("Real Objects Inference: Experiments 2 and 3") + 
+  ylab("Consistency Ratings") + xlab("") + 
+  theme(plot.title = element_text(size = 15, hjust = 0.5)) + 
+  theme(legend.title = element_blank()) + 
+  theme(axis.text.x = element_text(size = 15)) + 
+  theme(axis.text.y = element_text(size = 13)) 
+
+```
+
+### Correlation with functional relevance of color (for artifacts) 
+
+Initially, the functionally-relevant vs. non-functionally relevant distinction was decided by the experimenters. In reality, this is likely not an either-or distinction: the colors of an artifact may have varying levels of relevance for its function. Therefore, after all the main had been collected, we additionally obtained MTurk ratings (n=20) for the functional relevance of color to artifacts. Participants were asked "How important is the function of a XXX to its function?" and had to rate on a scale of 1 to 7 (not at all to very relevant). Below are the average ratings, by object.
+
+```{r}
+roc_function_tidy <- read_csv(here("../data/real object inference/real_object_function.csv"))
+
+d.real_function <- roc_function_tidy %>% 
+  dplyr::select(Experiment,Object,subjID,Rating) %>%
+  group_by(Experiment,Object) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+DT::datatable(d.real_function[1:4]) %>%
+  DT::formatRound('Rating_SD',digits = 2) 
+```
+
+We split the artifacts into artifacts with functional vs. non-functional colors according to ratings from MTurk participants. Artifacts with functional colors have a rating above 4. Both blind and sighted participants' consistency ratings were correlated with the functional relevance judgments. 
+
+```{r}
+onlyArtifact <- c("Artifact", "ArtifactFC","ArtifactNFC")
+d.real_artifact <- subset(d.real_object2, Kind %in% onlyArtifact & TrialType %in% "Color")
+
+d.function_all <- left_join(d.real_artifact, d.real_function, by = "Object")
+
+gg_function <- ggplot(d.function_all,aes(x = Rating_M.y, y = Rating_M.x, color = Group)) + 
+  geom_point() + 
+  geom_smooth(method = lm, aes(fill = Group))  
+
+gg_function + ggtitle("Artifacts: Functional relevance vs. Consistency") + 
+  ylab("Color Consistency Rating") + xlab("Functional Relevance Rating (MTurk)") +
+  theme(plot.title = element_text(size = 15, hjust = 0.5)) + 
+  theme(legend.title = element_blank()) + 
+  theme(axis.text.x = element_text(size = 15)) + 
+  theme(axis.text.y = element_text(size = 13)) 
+
+s_artifact_cons <- subset(d.function_all, Group=="S")
+cor.test(x = s_artifact_cons$Rating_M.y, 
+         y = s_artifact_cons$Rating_M.x, method = 'spearman') # rho=0.61, p<0.0001
+
+cb_artifact_cons <- subset(d.function_all, Group=="CB")
+cor.test(x = cb_artifact_cons$Rating_M.y, 
+         y = cb_artifact_cons$Rating_M.x, method = 'spearman') # rho=0.63, p<0.0001
+
+```
+
+### Inference for novel objects 
+
+Inferences for novel objects were nearly identical to inferences for real objects. Again, both groups show a  double-dissociation between object kind (natural vs. artifacts) and trial type (color vs. usage).
+
+```{r} 
+
+d.novel <- read_csv(here("../data/novel object inference/novel_object_inf_allData.csv"))
+noFiller <- c("Color","Function") # ignore filler trials 
+d.novelNew <- subset(d.novel, TrialType %in% noFiller)
+
+d.novel_object <- d.novelNew %>%  # This one has artifact, artifactFC, artifactNFC
+  dplyr::select(Group,Kind,Object,TrialType,Rating) %>%
+  group_by(Group,Kind,TrialType,Object) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+d.novel_sum <- d.novelNew %>% 
+  dplyr::select(Group,TrialType,Kind,Rating) %>%
+  group_by(Group,TrialType,Kind) %>%
+  summarise(Rating_M = mean(Rating,na.rm=T), Rating_SD = sd(Rating,na.rm=T), 
+            Rating_SE = Rating_SD/sqrt(n()))
+
+d.novel_sum_combo <- unite(d.novel_sum, "Condition","TrialType","Kind") 
+d.novel_sum_combo$Condition <- factor(d.novel_sum_combo$Condition,levels = 
+                                       c("Function_Natural","Function_Artifact",
+                                   "Color_Natural","Color_ArtifactNFC","Color_ArtifactFC"))
+
+gg_d.novel <- d.novel_sum_combo %>%
+  ggplot(aes(x = reorder(Group, desc(Group)), y = Rating_M, fill = Condition)) + 
+  geom_col(position = "dodge", width = 0.7) + 
+  geom_errorbar(aes(ymin = Rating_M - Rating_SE, ymax = Rating_M + Rating_SE), width = 0.7,
+                position = "dodge") + 
+  scale_fill_manual(values = c("#9BAE61","#737FA4","#9BAE61","#737FA4","#A4AFCB"))
+
+gg_d.novel + ggtitle("Novel Objects Inference") + 
+  ylab("Consistency Ratings") + xlab("") + 
+  theme(plot.title = element_text(size = 15, hjust = 0.5)) + 
+  theme(legend.title = element_blank()) + 
+  theme(axis.text.x = element_text(size = 15)) + 
+  theme(axis.text.y = element_text(size = 13)) 
+
+```
+
+As with real objects, we look at consistency likelihood judgments were analyzed using ordinal logistic regression.
+
+Starting with a group comparison for natural kinds and artifacts with non-functional color only (looking for a group (blind vs. sighted) x object kind (natural vs. artifact) x trial type (color vs. function) interaction, baselines sighted group, usage trial, artifact). 
+
+```{r}
+
+######## Novel Objects Inference ########
+
+d.novel$Rating <- factor(d.novel$Rating, ordered=TRUE, levels=c("1","2","3","4","5","6","7"))
+d.novelInf <- d.novelNew # This one only has artifact, aritfactFC (for later)
+
+# Pairwise comparisons between conditions (within group)
+# Wilcoxon signed-rank test 
+
+noc_s_color <- subset(d.novelInf, Group=="S" & TrialType=="Color")
+noc_cb_color <- subset(d.novelInf, Group=="CB" & TrialType=="Color")
+noc_s_usage <- subset(d.novelInf, Group=="S" & TrialType=="Function")
+noc_cb_usage <- subset(d.novelInf, Group=="CB" & TrialType=="Function")
+
+# for S group first: 
+noc_s_color_sum <- noc_s_color %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+  
+s_c_nk_NFC_n <- wilcox.test(noc_s_color_sum$Natural,noc_s_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_nk_NFC_n$p.value/2)
+s_c_FC_NFC_n <- wilcox.test(noc_s_color_sum$ArtifactFC, noc_s_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_FC_NFC_n$p.value/2)
+s_c_FC_NK_n <- wilcox.test(noc_s_color_sum$ArtifactFC, noc_s_color_sum$Natural, paired=TRUE)
+#qnorm(s_c_FC_NK_n$p.value/2)
+
+noc_s_usage_sum <- noc_s_usage %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+
+s_u_nk_NFC_n <- wilcox.test(noc_s_usage_sum$Natural, noc_s_usage_sum$Artifact, paired=TRUE)
+#qnorm(s_u_nk_NFC_n$p.value/2)
+
+# for CB group : 
+noc_cb_color_sum <- noc_cb_color %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+  
+cb_c_nk_NFC_n <- wilcox.test(noc_cb_color_sum$Natural, noc_cb_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_nk_NFC_n$p.value/2)
+cb_c_FC_NFC_n <- wilcox.test(noc_cb_color_sum$ArtifactFC, noc_cb_color_sum$ArtifactNFC, paired=TRUE)
+#qnorm(s_c_FC_NFC_n$p.value/2)
+cb_c_FC_NK_n <- wilcox.test(noc_cb_color_sum$ArtifactFC, noc_cb_color_sum$Natural, paired=TRUE)
+#qnorm(s_c_FC_NK_n$p.value/2)
+
+noc_cb_usage_sum <- noc_cb_usage %>% 
+  dplyr::select(Subject,Kind,Object,Rating) %>%
+  group_by(Kind,Subject) %>%
+  summarise(Rating_m = mean(Rating, na.rm=T)) %>% 
+  spread(Kind, Rating_m)
+
+cb_u_nk_NFC_n <- wilcox.test(noc_cb_usage_sum$Natural, noc_cb_usage_sum$Artifact, paired=TRUE)
+#qnorm(cb_u_nk_NFC_n$p.value/2)
+
+## Ordered Logistic Regression (cumulative link)
+# Fixed: group, object kind, trial type
+# Random: subject, item
+# (Using CLMM + Ordinal package because polr doesn't allow random effects) 
+# item nested in object kind and trial type 
+
+d.novelInf$Kind <- str_replace_all(d.novelInf$Kind,"ArtifactNFC","Artifact") # recoding so only one "artifact" 
+
+# First only compare natural vs. artifact NFC (e.g., mugs) for both color and function trials 
+
+noArtifactFC <- c("Natural","ArtifactNFC","Artifact") # ignore "ArtifactFC" ("Artifact"" is for function)
+d.novelInf <- subset(d.novel, TrialType %in% noFiller & Kind %in% noArtifactFC)
+d.novelInf$Kind<-str_replace_all(d.novelInf$Kind,"ArtifactNFC","Artifact") # recoding so just one "artifact" 
+
+d.novelInf$Group <- factor(d.novelInf$Group, levels=c('S','CB'))
+d.novelInf <- d.novelInf %>% 
+  mutate(Group = relevel(Group, ref= 'S')) # baseline is S 0
+d.novelInf$TrialType <- factor (d.novelInf$TrialType, levels=c('Color','Function'))
+d.novelInf <- d.novelInf %>% 
+  mutate(TrialType = relevel(TrialType, ref= 'Function')) # baseline is Function 0
+d.novelInf$Kind <- factor(d.novelInf$Kind, levels=c('Natural','Artifact'))
+d.novelInf <- d.novelInf %>% 
+  mutate(Kind = relevel(Kind, ref= 'Artifact')) # baseline is Artifact 0
+
+# Group (blind vs. sighted) x object kind (natural vs. artifact) x trial type (color vs. function)
+# i.e., three-way interaction: group*kind*trial type 
+
+m.novel <- clmm(Rating ~ Group*TrialType*Kind + (1+TrialType*Kind|Subject) + (1|Object), data=d.novelInf)
+summary(m.novel)
+
+```
+
+Now for group comparison for color trials only, this time including all three kinds of objects (natural, artifact with functional color, artifact with non-functional color).
+
+```{r}
+
+d.novelColor <- subset(d.novelNew, TrialType %in% "Color")
+d.novelColor$Rating <- factor(d.novelColor$Rating, ordered=TRUE, levels=c("1","2","3","4","5","6","7"))
+d.novelColor$Group <- factor(d.novelColor$Group, levels=c('S','CB'))
+d.novelColor <- d.novelColor %>% 
+  mutate(Group = relevel(Group, ref= 'S')) # baseline is S 0
+d.novelColor$Kind <- factor(d.novelColor$Kind, levels=c('Natural','ArtifactNFC','ArtifactFC'))
+d.novelColor <- d.novelColor %>% 
+  mutate(Kind = relevel(Kind, ref= 'ArtifactNFC')) # baseline is Artifact 0
+
+m.novelColor <- clmm(Rating ~ Group*Kind + (1|Subject) + (1|Object) , data=d.novelColor)
+summary(m.novelColor)
+
+
+```
+
+## Explanations
+
+In Experiment 3, blind and sighted participants were asked a series of questions about the colors of objects (1. What is the most common color of apples? 2. Are all apples ____? If no, please list the other colors of apples. 3. If you picked two apples at random... 4. Are all parts of an apple a single color, or does the color vary across the apple? If it varies, how does the color vary over the apple?). Finally, participants were asked, "5. Why are apples that (those) color (colors)?" The answers for Question 5 were analyzed according to the procedure below. 
+
+Note that at the start of the experiment, participants were instructed: "This question is meant to be very open-ended, so you should provide whatever explanation seems right to you." In addition, since the preceeding questions asked about the most common color as well as how color might vary, participants were additionally instructed: "If you had answered that “All pies are crumbly,” then you should provide an explanation for why all pies are crumbly. If you had answered that “No, not all pies are crumbly, some are smooth, flaky, and so on”, then you should provide an answer for why pies are all of those different textures." Therefore, most of the explanations provided are about the common color of objects, but some are also for why colors vary across instances of the same object. We did not separate these answers, but instead created a "it varies" category when coding explanations by type. 
+
+All raw explanations can be found in 'data/explanations.csv'. 
+
+### Coding by type 
+
+Explanation types were decided by the experimenters based on examining all the explanations (blind to group and object). There were 9 types: ‘process’, ‘depends on’, ‘just is’, ‘material’, ‘social/aesthetic’, ‘maker’, ‘visibility’, ‘convention’, and ‘I don’t know’. Below is a key that the coders used to tag explanations by type.
+
+``` {r}
+
+expl_key <- read_csv(here("../data/explanations/explanations_key.csv"))
+DT::datatable(expl_key)
+
+```
+
+Explanations were coded by four coders who did not know which object or group each explanation came from. Note, however, that in a small number of instances participants said the object's name in their explanations, and at other times, it was fairly easy to discern the object from the explanation.
+
+There was large variability in how many words participants used in their explanations (range=1 to 165 words, M=13 words). This meant that each explanation (i.e., what one participant said for one object) could contain multiple explanation types. For example, a participants’ answer that the color of a wedding dress is due to “symbolism, or personal style”, was coded as containing ‘convention’ (for symbolism) and ‘social/aesthetic’ (for personal style) explanations. However, the same word or phrase (e.g., personal style) was never coded for more than one explanation type. 
+
+Some participants gave lengthier explanations than others, without necessarily providing additional information (e.g., often telling anecdotal stories to make a point). For wedding dress, for instance, another participant explained: “well, there's something about tradition, and white being associated with purity and virginity and all that, but beyond that it's just a matter of demand, if you want a baby barf green wedding dress that's your problem”. This explanation was also coded with ‘convention’ and social/aesthetic’. 
+
+Coding was then filtered according to the criteria that at least three out of four coders have to agree. The first author (5th coder) made some additional changes, again keeping group and objects blind. After this process, the number of explanation types per explanation (again, a single explanation from one participant for one object) only ranged from 1-3 (mean=1.26).  
+
+
+```{r}
+
+expl <- read_csv(here("../data/explanations/explanations.csv"))
+
+# organized by group (S/CB) x object kind (NK/AFC/ANFC) x explanation type (9 types, coded as 0 or 1)
+
+expl_tidy <- expl %>% 
+  gather(key="type",value="Response","Process", "Depends","Just is","Material","Social","Maker","Visibility","Convention","IDK")
+
+expl_tidy$type <- factor(expl_tidy$type,
+  levels=c("Just is","Process","Depends","Maker","Social","Material","Visibility","Convention","IDK")) # reorder 
+
+expl_sum <- expl_tidy %>% # should do a differnet version of this, but by objects
+  dplyr::select(Group,SubjID,Kind,Item,type,Response,LENGTH,SUM) %>%
+  group_by(Group,Kind,type) %>% 
+  summarise(Resp_Perc = mean(Response,na.rm=T), Length_M = mean(LENGTH,na.rm=T), 
+            Sum_M = mean(SUM,na.rm=T))
+
+expl_sum$Int <- interaction(expl_sum$Group, expl_sum$Kind)
+  
+gg_expl <- expl_sum %>%
+  ggplot(aes(fill = type,y = Resp_Perc,x = reorder(Int, desc(Int)))) + 
+  geom_bar(position = "fill", stat ="identity") +
+  scale_x_discrete("Int") +
+  scale_fill_manual(values = c("#44572B","#84AC4F","#B4D090",
+                                 "#E5F0D9","#C4D5EC","#849FDF",
+                                 "#4569A9","#354E76","#30333B")) 
+
+gg_expl + ggtitle("Explanations")
+
+```
+
+### Across group comparison 
+
+We examined how similar explantions were across groups by computing Spearmans' correlation for across groups wtihin object kind and across kinds within groups.
+
+*****
+
+
+
+
+
+
+
+

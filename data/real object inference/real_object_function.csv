@@ -1,0 +1,721 @@
+Object,Experiment,Kind,subjID,Rating
+go traffic,2,AritfactFC,s1,7
+basketball,2,AritfactFC,s1,6
+chalkboard,2,AritfactFC,s1,7
+dollar bill,2,AritfactFC,s1,6
+fire truck,2,AritfactFC,s1,5
+lab coat,2,AritfactFC,s1,1
+police uniform,2,AritfactFC,s1,4
+street sign,2,AritfactFC,s1,7
+taxi cab,2,AritfactFC,s1,3
+tennis ball,2,AritfactFC,s1,1
+toilet,2,AritfactFC,s1,1
+book,2,ArtifactNFC,s1,1
+couch,2,ArtifactNFC,s1,1
+crayon,2,ArtifactNFC,s1,6
+lunch box,2,ArtifactNFC,s1,1
+mug,2,ArtifactNFC,s1,1
+pants,2,ArtifactNFC,s1,7
+shoes,2,ArtifactNFC,s1,4
+purse,2,ArtifactNFC,s1,4
+suitcase,2,ArtifactNFC,s1,1
+vacuum,2,ArtifactNFC,s1,1
+coin,3,AritfactFC,s1,6
+military uniform,3,AritfactFC,s1,5
+paper,3,AritfactFC,s1,7
+recycling bin,3,AritfactFC,s1,1
+school bus,3,AritfactFC,s1,3
+stop sign,3,AritfactFC,s1,7
+wedding dress,3,AritfactFC,s1,4
+car,3,ArtifactNFC,s1,1
+cup,3,ArtifactNFC,s1,1
+fork,3,ArtifactNFC,s1,1
+laptop,3,ArtifactNFC,s1,1
+pen,3,ArtifactNFC,s1,7
+soap,3,ArtifactNFC,s1,1
+table,3,ArtifactNFC,s1,1
+towel,3,ArtifactNFC,s1,1
+go traffic,2,AritfactFC,s2,7
+basketball,2,AritfactFC,s2,5
+chalkboard,2,AritfactFC,s2,4
+dollar bill,2,AritfactFC,s2,5
+fire truck,2,AritfactFC,s2,7
+lab coat,2,AritfactFC,s2,5
+police uniform,2,AritfactFC,s2,5
+street sign,2,AritfactFC,s2,5
+taxi cab,2,AritfactFC,s2,6
+tennis ball,2,AritfactFC,s2,3
+toilet,2,AritfactFC,s2,5
+book,2,ArtifactNFC,s2,1
+couch,2,ArtifactNFC,s2,2
+crayon,2,ArtifactNFC,s2,2
+lunch box,2,ArtifactNFC,s2,1
+mug,2,ArtifactNFC,s2,6
+pants,2,ArtifactNFC,s2,2
+shoes,2,ArtifactNFC,s2,2
+purse,2,ArtifactNFC,s2,1
+suitcase,2,ArtifactNFC,s2,6
+vacuum,2,ArtifactNFC,s2,1
+coin,3,AritfactFC,s2,5
+military uniform,3,AritfactFC,s2,5
+paper,3,AritfactFC,s2,6
+recycling bin,3,AritfactFC,s2,6
+school bus,3,AritfactFC,s2,5
+stop sign,3,AritfactFC,s2,7
+wedding dress,3,AritfactFC,s2,4
+car,3,ArtifactNFC,s2,2
+cup,3,ArtifactNFC,s2,2
+fork,3,ArtifactNFC,s2,1
+laptop,3,ArtifactNFC,s2,1
+pen,3,ArtifactNFC,s2,2
+soap,3,ArtifactNFC,s2,3
+table,3,ArtifactNFC,s2,1
+towel,3,ArtifactNFC,s2,1
+go traffic,2,AritfactFC,s3,6
+basketball,2,AritfactFC,s3,6
+chalkboard,2,AritfactFC,s3,5
+dollar bill,2,AritfactFC,s3,4
+fire truck,2,AritfactFC,s3,3
+lab coat,2,AritfactFC,s3,1
+police uniform,2,AritfactFC,s3,3
+street sign,2,AritfactFC,s3,5
+taxi cab,2,AritfactFC,s3,6
+tennis ball,2,AritfactFC,s3,4
+toilet,2,AritfactFC,s3,4
+book,2,ArtifactNFC,s3,5
+couch,2,ArtifactNFC,s3,6
+crayon,2,ArtifactNFC,s3,6
+lunch box,2,ArtifactNFC,s3,4
+mug,2,ArtifactNFC,s3,3
+pants,2,ArtifactNFC,s3,3
+shoes,2,ArtifactNFC,s3,3
+purse,2,ArtifactNFC,s3,7
+suitcase,2,ArtifactNFC,s3,6
+vacuum,2,ArtifactNFC,s3,3
+coin,3,AritfactFC,s3,2
+military uniform,3,AritfactFC,s3,6
+paper,3,AritfactFC,s3,6
+recycling bin,3,AritfactFC,s3,7
+school bus,3,AritfactFC,s3,4
+stop sign,3,AritfactFC,s3,7
+wedding dress,3,AritfactFC,s3,4
+car,3,ArtifactNFC,s3,4
+cup,3,ArtifactNFC,s3,5
+fork,3,ArtifactNFC,s3,6
+laptop,3,ArtifactNFC,s3,5
+pen,3,ArtifactNFC,s3,3
+soap,3,ArtifactNFC,s3,4
+table,3,ArtifactNFC,s3,4
+towel,3,ArtifactNFC,s3,4
+go traffic,2,AritfactFC,s4,7
+basketball,2,AritfactFC,s4,4
+chalkboard,2,AritfactFC,s4,4
+dollar bill,2,AritfactFC,s4,3
+fire truck,2,AritfactFC,s4,6
+lab coat,2,AritfactFC,s4,4
+police uniform,2,AritfactFC,s4,5
+street sign,2,AritfactFC,s4,4
+taxi cab,2,AritfactFC,s4,5
+tennis ball,2,AritfactFC,s4,4
+toilet,2,AritfactFC,s4,1
+book,2,ArtifactNFC,s4,1
+couch,2,ArtifactNFC,s4,1
+crayon,2,ArtifactNFC,s4,7
+lunch box,2,ArtifactNFC,s4,1
+mug,2,ArtifactNFC,s4,1
+pants,2,ArtifactNFC,s4,2
+shoes,2,ArtifactNFC,s4,1
+purse,2,ArtifactNFC,s4,1
+suitcase,2,ArtifactNFC,s4,1
+vacuum,2,ArtifactNFC,s4,1
+coin,3,AritfactFC,s4,3
+military uniform,3,AritfactFC,s4,3
+paper,3,AritfactFC,s4,6
+recycling bin,3,AritfactFC,s4,5
+school bus,3,AritfactFC,s4,7
+stop sign,3,AritfactFC,s4,6
+wedding dress,3,AritfactFC,s4,7
+car,3,ArtifactNFC,s4,2
+cup,3,ArtifactNFC,s4,1
+fork,3,ArtifactNFC,s4,1
+laptop,3,ArtifactNFC,s4,1
+pen,3,ArtifactNFC,s4,3
+soap,3,ArtifactNFC,s4,1
+table,3,ArtifactNFC,s4,1
+towel,3,ArtifactNFC,s4,1
+go traffic,2,AritfactFC,s5,7
+basketball,2,AritfactFC,s5,6
+chalkboard,2,AritfactFC,s5,1
+dollar bill,2,AritfactFC,s5,7
+fire truck,2,AritfactFC,s5,5
+lab coat,2,AritfactFC,s5,7
+police uniform,2,AritfactFC,s5,6
+street sign,2,AritfactFC,s5,7
+taxi cab,2,AritfactFC,s5,2
+tennis ball,2,AritfactFC,s5,7
+toilet,2,AritfactFC,s5,7
+book,2,ArtifactNFC,s5,1
+couch,2,ArtifactNFC,s5,7
+crayon,2,ArtifactNFC,s5,7
+lunch box,2,ArtifactNFC,s5,4
+mug,2,ArtifactNFC,s5,7
+pants,2,ArtifactNFC,s5,4
+shoes,2,ArtifactNFC,s5,6
+purse,2,ArtifactNFC,s5,5
+suitcase,2,ArtifactNFC,s5,7
+vacuum,2,ArtifactNFC,s5,1
+coin,3,AritfactFC,s5,7
+military uniform,3,AritfactFC,s5,7
+paper,3,AritfactFC,s5,6
+recycling bin,3,AritfactFC,s5,7
+school bus,3,AritfactFC,s5,7
+stop sign,3,AritfactFC,s5,7
+wedding dress,3,AritfactFC,s5,7
+car,3,ArtifactNFC,s5,7
+cup,3,ArtifactNFC,s5,1
+fork,3,ArtifactNFC,s5,6
+laptop,3,ArtifactNFC,s5,1
+pen,3,ArtifactNFC,s5,7
+soap,3,ArtifactNFC,s5,7
+table,3,ArtifactNFC,s5,7
+towel,3,ArtifactNFC,s5,7
+go traffic,2,AritfactFC,s6,7
+basketball,2,AritfactFC,s6,5
+chalkboard,2,AritfactFC,s6,5
+dollar bill,2,AritfactFC,s6,1
+fire truck,2,AritfactFC,s6,7
+lab coat,2,AritfactFC,s6,7
+police uniform,2,AritfactFC,s6,6
+street sign,2,AritfactFC,s6,7
+taxi cab,2,AritfactFC,s6,7
+tennis ball,2,AritfactFC,s6,5
+toilet,2,AritfactFC,s6,1
+book,2,ArtifactNFC,s6,1
+couch,2,ArtifactNFC,s6,1
+crayon,2,ArtifactNFC,s6,7
+lunch box,2,ArtifactNFC,s6,1
+mug,2,ArtifactNFC,s6,1
+pants,2,ArtifactNFC,s6,1
+shoes,2,ArtifactNFC,s6,1
+purse,2,ArtifactNFC,s6,1
+suitcase,2,ArtifactNFC,s6,1
+vacuum,2,ArtifactNFC,s6,1
+coin,3,AritfactFC,s6,1
+military uniform,3,AritfactFC,s6,6
+paper,3,AritfactFC,s6,7
+recycling bin,3,AritfactFC,s6,4
+school bus,3,AritfactFC,s6,7
+stop sign,3,AritfactFC,s6,7
+wedding dress,3,AritfactFC,s6,6
+car,3,ArtifactNFC,s6,1
+cup,3,ArtifactNFC,s6,1
+fork,3,ArtifactNFC,s6,1
+laptop,3,ArtifactNFC,s6,1
+pen,3,ArtifactNFC,s6,1
+soap,3,ArtifactNFC,s6,1
+table,3,ArtifactNFC,s6,1
+towel,3,ArtifactNFC,s6,1
+go traffic,2,AritfactFC,s7,3
+basketball,2,AritfactFC,s7,4
+chalkboard,2,AritfactFC,s7,5
+dollar bill,2,AritfactFC,s7,3
+fire truck,2,AritfactFC,s7,6
+lab coat,2,AritfactFC,s7,5
+police uniform,2,AritfactFC,s7,6
+street sign,2,AritfactFC,s7,5
+taxi cab,2,AritfactFC,s7,4
+tennis ball,2,AritfactFC,s7,4
+toilet,2,AritfactFC,s7,5
+book,2,ArtifactNFC,s7,5
+couch,2,ArtifactNFC,s7,5
+crayon,2,ArtifactNFC,s7,4
+lunch box,2,ArtifactNFC,s7,3
+mug,2,ArtifactNFC,s7,5
+pants,2,ArtifactNFC,s7,4
+shoes,2,ArtifactNFC,s7,5
+purse,2,ArtifactNFC,s7,6
+suitcase,2,ArtifactNFC,s7,6
+vacuum,2,ArtifactNFC,s7,4
+coin,3,AritfactFC,s7,3
+military uniform,3,AritfactFC,s7,4
+paper,3,AritfactFC,s7,5
+recycling bin,3,AritfactFC,s7,5
+school bus,3,AritfactFC,s7,5
+stop sign,3,AritfactFC,s7,3
+wedding dress,3,AritfactFC,s7,6
+car,3,ArtifactNFC,s7,5
+cup,3,ArtifactNFC,s7,5
+fork,3,ArtifactNFC,s7,3
+laptop,3,ArtifactNFC,s7,6
+pen,3,ArtifactNFC,s7,3
+soap,3,ArtifactNFC,s7,3
+table,3,ArtifactNFC,s7,5
+towel,3,ArtifactNFC,s7,5
+go traffic,2,AritfactFC,s8,7
+basketball,2,AritfactFC,s8,5
+chalkboard,2,AritfactFC,s8,1
+dollar bill,2,AritfactFC,s8,2
+fire truck,2,AritfactFC,s8,7
+lab coat,2,AritfactFC,s8,5
+police uniform,2,AritfactFC,s8,2
+street sign,2,AritfactFC,s8,7
+taxi cab,2,AritfactFC,s8,1
+tennis ball,2,AritfactFC,s8,5
+toilet,2,AritfactFC,s8,1
+book,2,ArtifactNFC,s8,1
+couch,2,ArtifactNFC,s8,2
+crayon,2,ArtifactNFC,s8,7
+lunch box,2,ArtifactNFC,s8,1
+mug,2,ArtifactNFC,s8,1
+pants,2,ArtifactNFC,s8,5
+shoes,2,ArtifactNFC,s8,2
+purse,2,ArtifactNFC,s8,6
+suitcase,2,ArtifactNFC,s8,2
+vacuum,2,ArtifactNFC,s8,1
+coin,3,AritfactFC,s8,1
+military uniform,3,AritfactFC,s8,6
+paper,3,AritfactFC,s8,6
+recycling bin,3,AritfactFC,s8,6
+school bus,3,AritfactFC,s8,7
+stop sign,3,AritfactFC,s8,7
+wedding dress,3,AritfactFC,s8,4
+car,3,ArtifactNFC,s8,2
+cup,3,ArtifactNFC,s8,1
+fork,3,ArtifactNFC,s8,1
+laptop,3,ArtifactNFC,s8,3
+pen,3,ArtifactNFC,s8,6
+soap,3,ArtifactNFC,s8,2
+table,3,ArtifactNFC,s8,1
+towel,3,ArtifactNFC,s8,3
+go traffic,2,AritfactFC,s9,6
+basketball,2,AritfactFC,s9,5
+chalkboard,2,AritfactFC,s9,5
+dollar bill,2,AritfactFC,s9,5
+fire truck,2,AritfactFC,s9,4
+lab coat,2,AritfactFC,s9,6
+police uniform,2,AritfactFC,s9,5
+street sign,2,AritfactFC,s9,6
+taxi cab,2,AritfactFC,s9,5
+tennis ball,2,AritfactFC,s9,6
+toilet,2,AritfactFC,s9,6
+book,2,ArtifactNFC,s9,7
+couch,2,ArtifactNFC,s9,4
+crayon,2,ArtifactNFC,s9,4
+lunch box,2,ArtifactNFC,s9,6
+mug,2,ArtifactNFC,s9,6
+pants,2,ArtifactNFC,s9,4
+shoes,2,ArtifactNFC,s9,5
+purse,2,ArtifactNFC,s9,5
+suitcase,2,ArtifactNFC,s9,6
+vacuum,2,ArtifactNFC,s9,5
+coin,3,AritfactFC,s9,6
+military uniform,3,AritfactFC,s9,4
+paper,3,AritfactFC,s9,6
+recycling bin,3,AritfactFC,s9,5
+school bus,3,AritfactFC,s9,7
+stop sign,3,AritfactFC,s9,4
+wedding dress,3,AritfactFC,s9,4
+car,3,ArtifactNFC,s9,4
+cup,3,ArtifactNFC,s9,5
+fork,3,ArtifactNFC,s9,5
+laptop,3,ArtifactNFC,s9,5
+pen,3,ArtifactNFC,s9,4
+soap,3,ArtifactNFC,s9,7
+table,3,ArtifactNFC,s9,5
+towel,3,ArtifactNFC,s9,6
+go traffic,2,AritfactFC,s10,7
+basketball,2,AritfactFC,s10,2
+chalkboard,2,AritfactFC,s10,1
+dollar bill,2,AritfactFC,s10,4
+fire truck,2,AritfactFC,s10,6
+lab coat,2,AritfactFC,s10,3
+police uniform,2,AritfactFC,s10,5
+street sign,2,AritfactFC,s10,5
+taxi cab,2,AritfactFC,s10,1
+tennis ball,2,AritfactFC,s10,2
+toilet,2,AritfactFC,s10,1
+book,2,ArtifactNFC,s10,1
+couch,2,ArtifactNFC,s10,1
+crayon,2,ArtifactNFC,s10,7
+lunch box,2,ArtifactNFC,s10,1
+mug,2,ArtifactNFC,s10,1
+pants,2,ArtifactNFC,s10,1
+shoes,2,ArtifactNFC,s10,1
+purse,2,ArtifactNFC,s10,1
+suitcase,2,ArtifactNFC,s10,1
+vacuum,2,ArtifactNFC,s10,1
+coin,3,AritfactFC,s10,5
+military uniform,3,AritfactFC,s10,5
+paper,3,AritfactFC,s10,5
+recycling bin,3,AritfactFC,s10,3
+school bus,3,AritfactFC,s10,1
+stop sign,3,AritfactFC,s10,6
+wedding dress,3,AritfactFC,s10,2
+car,3,ArtifactNFC,s10,1
+cup,3,ArtifactNFC,s10,1
+fork,3,ArtifactNFC,s10,1
+laptop,3,ArtifactNFC,s10,1
+pen,3,ArtifactNFC,s10,7
+soap,3,ArtifactNFC,s10,1
+table,3,ArtifactNFC,s10,1
+towel,3,ArtifactNFC,s10,1
+go traffic,2,AritfactFC,s11,1
+basketball,2,AritfactFC,s11,1
+chalkboard,2,AritfactFC,s11,1
+dollar bill,2,AritfactFC,s11,6
+fire truck,2,AritfactFC,s11,1
+lab coat,2,AritfactFC,s11,2
+police uniform,2,AritfactFC,s11,1
+street sign,2,AritfactFC,s11,1
+taxi cab,2,AritfactFC,s11,6
+tennis ball,2,AritfactFC,s11,2
+toilet,2,AritfactFC,s11,7
+book,2,ArtifactNFC,s11,1
+couch,2,ArtifactNFC,s11,1
+crayon,2,ArtifactNFC,s11,7
+lunch box,2,ArtifactNFC,s11,1
+mug,2,ArtifactNFC,s11,6
+pants,2,ArtifactNFC,s11,7
+shoes,2,ArtifactNFC,s11,4
+purse,2,ArtifactNFC,s11,1
+suitcase,2,ArtifactNFC,s11,4
+vacuum,2,ArtifactNFC,s11,1
+coin,3,AritfactFC,s11,1
+military uniform,3,AritfactFC,s11,1
+paper,3,AritfactFC,s11,1
+recycling bin,3,AritfactFC,s11,1
+school bus,3,AritfactFC,s11,6
+stop sign,3,AritfactFC,s11,7
+wedding dress,3,AritfactFC,s11,7
+car,3,ArtifactNFC,s11,1
+cup,3,ArtifactNFC,s11,7
+fork,3,ArtifactNFC,s11,7
+laptop,3,ArtifactNFC,s11,6
+pen,3,ArtifactNFC,s11,7
+soap,3,ArtifactNFC,s11,1
+table,3,ArtifactNFC,s11,1
+towel,3,ArtifactNFC,s11,5
+go traffic,2,AritfactFC,s12,7
+basketball,2,AritfactFC,s12,4
+chalkboard,2,AritfactFC,s12,7
+dollar bill,2,AritfactFC,s12,1
+fire truck,2,AritfactFC,s12,4
+lab coat,2,AritfactFC,s12,1
+police uniform,2,AritfactFC,s12,1
+street sign,2,AritfactFC,s12,4
+taxi cab,2,AritfactFC,s12,4
+tennis ball,2,AritfactFC,s12,4
+toilet,2,AritfactFC,s12,1
+book,2,ArtifactNFC,s12,1
+couch,2,ArtifactNFC,s12,1
+crayon,2,ArtifactNFC,s12,1
+lunch box,2,ArtifactNFC,s12,1
+mug,2,ArtifactNFC,s12,1
+pants,2,ArtifactNFC,s12,1
+shoes,2,ArtifactNFC,s12,1
+purse,2,ArtifactNFC,s12,1
+suitcase,2,ArtifactNFC,s12,1
+vacuum,2,ArtifactNFC,s12,1
+coin,3,AritfactFC,s12,1
+military uniform,3,AritfactFC,s12,1
+paper,3,AritfactFC,s12,1
+recycling bin,3,AritfactFC,s12,4
+school bus,3,AritfactFC,s12,2
+stop sign,3,AritfactFC,s12,7
+wedding dress,3,AritfactFC,s12,5
+car,3,ArtifactNFC,s12,1
+cup,3,ArtifactNFC,s12,1
+fork,3,ArtifactNFC,s12,1
+laptop,3,ArtifactNFC,s12,1
+pen,3,ArtifactNFC,s12,2
+soap,3,ArtifactNFC,s12,1
+table,3,ArtifactNFC,s12,1
+towel,3,ArtifactNFC,s12,1
+go traffic,2,AritfactFC,s13,7
+basketball,2,AritfactFC,s13,7
+chalkboard,2,AritfactFC,s13,6
+dollar bill,2,AritfactFC,s13,7
+fire truck,2,AritfactFC,s13,5
+lab coat,2,AritfactFC,s13,5
+police uniform,2,AritfactFC,s13,7
+street sign,2,AritfactFC,s13,4
+taxi cab,2,AritfactFC,s13,5
+tennis ball,2,AritfactFC,s13,7
+toilet,2,AritfactFC,s13,4
+book,2,ArtifactNFC,s13,6
+couch,2,ArtifactNFC,s13,6
+crayon,2,ArtifactNFC,s13,6
+lunch box,2,ArtifactNFC,s13,3
+mug,2,ArtifactNFC,s13,3
+pants,2,ArtifactNFC,s13,5
+shoes,2,ArtifactNFC,s13,5
+purse,2,ArtifactNFC,s13,5
+suitcase,2,ArtifactNFC,s13,5
+vacuum,2,ArtifactNFC,s13,5
+coin,3,AritfactFC,s13,6
+military uniform,3,AritfactFC,s13,7
+paper,3,AritfactFC,s13,5
+recycling bin,3,AritfactFC,s13,6
+school bus,3,AritfactFC,s13,7
+stop sign,3,AritfactFC,s13,3
+wedding dress,3,AritfactFC,s13,6
+car,3,ArtifactNFC,s13,4
+cup,3,ArtifactNFC,s13,5
+fork,3,ArtifactNFC,s13,5
+laptop,3,ArtifactNFC,s13,5
+pen,3,ArtifactNFC,s13,5
+soap,3,ArtifactNFC,s13,3
+table,3,ArtifactNFC,s13,5
+towel,3,ArtifactNFC,s13,4
+go traffic,2,AritfactFC,s14,7
+basketball,2,AritfactFC,s14,1
+chalkboard,2,AritfactFC,s14,1
+dollar bill,2,AritfactFC,s14,7
+fire truck,2,AritfactFC,s14,6
+lab coat,2,AritfactFC,s14,1
+police uniform,2,AritfactFC,s14,6
+street sign,2,AritfactFC,s14,6
+taxi cab,2,AritfactFC,s14,4
+tennis ball,2,AritfactFC,s14,1
+toilet,2,AritfactFC,s14,1
+book,2,ArtifactNFC,s14,1
+couch,2,ArtifactNFC,s14,1
+crayon,2,ArtifactNFC,s14,7
+lunch box,2,ArtifactNFC,s14,1
+mug,2,ArtifactNFC,s14,1
+pants,2,ArtifactNFC,s14,1
+shoes,2,ArtifactNFC,s14,1
+purse,2,ArtifactNFC,s14,1
+suitcase,2,ArtifactNFC,s14,1
+vacuum,2,ArtifactNFC,s14,1
+coin,3,AritfactFC,s14,3
+military uniform,3,AritfactFC,s14,5
+paper,3,AritfactFC,s14,1
+recycling bin,3,AritfactFC,s14,6
+school bus,3,AritfactFC,s14,4
+stop sign,3,AritfactFC,s14,7
+wedding dress,3,AritfactFC,s14,6
+car,3,ArtifactNFC,s14,1
+cup,3,ArtifactNFC,s14,1
+fork,3,ArtifactNFC,s14,1
+laptop,3,ArtifactNFC,s14,1
+pen,3,ArtifactNFC,s14,1
+soap,3,ArtifactNFC,s14,1
+table,3,ArtifactNFC,s14,1
+towel,3,ArtifactNFC,s14,1
+go traffic,2,AritfactFC,s15,7
+basketball,2,AritfactFC,s15,7
+chalkboard,2,AritfactFC,s15,6
+dollar bill,2,AritfactFC,s15,7
+fire truck,2,AritfactFC,s15,6
+lab coat,2,AritfactFC,s15,5
+police uniform,2,AritfactFC,s15,6
+street sign,2,AritfactFC,s15,7
+taxi cab,2,AritfactFC,s15,7
+tennis ball,2,AritfactFC,s15,5
+toilet,2,AritfactFC,s15,1
+book,2,ArtifactNFC,s15,1
+couch,2,ArtifactNFC,s15,1
+crayon,2,ArtifactNFC,s15,4
+lunch box,2,ArtifactNFC,s15,1
+mug,2,ArtifactNFC,s15,1
+pants,2,ArtifactNFC,s15,1
+shoes,2,ArtifactNFC,s15,3
+purse,2,ArtifactNFC,s15,1
+suitcase,2,ArtifactNFC,s15,1
+vacuum,2,ArtifactNFC,s15,1
+coin,3,AritfactFC,s15,5
+military uniform,3,AritfactFC,s15,6
+paper,3,AritfactFC,s15,1
+recycling bin,3,AritfactFC,s15,6
+school bus,3,AritfactFC,s15,7
+stop sign,3,AritfactFC,s15,7
+wedding dress,3,AritfactFC,s15,6
+car,3,ArtifactNFC,s15,1
+cup,3,ArtifactNFC,s15,1
+fork,3,ArtifactNFC,s15,1
+laptop,3,ArtifactNFC,s15,1
+pen,3,ArtifactNFC,s15,4
+soap,3,ArtifactNFC,s15,1
+table,3,ArtifactNFC,s15,1
+towel,3,ArtifactNFC,s15,1
+go traffic,2,AritfactFC,s16,7
+basketball,2,AritfactFC,s16,5
+chalkboard,2,AritfactFC,s16,4
+dollar bill,2,AritfactFC,s16,6
+fire truck,2,AritfactFC,s16,7
+lab coat,2,AritfactFC,s16,6
+police uniform,2,AritfactFC,s16,6
+street sign,2,AritfactFC,s16,6
+taxi cab,2,AritfactFC,s16,6
+tennis ball,2,AritfactFC,s16,5
+toilet,2,AritfactFC,s16,6
+book,2,ArtifactNFC,s16,2
+couch,2,ArtifactNFC,s16,4
+crayon,2,ArtifactNFC,s16,6
+lunch box,2,ArtifactNFC,s16,2
+mug,2,ArtifactNFC,s16,1
+pants,2,ArtifactNFC,s16,2
+shoes,2,ArtifactNFC,s16,2
+purse,2,ArtifactNFC,s16,1
+suitcase,2,ArtifactNFC,s16,2
+vacuum,2,ArtifactNFC,s16,2
+coin,3,AritfactFC,s16,6
+military uniform,3,AritfactFC,s16,5
+paper,3,AritfactFC,s16,1
+recycling bin,3,AritfactFC,s16,5
+school bus,3,AritfactFC,s16,5
+stop sign,3,AritfactFC,s16,7
+wedding dress,3,AritfactFC,s16,7
+car,3,ArtifactNFC,s16,3
+cup,3,ArtifactNFC,s16,1
+fork,3,ArtifactNFC,s16,1
+laptop,3,ArtifactNFC,s16,2
+pen,3,ArtifactNFC,s16,2
+soap,3,ArtifactNFC,s16,2
+table,3,ArtifactNFC,s16,4
+towel,3,ArtifactNFC,s16,1
+go traffic,2,AritfactFC,s17,7
+basketball,2,AritfactFC,s17,6
+chalkboard,2,AritfactFC,s17,6
+dollar bill,2,AritfactFC,s17,5
+fire truck,2,AritfactFC,s17,7
+lab coat,2,AritfactFC,s17,3
+police uniform,2,AritfactFC,s17,3
+street sign,2,AritfactFC,s17,7
+taxi cab,2,AritfactFC,s17,4
+tennis ball,2,AritfactFC,s17,2
+toilet,2,AritfactFC,s17,1
+book,2,ArtifactNFC,s17,1
+couch,2,ArtifactNFC,s17,1
+crayon,2,ArtifactNFC,s17,1
+lunch box,2,ArtifactNFC,s17,1
+mug,2,ArtifactNFC,s17,1
+pants,2,ArtifactNFC,s17,2
+shoes,2,ArtifactNFC,s17,1
+purse,2,ArtifactNFC,s17,1
+suitcase,2,ArtifactNFC,s17,1
+vacuum,2,ArtifactNFC,s17,1
+coin,3,AritfactFC,s17,7
+military uniform,3,AritfactFC,s17,6
+paper,3,AritfactFC,s17,7
+recycling bin,3,AritfactFC,s17,5
+school bus,3,AritfactFC,s17,6
+stop sign,3,AritfactFC,s17,7
+wedding dress,3,AritfactFC,s17,6
+car,3,ArtifactNFC,s17,1
+cup,3,ArtifactNFC,s17,1
+fork,3,ArtifactNFC,s17,1
+laptop,3,ArtifactNFC,s17,1
+pen,3,ArtifactNFC,s17,6
+soap,3,ArtifactNFC,s17,1
+table,3,ArtifactNFC,s17,1
+towel,3,ArtifactNFC,s17,1
+go traffic,2,AritfactFC,s18,7
+basketball,2,AritfactFC,s18,1
+chalkboard,2,AritfactFC,s18,3
+dollar bill,2,AritfactFC,s18,4
+fire truck,2,AritfactFC,s18,6
+lab coat,2,AritfactFC,s18,3
+police uniform,2,AritfactFC,s18,4
+street sign,2,AritfactFC,s18,6
+taxi cab,2,AritfactFC,s18,4
+tennis ball,2,AritfactFC,s18,1
+toilet,2,AritfactFC,s18,1
+book,2,ArtifactNFC,s18,1
+couch,2,ArtifactNFC,s18,1
+crayon,2,ArtifactNFC,s18,7
+lunch box,2,ArtifactNFC,s18,1
+mug,2,ArtifactNFC,s18,1
+pants,2,ArtifactNFC,s18,1
+shoes,2,ArtifactNFC,s18,1
+purse,2,ArtifactNFC,s18,1
+suitcase,2,ArtifactNFC,s18,1
+vacuum,2,ArtifactNFC,s18,1
+coin,3,AritfactFC,s18,2
+military uniform,3,AritfactFC,s18,5
+paper,3,AritfactFC,s18,4
+recycling bin,3,AritfactFC,s18,3
+school bus,3,AritfactFC,s18,3
+stop sign,3,AritfactFC,s18,7
+wedding dress,3,AritfactFC,s18,1
+car,3,ArtifactNFC,s18,1
+cup,3,ArtifactNFC,s18,1
+fork,3,ArtifactNFC,s18,1
+laptop,3,ArtifactNFC,s18,1
+pen,3,ArtifactNFC,s18,5
+soap,3,ArtifactNFC,s18,1
+table,3,ArtifactNFC,s18,1
+towel,3,ArtifactNFC,s18,1
+go traffic,2,AritfactFC,s19,7
+basketball,2,AritfactFC,s19,5
+chalkboard,2,AritfactFC,s19,5
+dollar bill,2,AritfactFC,s19,3
+fire truck,2,AritfactFC,s19,6
+lab coat,2,AritfactFC,s19,3
+police uniform,2,AritfactFC,s19,2
+street sign,2,AritfactFC,s19,7
+taxi cab,2,AritfactFC,s19,4
+tennis ball,2,AritfactFC,s19,6
+toilet,2,AritfactFC,s19,1
+book,2,ArtifactNFC,s19,1
+couch,2,ArtifactNFC,s19,3
+crayon,2,ArtifactNFC,s19,7
+lunch box,2,ArtifactNFC,s19,1
+mug,2,ArtifactNFC,s19,2
+pants,2,ArtifactNFC,s19,4
+shoes,2,ArtifactNFC,s19,6
+purse,2,ArtifactNFC,s19,6
+suitcase,2,ArtifactNFC,s19,2
+vacuum,2,ArtifactNFC,s19,1
+coin,3,AritfactFC,s19,5
+military uniform,3,AritfactFC,s19,7
+paper,3,AritfactFC,s19,7
+recycling bin,3,AritfactFC,s19,6
+school bus,3,AritfactFC,s19,6
+stop sign,3,AritfactFC,s19,7
+wedding dress,3,AritfactFC,s19,6
+car,3,ArtifactNFC,s19,2
+cup,3,ArtifactNFC,s19,2
+fork,3,ArtifactNFC,s19,1
+laptop,3,ArtifactNFC,s19,2
+pen,3,ArtifactNFC,s19,6
+soap,3,ArtifactNFC,s19,2
+table,3,ArtifactNFC,s19,1
+towel,3,ArtifactNFC,s19,2
+go traffic,2,AritfactFC,s20,7
+basketball,2,AritfactFC,s20,2
+chalkboard,2,AritfactFC,s20,7
+dollar bill,2,AritfactFC,s20,2
+fire truck,2,AritfactFC,s20,7
+lab coat,2,AritfactFC,s20,7
+police uniform,2,AritfactFC,s20,7
+street sign,2,AritfactFC,s20,7
+taxi cab,2,AritfactFC,s20,7
+tennis ball,2,AritfactFC,s20,7
+toilet,2,AritfactFC,s20,5
+book,2,ArtifactNFC,s20,1
+couch,2,ArtifactNFC,s20,1
+crayon,2,ArtifactNFC,s20,7
+lunch box,2,ArtifactNFC,s20,3
+mug,2,ArtifactNFC,s20,1
+pants,2,ArtifactNFC,s20,1
+shoes,2,ArtifactNFC,s20,1
+purse,2,ArtifactNFC,s20,1
+suitcase,2,ArtifactNFC,s20,2
+vacuum,2,ArtifactNFC,s20,1
+coin,3,AritfactFC,s20,6
+military uniform,3,AritfactFC,s20,7
+paper,3,AritfactFC,s20,7
+recycling bin,3,AritfactFC,s20,7
+school bus,3,AritfactFC,s20,7
+stop sign,3,AritfactFC,s20,7
+wedding dress,3,AritfactFC,s20,7
+car,3,ArtifactNFC,s20,1
+cup,3,ArtifactNFC,s20,1
+fork,3,ArtifactNFC,s20,1
+laptop,3,ArtifactNFC,s20,1
+pen,3,ArtifactNFC,s20,6
+soap,3,ArtifactNFC,s20,1
+table,3,ArtifactNFC,s20,1
+towel,3,ArtifactNFC,s20,1

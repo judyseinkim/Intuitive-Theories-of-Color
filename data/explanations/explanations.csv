@@ -1,0 +1,937 @@
+﻿Group,SubjID,Kind,Item,Explanation,Process,Depends,Just is ,Material,Social,Maker,Visibility,Convention,IDK,SUM,LENGTH
+CB,NFB_CB_26,natural,apple,"because there are different kinds or species of apples, there's red delicious, golden delicious, granny smith, gala, and some others I can't think of, but there are many different kinds of apples and they all have different colors",0,1,0,0,0,0,0,0,0,1,38
+CB,NFB_CB_14,natural,apple,depends on what they grow on,0,1,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_17,natural,apple,because God made them that way,0,0,0,0,0,1,0,0,0,1,6
+CB,NFB_CB_12,natural,apple,different kinds of apples and it depends on when you pick them what color they are,0,1,0,0,0,0,0,0,0,1,16
+CB,NFB_CB_23,natural,apple,well one's sour and one isn't I'm not sure why,0,0,0,0,0,0,0,0,1,1,10
+CB,NFB_CB_09,natural,apple,"has to do with chlorophyll and ripening, if you've got chlorophyll in the plant it's gonna be green in the tree, it also has to do with ripening and exposure to the sun, if you have a hot summer and you have to let it rain during spring so it's green, if it's hot and sunny in summer tends exacerbate and to bring out the red more especially later in the season",1,0,0,1,0,0,0,0,0,2,72
+CB,NFB_CB_07,natural,apple,"beacause of how they grow, biology",1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_06,natural,apple,probably where they've been grown,0,1,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_03,natural,apple,"that's the way the lord made them, I don't know I'm sure there's a scientific reason too I just don't know it",0,0,0,0,0,1,0,0,0,1,22
+CB,NFB_CB_22,natural,apple,depends on brand,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,natural,apple,variations of apple,0,1,0,0,0,0,0,0,0,1,3
+CB,NFB_CB_15,natural,apple,they come from different trees,0,1,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_16,natural,apple,"because that's how they grow, different species of apples are different colors ",1,1,0,0,0,0,0,0,0,2,12
+CB,NFB_CB_18,natural,apple,that color helps them to be identified as apples,0,0,0,0,0,0,0,1,0,1,9
+CB,NFB_CB_13,natural,apple,genetics ,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_11,natural,apple,because that's the way they were made,1,0,0,0,0,0,0,0,0,1,7
+CB,NFB_CB_10,natural,apple,"idk that's just how it is, because plant science?",0,0,1,0,0,0,0,0,0,1,9
+CB,NFB_CB_24,natural,apple,because of the different parts of the fruit,0,0,1,0,0,0,0,0,0,1,8
+CB,NFB_CB_08,natural,apple,"they come from different genesis or species or whatever classification, different categories of apples, red delicious, gala, macintosh all different colors ",0,1,1,0,0,0,0,0,0,2,21
+CB,NFB_CB_04,natural,apple,because that's the way it's grown,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_26,natural,blueberry,because again that's the color of the plant and particularly the skin of the plant,0,0,1,0,0,0,0,0,0,1,15
+CB,NFB_CB_14,natural,blueberry,because it's in the name,0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_17,natural,blueberry,God dipped them in blue food coloring (sarcastic),0,0,0,0,0,1,0,0,0,1,8
+CB,NFB_CB_12,natural,blueberry,because they're blue berries,0,0,1,0,0,0,0,0,0,1,4
+CB,NFB_CB_23,natural,blueberry,"that's how they grew, they grew blue",1,0,0,0,0,0,0,0,0,1,7
+CB,NFB_CB_09,natural,blueberry,"has to do with the stage of ripening, and how much sun and rain comes to an area during particularly growing season and those things could certainly influence it",1,1,0,0,0,0,0,0,0,2,29
+CB,NFB_CB_07,natural,blueberry,their makeup,0,0,1,0,0,0,0,0,0,1,2
+CB,NFB_CB_06,natural,blueberry,the way they grow,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_03,natural,blueberry,"I'm trying to think of a different answer than because god made it that way, it's hard with fruits and vegetables it's just I don't know it's how they are",0,0,0,0,0,1,0,0,0,1,30
+CB,NFB_CB_22,natural,blueberry,something about the way they grow,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_02,natural,blueberry,"because they're different chemicals in the blueberry that give it a blue color , don't know if there's another purpose",0,0,0,1,0,0,0,0,0,1,20
+CB,NFB_CB_15,natural,blueberry,they were made that way,0,0,0,0,0,1,0,0,0,1,5
+CB,NFB_CB_16,natural,blueberry,that's how they grow,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,natural,blueberry,the name and also to make them identifiable as the fruit,0,0,0,0,0,0,0,1,0,1,11
+CB,NFB_CB_13,natural,blueberry,genetics,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_11,natural,blueberry,that's the way they were made,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_10,natural,blueberry,because plant science,0,0,1,0,0,0,0,0,0,1,3
+CB,NFB_CB_24,natural,blueberry,"it's nature, that's just how they are",0,0,1,0,0,0,0,0,0,1,7
+CB,NFB_CB_08,natural,blueberry,"it's in the name, contextually makes sense, would be a jerk move to name a red berry a blue berry ",0,0,1,0,0,0,0,0,0,1,20
+CB,NFB_CB_04,natural,blueberry,"i just buy the fruit, i dont ask them what color it is",0,0,0,0,0,0,0,0,1,1,13
+CB,NFB_CB_26,natural,carrot,"this could get into a whole how plants work, but it's the color of the skin on the plant",0,0,1,0,0,0,0,0,0,1,19
+CB,NFB_CB_14,natural,carrot,different colors for differnet parts,0,1,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_17,natural,carrot,"photosynthesis, I don't know because that's how God made them",1,0,0,0,0,1,0,0,0,2,10
+CB,NFB_CB_12,natural,carrot,that's what nature gave them,0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_23,natural,carrot,just how they grew,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_09,natural,carrot,"has to do with chlorophyll and stage of ripening, chloroplasts store the chlorophyll and cause it to have a green color",1,0,0,1,0,0,0,0,0,2,21
+CB,NFB_CB_07,natural,carrot,part of their makeup,0,0,1,0,0,0,0,0,0,1,4
+CB,NFB_CB_06,natural,carrot,the way they grow,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_03,natural,carrot,that's how they were made,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_22,natural,carrot,the way they grow,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_02,natural,carrot,"not sure, again, their molecules make them be orange in some way",0,0,1,1,0,0,0,0,0,2,12
+CB,NFB_CB_15,natural,carrot,"there's science behind it, but they were made that way ",1,0,0,0,0,0,0,0,0,1,10
+CB,NFB_CB_16,natural,carrot,that's how they're grown,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,natural,carrot,because they're a vegetable and that's a common color of a vegetable,0,0,1,0,0,0,0,0,0,1,12
+CB,NFB_CB_13,natural,carrot,genetics,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_11,natural,carrot,so that people eat them,0,0,0,0,1,0,0,0,0,1,5
+CB,NFB_CB_10,natural,carrot,because plant science,0,0,1,0,0,0,0,0,0,1,3
+CB,NFB_CB_24,natural,carrot,they have special chemicals in the plant that make them these colors,0,0,0,1,0,0,0,0,0,1,12
+CB,NFB_CB_08,natural,carrot,"how they grow, pigments in their skin, one of those things that I grew up learning, in so many kids's songs, not citrusy, but orange",1,0,0,1,0,0,0,0,0,2,25
+CB,NFB_CB_04,natural,carrot,it grows that way,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_26,natural,corn,because of the color of the leaves on the stalk and also the corn coming out of it,0,0,1,0,0,0,0,0,0,1,18
+CB,NFB_CB_14,natural,corn,the way nature made them,0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_17,natural,corn,that's how they grew ,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_12,natural,corn,depends on the kind ,0,1,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_23,natural,corn,"that's how it came out, different genes and things, and breeding",0,0,1,0,0,0,0,0,0,1,11
+CB,NFB_CB_09,natural,corn,"has to do with the stage of growth, climate and weather features, when we talk about corn belt in midwest hot weather I always associated with green, needs a lot of sun, it also needs humidity and rain so serious drought delays coloring and ripening, green color is chloryphyll",1,1,0,1,0,0,0,0,0,3,49
+CB,NFB_CB_07,natural,corn,biology,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_06,natural,corn,,0,0,0,0,0,0,0,0,0,0,0
+CB,NFB_CB_03,natural,corn,that's how they were made,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_22,natural,corn,way it grows in the ground,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_02,natural,corn,the molecules that form the corn are different? I don't know if there's any evolutionary answer to that,0,0,0,1,0,0,0,0,0,1,18
+CB,NFB_CB_15,natural,corn,that shows when they're ripe and not ripe,0,1,0,0,0,0,0,0,0,1,8
+CB,NFB_CB_16,natural,corn,that's how they grow,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,natural,corn,to make it easy to identify,0,0,0,0,0,0,1,0,0,1,6
+CB,NFB_CB_13,natural,corn,genetics,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_11,natural,corn,for advertisement purposes,0,0,0,0,1,0,0,0,0,1,3
+CB,NFB_CB_10,natural,corn,because plant science is awesome,0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_24,natural,corn,"just how plants, it's like the variation of a plant, it's just natural variation",0,0,1,0,0,0,0,0,0,1,14
+CB,NFB_CB_08,natural,corn,"a couple variety of corn, sweet corn, corn used in savory things, I've heard that some corn can be blue or white or green",0,1,0,0,0,0,0,0,0,1,24
+CB,NFB_CB_04,natural,corn,that's the way it grows,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_26,natural,fire,fires are these colors because they're the colors that are produced by heat and smoke and flame,0,0,0,1,0,0,0,0,0,1,17
+CB,NFB_CB_14,natural,fire,"depends on how hot it is, if it's hotter, more of an orange, but if regular fire, then red, orange is a more vibrant active fire",0,1,0,0,0,0,0,0,0,1,26
+CB,NFB_CB_17,natural,fire,because of the chemical reaction which results from burning,1,0,0,0,0,0,0,0,0,1,9
+CB,NFB_CB_12,natural,fire,"because they burn, and when they burn they burn in bright colors",1,0,0,0,0,0,0,0,0,1,12
+CB,NFB_CB_23,natural,fire,because heat is red,0,0,1,0,0,0,0,0,0,1,4
+CB,NFB_CB_09,natural,fire,"has to do with how hot they are and also the material that's being used in the fire, if it's all kindling might be red, if you introduce paper might be a diff color, milk cartons at a campfire might be a different color, has to do with materials and also the brightness of it, how hot it is",0,1,0,1,0,0,0,0,0,2,59
+CB,NFB_CB_07,natural,fire,heat is red,0,0,1,0,0,0,0,0,0,1,3
+CB,NFB_CB_06,natural,fire,"because of the wood it burns, different types of wood",0,1,0,1,0,0,0,0,0,2,10
+CB,NFB_CB_03,natural,fire,"because that's the color things turn when they get hot, something about deprivation of oxygen or too much oxygen I don’t know I can't science very well",1,0,0,0,0,0,0,0,0,1,27
+CB,NFB_CB_22,natural,fire,"whatever color of smoke, and smoke makes fires",0,0,0,1,0,0,0,0,0,1,8
+CB,NFB_CB_02,natural,fire,"depends on the temperature, maybe the hotter the fire is, higher the temperature, color is more like red",0,1,0,0,0,0,0,0,0,1,18
+CB,NFB_CB_15,natural,fire,the things that are burning in it make it the color it is,0,0,0,1,0,0,0,0,0,1,13
+CB,NFB_CB_16,natural,fire,that's the color of the wood when it makes fire,0,0,0,1,0,0,0,0,0,1,10
+CB,NFB_CB_18,natural,fire,"I think to make it identifiable, and also depending on what you're do with the fire, you can have different colors depending on how big the fire is or how much of a fire there is",0,1,0,0,0,0,1,1,0,3,36
+CB,NFB_CB_13,natural,fire,because that's how things burn,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_11,natural,fire,so that people won't go near them,0,0,0,0,0,0,1,0,0,1,7
+CB,NFB_CB_10,natural,fire,i really don't know they just are,0,0,1,0,0,0,0,0,1,2,7
+CB,NFB_CB_24,natural,fire,because of what you're burning and the temperature that you're burning at,0,1,0,0,0,0,0,0,0,1,12
+CB,NFB_CB_08,natural,fire,"brightness and combustability closely associated, it proably has to do with how fire itself is created, one of those things you grow up learning",1,0,0,0,0,0,0,0,0,1,24
+CB,NFB_CB_04,natural,fire,"smoke is black, that's how it erupts",0,0,1,0,0,0,0,0,0,1,7
+CB,NFB_CB_26,natural,kiwi,that's the color of the fruit that comes off the vine,0,0,1,0,0,0,0,0,0,1,11
+CB,NFB_CB_14,natural,kiwi,they're made that way,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_17,natural,kiwi,they are as they are at the behest of the kiwi fairie (sarcastic),0,0,0,0,0,1,0,0,0,1,13
+CB,NFB_CB_12,natural,kiwi,they come from the ground,1,0,1,0,0,0,0,0,0,2,5
+CB,NFB_CB_23,natural,kiwi,"I don't know that's just the way they came out, you have to ask the creator of the world",0,0,1,0,0,1,0,0,0,2,19
+CB,NFB_CB_09,natural,kiwi,"has to do with the stage of growth and the kind of climate and weather situations, and the area, if you tried to grow a kiwi where I'm from [in Maine] it might be kind of dull, whereas if you tried down here [in FL] might be a brighter color, more of tthe green, again it has to do with the setting and climate features that influence it",0,1,0,0,0,0,0,0,0,1,67
+CB,NFB_CB_07,natural,kiwi,that's how they grow,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_06,natural,kiwi,the way they were grown,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_03,natural,kiwi,that's the way they were made,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_22,natural,kiwi,how they grow in the ground,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_02,natural,kiwi,"has to do with adaptation, no specific human reason, but maybe with nature, they attract a certain kind of insect with that color? So can pollinate the plant better",0,0,1,0,0,0,0,0,0,1,29
+CB,NFB_CB_15,natural,kiwi,they were designed to be that way ,1,0,0,0,0,0,0,0,0,1,7
+CB,NFB_CB_16,natural,kiwi,that's what color they grow,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_18,natural,kiwi,to make them identifiable as a fruit,0,0,0,0,0,0,0,1,0,1,7
+CB,NFB_CB_13,natural,kiwi,genetics,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_11,natural,kiwi,so that people will buy them,0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_10,natural,kiwi,plant science,0,0,1,0,0,0,0,0,0,1,2
+CB,NFB_CB_24,natural,kiwi,"I think it's just natural, but the golden ones I think are developed, like the brown kiwis that's the norm but the golden ones are created by man I think, because people don't like fuzzy kiwis maybe I don't know",1,0,1,0,1,0,0,0,0,3,40
+CB,NFB_CB_08,natural,kiwi,"honestly guessing, but they have a citrusy taste, and associate citrusy with orange color",0,0,0,0,0,0,0,1,0,1,14
+CB,NFB_CB_04,natural,kiwi,it's the way it's grown,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_26,natural,polar bear,"because of their fur and their skin, and the traits that they were born with as a result of their breeding",0,0,1,0,0,0,0,0,0,1,21
+CB,NFB_CB_14,natural,polar bear,"just made that way, nature",0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_17,natural,polar bear,"color of an animal is camoflauge, so they can blend in with the surroundings",0,0,0,0,0,0,1,0,0,1,14
+CB,NFB_CB_12,natural,polar bear,becaue they live in the arctic,0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_23,natural,polar bear,"it depends where they're from, I think the white ones are the ones that are in the cold so they can be camoflauged, I'm not sure black and brown but it's probably the same thing based on the environment",0,1,0,0,0,0,1,0,0,2,39
+CB,NFB_CB_09,natural,polar bear,"has to do with the kind of climate they're in, dark colors would absorb sunlight and heat more effectively and would need to do that to survive properly or any kind of way, so rather than bright color reflecting back sunlight you want a dark color that's going to absorb what sunlight there is and thus absorb the heat, like on a really hot day you want to wear light  clothingto not absorb the sunlight rather than dark colored clothing that's gonna absorb all the sunlight, same basic principle",1,1,0,0,0,0,0,0,0,2,89
+CB,NFB_CB_07,natural,polar bear,genetic makeup,0,0,1,0,0,0,0,0,0,1,2
+CB,NFB_CB_06,natural,polar bear,the way that they were born,0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_03,natural,polar bear,to blend in with their arctic environment,0,0,0,0,0,0,1,0,0,1,7
+CB,NFB_CB_22,natural,polar bear,"IDK, the colors could vary",0,0,0,0,0,0,0,0,1,1,5
+CB,NFB_CB_02,natural,polar bear,"because they live in snowy areas, so white would help them camouflage with the snow",0,0,0,0,0,0,1,0,0,1,15
+CB,NFB_CB_15,natural,polar bear,"because they were made that way, but also it helps them camouflage",1,0,0,0,0,0,1,0,0,2,12
+CB,NFB_CB_16,natural,polar bear,that's what color their fur is,0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_18,natural,polar bear,I don't know that's just how they were made,1,0,0,0,0,0,0,0,0,1,9
+CB,NFB_CB_13,natural,polar bear,it protects them from the snow and cold where they live,0,1,0,0,0,0,0,0,0,1,11
+CB,NFB_CB_11,natural,polar bear,that's the color of their fur,0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_10,natural,polar bear,"they're black is because of the way that the light hits the fur, makes them look white, the black fur lets them keep in the heat more",1,0,1,0,0,0,0,0,0,2,27
+CB,NFB_CB_24,natural,polar bear,"probably their environment, they want to blend in with their environment I guess",0,0,0,0,0,0,1,0,0,1,13
+CB,NFB_CB_08,natural,polar bear,"maybe the white something to do with blending with tundra environemtn, something in gut told me they were also red",0,0,0,0,0,0,1,0,0,1,20
+CB,NFB_CB_04,natural,polar bear,"that's the way they were born, not sure",0,0,1,0,0,0,0,0,0,1,8
+CB,NFB_CB_26,natural,spinach,because it's the color of the plant,0,0,1,0,0,0,0,0,0,1,7
+CB,NFB_CB_14,natural,spinach,"because it's natural, it's a plant",0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_17,natural,spinach,"God made it that way, I don't know I'm not a scientist",0,0,0,0,0,1,0,0,0,1,12
+CB,NFB_CB_12,natural,spinach,because it's a plant,0,0,1,0,0,0,0,0,0,1,4
+CB,NFB_CB_23,natural,spinach,"that's just how it is, it's a vegetable and most are green",0,0,1,0,0,0,0,0,0,1,12
+CB,NFB_CB_09,natural,spinach,"has to do withchlorophyll, and the amount of chlorophyll stored in the plant as it grows, like a lot of the other green vegetables, same idea",0,0,0,1,0,0,0,0,0,1,26
+CB,NFB_CB_07,natural,spinach,how they grow,1,0,0,0,0,0,0,0,0,1,3
+CB,NFB_CB_06,natural,spinach,the color of the leaves,0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_03,natural,spinach,because of the chlorophyll I think,0,0,0,1,0,0,0,0,0,1,6
+CB,NFB_CB_22,natural,spinach,because they're a vegtable. And many vegetables are green,0,0,1,0,0,0,0,0,0,1,9
+CB,NFB_CB_02,natural,spinach,because of chlorophyll,0,0,0,1,0,0,0,0,0,1,3
+CB,NFB_CB_15,natural,spinach,"they are a type of plant that has a particular process, like photosynthesis, that causes them to be green",1,0,0,0,0,0,0,0,0,1,19
+CB,NFB_CB_16,natural,spinach,that's what color the leaves are ,0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_18,natural,spinach,"so it can be identified as such, as spinach",0,0,0,0,0,0,0,1,0,1,9
+CB,NFB_CB_13,natural,spinach,genetics,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_11,natural,spinach,"that's the way that they were meant to be, the way they were planted ",1,0,1,0,0,0,0,0,0,2,14
+CB,NFB_CB_10,natural,spinach,chlorophyll,0,0,0,1,0,0,0,0,0,1,1
+CB,NFB_CB_24,natural,spinach,because they're plants and they have chlorophyll,0,0,1,1,0,0,0,0,0,2,7
+CB,NFB_CB_08,natural,spinach,"it's a leafy plant, those vegetable leafy plants tend to be green, always associated with a green color",0,0,1,0,0,0,0,0,0,1,18
+CB,NFB_CB_04,natural,spinach,"because it's a vegetable, that's how the vegetable grows",1,0,1,0,0,0,0,0,0,2,9
+CB,NFB_CB_26,artifactFC,coin,because of their material,0,0,0,1,0,0,0,0,0,1,4
+CB,NFB_CB_14,artifactFC,coin,"uniformity sake, US mint decdied that needed it to be the case, whatever country they came from, decided that",0,0,0,0,0,0,0,1,0,1,19
+CB,NFB_CB_17,artifactFC,coin,"because that's what metal they're made of, why that is long ago our government decided that's how it's going to be",0,0,0,1,0,0,0,1,0,2,21
+CB,NFB_CB_12,artifactFC,coin,because of the metal that they're made of,0,0,0,1,0,0,0,0,0,1,8
+CB,NFB_CB_23,artifactFC,coin,because people like to look at shiny things,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_09,artifactFC,coin,"some of it has to do with attractiveness, some of it also has to do with if it is a writing or if it is in honor of a certain person you want to know that, like if it's a Sacagewea or Susan B Anthony dollar you want be able to know that, want to distinguish from quarter or other coins they feel/look very similar so you would want to have that kind of designation",0,0,0,0,1,0,0,1,0,2,75
+CB,NFB_CB_07,artifactFC,coin,i don't know,0,0,0,0,0,0,0,0,1,1,3
+CB,NFB_CB_06,artifactFC,coin,the way that they were made in the factory,1,0,0,0,0,0,0,0,0,1,9
+CB,NFB_CB_03,artifactFC,coin,because of the metal that they're made of,0,0,0,1,0,0,0,0,0,1,8
+CB,NFB_CB_22,artifactFC,coin,depends on which one you're talking about ,0,1,0,0,0,0,0,0,0,1,7
+CB,NFB_CB_02,artifactFC,coin,"depends on the material used to make them, before when coins were gold, all gold, before used silver, now, I don’t think they use gold for coin, but still paint them yellow to look yellow, to remind people of gold",0,0,0,1,0,0,0,0,0,1,40
+CB,NFB_CB_15,artifactFC,coin,because that's what people decided was a good idea,0,0,0,0,0,1,0,0,0,1,9
+CB,NFB_CB_16,artifactFC,coin,that's how they're made,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,artifactFC,coin,because it's money and it can be identified that way,0,0,0,0,0,0,0,1,0,1,10
+CB,NFB_CB_13,artifactFC,coin,they need to be the same color so they can be recognized as coins,0,0,0,0,0,0,0,1,0,1,14
+CB,NFB_CB_11,artifactFC,coin,so they can be noticeable,0,0,0,0,0,0,1,0,0,1,5
+CB,NFB_CB_10,artifactFC,coin,because they're made of metal,0,0,0,1,0,0,0,0,0,1,5
+CB,NFB_CB_24,artifactFC,coin,"because of what the were made out of originally, they were always made out of valuable things like gold silver or copper, they're kind of historical I think",0,0,0,1,0,0,0,1,0,2,28
+CB,NFB_CB_08,artifactFC,coin,"silver dollars and gold dollars, old coins were silver and gold, root of currency, but coins can be green because associate green with money",0,0,0,1,0,0,0,1,0,2,24
+CB,NFB_CB_04,artifactFC,coin,that's how it's made,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_26,artifactFC,lab coat,"because of the material that they're made from, and I think they tried to use white in labs to keep them sterile",0,0,0,1,0,0,0,0,0,1,22
+CB,NFB_CB_14,artifactFC,lab coat,"white because easy to see, easy to spot people, notice that someone works here ",0,0,0,0,0,0,1,0,0,1,14
+CB,NFB_CB_17,artifactFC,lab coat,"because it makes the doctor or the scientist or whoever look professional and knowledgeable, it's the image, and it gives the appearance of cleaniless",0,0,0,0,0,0,0,1,0,1,24
+CB,NFB_CB_12,artifactFC,lab coat,we associate white coats with doctors,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_23,artifactFC,lab coat,"white is like a doctor thing, purity, white means clean, sterile; black is just another standard color",0,0,0,0,0,0,0,1,0,1,17
+CB,NFB_CB_09,artifactFC,lab coat,"some of it especially the white has to do with being able to tell if a specimen has been compromised and you have it all over you, you  want to be able to tell and to clean it properly afterward, I associate white coats with doctors, want patient to know you're for real, there's also white coat syndrome can make you nervous,but it's also our way of 'ok this is the doctor, whoever this is, white coat on, he's professional (good first impression)'; making a strong statement, black works weel with chemicals, if you have a black coat and a yellow looking chemical on it you want to clean it up before your next experiment",0,0,0,0,0,0,1,1,0,2,114
+CB,NFB_CB_07,artifactFC,lab coat,uniform,0,0,0,0,0,0,0,1,0,1,1
+CB,NFB_CB_06,artifactFC,lab coat,they're easy to look at,0,0,0,0,0,0,1,0,0,1,5
+CB,NFB_CB_03,artifactFC,lab coat,"so they're distinguishable I guess, I honestly don't know",0,0,0,0,0,0,1,0,0,1,9
+CB,NFB_CB_22,artifactFC,lab coat,wanted to make a standard colo so people would know which person was the doctor,0,0,0,0,0,0,0,1,0,1,15
+CB,NFB_CB_02,artifactFC,lab coat,"because some people associate white with clean, and because when something white gets dirty, can easily see it because conrasts with white, so then lab coats are… since people in labs use chemicals and some chemicals could be harmful, fall on your clothes, with white it's easier to see if something fell on you",0,0,0,0,0,0,1,1,0,2,54
+CB,NFB_CB_15,artifactFC,lab coat,the material is made to protect the person from harm,0,0,0,1,0,0,0,0,0,1,10
+CB,NFB_CB_16,artifactFC,lab coat,that's how they're designed,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,artifactFC,lab coat,"for identification, most people associate lab coats with like a doctor or lab technician",0,0,0,0,0,0,0,1,0,1,14
+CB,NFB_CB_13,artifactFC,lab coat,stereotypes,0,0,0,0,0,0,0,1,0,1,1
+CB,NFB_CB_11,artifactFC,lab coat,different professions have different color lab coats,0,1,0,0,0,0,0,1,0,2,7
+CB,NFB_CB_10,artifactFC,lab coat,"white lab coat is an association in society, clothes can be made in any color so some people might not want a white lab coat so they might get one made in another color ",0,0,0,0,1,0,0,1,0,2,34
+CB,NFB_CB_24,artifactFC,lab coat,"because it's easy to see if you spilled something on you that could be hazardous, and it's also easy to just bleach them",0,0,0,0,0,0,1,0,0,1,23
+CB,NFB_CB_08,artifactFC,lab coat,"it's a symbolic, uniform thing, literally and figuratively, OK we know these are in the lab, they're one of us, a way of indicating who they are",0,0,0,0,0,0,0,1,0,1,27
+CB,NFB_CB_04,artifactFC,lab coat,because of the way It's made,1,0,0,0,0,0,0,0,0,1,6
+CB,NFB_CB_26,artifactFC,military uniform,"because they're supposed to be a representation of the country whose military the uniform comes from, the military branch",0,0,0,0,0,0,0,1,0,1,19
+CB,NFB_CB_14,artifactFC,military uniform,"to represent the country, if differences in color, represent what branch you come from, what unit, what you're doing in your branch, based off of job ",0,0,0,0,0,0,0,1,0,1,26
+CB,NFB_CB_17,artifactFC,military uniform,"tradition, status, the variation in color symbolizes something",0,0,0,0,0,0,0,1,0,1,8
+CB,NFB_CB_12,artifactFC,military uniform,to recognize each individuals' military contribution,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_23,artifactFC,military uniform,to hide and blend in with their surroundings,0,0,0,0,0,0,1,0,0,1,8
+CB,NFB_CB_09,artifactFC,military uniform,"trying to send a message, red is the color of fire (or one of the big colors of fire) and tends to be associated with war, and that's the purpose of you being in the military, to be able to fight in the war if need be, it's a symbolic thing, medals that are different colors you're dealing with the idea of being able to  distinguish rank and distinguishedhow decorated this person is 'wow look at what they've done', has some glory attached to it",0,1,0,0,0,0,0,1,0,2,85
+CB,NFB_CB_07,artifactFC,military uniform,to go with the flag colors,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_06,artifactFC,military uniform,because of the color of the cloth,0,0,0,1,0,0,0,0,0,1,7
+CB,NFB_CB_03,artifactFC,military uniform,colors of the flag,0,0,0,0,0,0,0,1,0,1,4
+CB,NFB_CB_22,artifactFC,military uniform,"to make it standard, so that if you're walking around town, you're careful,",0,0,0,0,0,0,0,1,0,1,13
+CB,NFB_CB_02,artifactFC,military uniform,"not sure why, maybe they're all different colors because different countries have differnet colors",0,1,0,0,0,0,0,0,0,1,14
+CB,NFB_CB_15,artifactFC,military uniform,"maybe so that they can camouflage with the environment, and not be seen",0,0,0,0,0,0,1,0,0,1,13
+CB,NFB_CB_16,artifactFC,military uniform,"because that's the US colors, depends on country",0,1,0,0,0,0,0,1,0,2,8
+CB,NFB_CB_18,artifactFC,military uniform,"well for our case anyway, for the colors of our country's flag",0,0,0,0,0,0,0,1,0,1,12
+CB,NFB_CB_13,artifactFC,military uniform,inidicate certain rank and station in the military,0,0,0,0,0,0,0,1,0,1,8
+CB,NFB_CB_11,artifactFC,military uniform,so that everyone in the unit can be in unison,0,0,0,0,0,0,0,1,0,1,10
+CB,NFB_CB_10,artifactFC,military uniform,those are the colors we associate with our military,0,0,0,0,0,0,0,1,0,1,9
+CB,NFB_CB_24,artifactFC,military uniform,"for functionality, or for ceremonial reasons",0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_08,artifactFC,military uniform,"because a symbol of who they are, probably some similarity even across the branches of the military",0,0,0,0,0,0,0,1,0,1,17
+CB,NFB_CB_04,artifactFC,military uniform,"the way it's made, the way it's supposed to be",1,0,0,0,0,0,0,0,0,1,10
+CB,NFB_CB_26,artifactFC,paper,because they're the colors of the tree bark that the paper comes from,0,0,0,1,0,0,0,0,0,1,13
+CB,NFB_CB_14,artifactFC,paper,"provides more distinct background, white, dark writing, because allows for contrast between paper and what's writen on it",0,0,0,0,0,0,1,0,0,1,18
+CB,NFB_CB_17,artifactFC,paper,"it depends on what they're used for, you want a paper that you can write on and that you can clearly see what you've written, but then you get into the area of color and art and construction paper and things like that, then the paper itself becomes a part of the decorations, so you're going to get different colors more decorative colors",0,1,0,0,1,0,1,0,0,3,63
+CB,NFB_CB_12,artifactFC,paper,some people want to write on something different than typically colored paper,0,0,0,0,1,0,0,0,0,1,12
+CB,NFB_CB_23,artifactFC,paper,"papers come from trees which are green, but then they like do something to manufacture them and make them cool",1,0,0,1,0,0,0,0,0,2,20
+CB,NFB_CB_09,artifactFC,paper,"has to do with purpose of the paper, if it's just used to write on (memo, printing, or a rub the letter) you may have one printing in one color both to a variety,  but if used for construction of decorative purposes you'll maybe have a variety of colors to look more attractive",0,1,0,0,1,0,0,0,0,2,53
+CB,NFB_CB_07,artifactFC,paper,makes it easier to write,0,0,0,0,0,0,1,0,0,1,5
+CB,NFB_CB_06,artifactFC,paper,because of the way it was made,1,0,0,0,0,0,0,0,0,1,7
+CB,NFB_CB_03,artifactFC,paper,to catch the eye,0,0,0,0,0,0,1,0,0,1,4
+CB,NFB_CB_22,artifactFC,paper,"depends on manufacturer, what the point of it is",0,1,0,0,0,1,0,0,0,2,9
+CB,NFB_CB_02,artifactFC,paper,"because when you write, it's most commonly black, so contrasts paper with letters, so can read better, but can be all sorts of colors because your'e doing maybe doing an art project, so need other colors of paper, depends on the wood/material used to make paper",0,1,0,1,0,0,1,0,0,3,46
+CB,NFB_CB_15,artifactFC,paper,people want different colors and designs for different projects,0,1,0,0,1,0,0,0,0,2,9
+CB,NFB_CB_16,artifactFC,paper,that's how they're made,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,artifactFC,paper,"for variety, you know like different types of colors you can do with it or different variations to make the paper just look different",0,0,0,0,1,0,0,0,0,1,24
+CB,NFB_CB_13,artifactFC,paper,that's how they're traditionally designed,1,0,0,0,0,0,0,1,0,2,5
+CB,NFB_CB_11,artifactFC,paper,"for decoration, or so that people can decide what color paper they want",0,0,0,0,1,0,0,0,0,1,13
+CB,NFB_CB_10,artifactFC,paper,"papers are used for writing, so if they're white they show other colors most clearly, but for art projects and stuff you might want papers in other colors ",0,1,0,0,1,0,1,0,0,3,28
+CB,NFB_CB_24,artifactFC,paper,"it depends on what you're using it for, like white paper is used for writing documents, and other colors are used for art, or to draw attention to a particular document by making it a different color",0,1,0,0,0,0,0,0,0,1,37
+CB,NFB_CB_08,artifactFC,paper,"a good contrast if you want to write on the paper, good color for the writing to show up on, customizable like if you want to make your own stationary, want to make a fancy silver wedding invitation or something ",0,0,0,0,1,0,1,0,0,2,40
+CB,NFB_CB_04,artifactFC,paper,how it's made,1,0,0,0,0,0,0,0,0,1,3
+CB,NFB_CB_26,artifactFC,recycling bin,"I'm sure it's because they're supposed to, there are certain colors that represent like the logo or the symbol that distinguishes those bins as recycling bins",0,0,0,0,0,0,0,1,0,1,26
+CB,NFB_CB_14,artifactFC,recycling bin,"universal thing, you see it and you know it's recycling, you're trying to make sure that the message comes across, go green",0,0,0,0,0,0,0,1,0,1,22
+CB,NFB_CB_17,artifactFC,recycling bin,"you want to get people to recycle, so therefore they need to be the same color so you can associate the color with recycling",0,0,0,0,0,0,0,1,0,1,24
+CB,NFB_CB_12,artifactFC,recycling bin,because we use a certain color to separate the recyling bin from the trash can ,0,0,0,0,0,0,0,1,0,1,15
+CB,NFB_CB_23,artifactFC,recycling bin,"for visual cues so people will look at it, it'll catch their eye so they'll be like ""oh I should probably recycle that""",0,0,0,0,0,0,1,1,0,2,23
+CB,NFB_CB_09,artifactFC,recycling bin,"no need to color them because they're used for specific purpose, not worried how attractive recycling bin is, you're using it probably fairly privately, you're not going to show people around the office and tell them 'this is my bright red recycling bin' unless you're a little eccentricso not like decorations on wall in your room or office, used for just a specific purpose then you're done with it",0,0,0,0,0,0,0,1,0,1,69
+CB,NFB_CB_07,artifactFC,recycling bin,so that people know what kind of bin it is,0,0,0,0,0,0,0,1,0,1,10
+CB,NFB_CB_06,artifactFC,recycling bin,they're easy to spot,0,0,0,0,0,0,1,0,0,1,4
+CB,NFB_CB_03,artifactFC,recycling bin,it looks pretty I don't know,0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_22,artifactFC,recycling bin,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactFC,recycling bin,"in most cases, black because it blends better with the environment, depending on where you put the recycling bin, paint different color, so that it looks beter, depending on what's around it",0,1,0,0,1,0,1,0,0,3,32
+CB,NFB_CB_15,artifactFC,recycling bin,"because they are made by different companies, so they may have different colors",0,1,0,0,0,1,0,0,0,2,13
+CB,NFB_CB_16,artifactFC,recycling bin,"because of the materials used to make the plastic, what they're made of",0,0,0,1,0,0,0,0,0,1,13
+CB,NFB_CB_18,artifactFC,recycling bin,to indicate that putting things in them helps to protect the environment,0,0,0,0,0,0,0,1,0,1,12
+CB,NFB_CB_13,artifactFC,recycling bin,so that they can be distinguished and recognized for what they are,0,0,0,0,0,0,1,1,0,2,12
+CB,NFB_CB_11,artifactFC,recycling bin,so that people can know to put things in them,0,0,0,0,0,0,0,1,0,1,10
+CB,NFB_CB_10,artifactFC,recycling bin,"so that people know what they are, you want them to stick out and be easy to see",0,0,0,0,0,0,1,1,0,2,18
+CB,NFB_CB_24,artifactFC,recycling bin,so that you can see them easily and know where to go,0,0,0,0,0,0,1,0,0,1,12
+CB,NFB_CB_08,artifactFC,recycling bin,"blue is a guess, but all a same color because needs to be a universal indicator that it's a recycling bin, as opposed to a garbage can",0,0,0,0,0,0,0,1,0,1,27
+CB,NFB_CB_04,artifactFC,recycling bin,"to stand out from trash bins (because trash bins are different colors), they stand out from one another",0,0,0,0,0,0,1,0,0,1,18
+CB,NFB_CB_26,artifactFC,school bus,"mostly because of how the buses and painted, how they're painted to recognize or to distinguish them as a school bus",1,0,0,0,0,0,1,0,0,2,21
+CB,NFB_CB_14,artifactFC,school bus,"symbols for them, but certain school buses differnet color, depending on what they do, regular ones are , short buses are short buses are different",0,1,0,0,0,0,0,1,0,2,25
+CB,NFB_CB_17,artifactFC,school bus,tradition,0,0,0,0,0,0,0,1,0,1,1
+CB,NFB_CB_12,artifactFC,school bus,because people associate yellow with school buses,0,0,0,0,0,0,0,1,0,1,7
+CB,NFB_CB_23,artifactFC,school bus,"so people can see them, and little kids love bright colors so it's like ""oh my gosh I want to go on the yellow bus""",0,0,0,0,1,0,1,0,0,2,25
+CB,NFB_CB_09,artifactFC,school bus,"it's giving you a signal if you're driving that this bus is being used for a particular purpose, need to behave around it a certain way for example don't pass it, if you see a green school bus stay behind it but if you're too imatient and it's moving too slowly for you then fing another route, trying to send you message that you need to pay attention",0,0,0,0,0,0,0,1,0,1,68
+CB,NFB_CB_07,artifactFC,school bus,uniform purposes,0,0,0,0,0,0,0,1,0,1,2
+CB,NFB_CB_06,artifactFC,school bus,because it's easier for people to see,0,0,0,0,0,0,1,0,0,1,7
+CB,NFB_CB_03,artifactFC,school bus,to get the attention of children,0,0,0,0,0,0,1,0,0,1,6
+CB,NFB_CB_22,artifactFC,school bus,"to make it standard, so people would know it's a school bus, as opposed to a public transport, they sound the same",0,0,0,0,0,0,0,1,0,1,22
+CB,NFB_CB_02,artifactFC,school bus,"there's a story about this I can't remember (long time ago), I think now they're yellow because people associate yellow with school buses, since the color is asociated with the function of the object, they just leave it that way",0,0,0,0,0,0,0,1,0,1,40
+CB,NFB_CB_15,artifactFC,school bus,because that's most common and it was it was established that way,0,0,0,0,0,0,0,1,0,1,12
+CB,NFB_CB_16,artifactFC,school bus,that's how they're made ,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,artifactFC,school bus,to make them easy to identify,0,0,0,0,0,0,1,0,0,1,6
+CB,NFB_CB_13,artifactFC,school bus,symbolism,0,0,0,0,0,0,0,1,0,1,1
+CB,NFB_CB_11,artifactFC,school bus,to attract kids to it,0,0,0,0,1,0,0,0,0,1,5
+CB,NFB_CB_10,artifactFC,school bus,association we have as a society that school buses are yellow so most of them are yellow,0,0,0,0,0,0,0,1,0,1,17
+CB,NFB_CB_24,artifactFC,school bus,"so that it's easy for kids to see them, and for other traffic to see them",0,0,0,0,0,0,1,0,0,1,16
+CB,NFB_CB_08,artifactFC,school bus,"couple reasons, like the lab coat, it's a universal symbol, this is a yellow school bus, someone wouldn't suggest a magenta school bus, we grow up with, something wer'e taught ",0,0,0,0,0,0,0,1,0,1,30
+CB,NFB_CB_04,artifactFC,school bus,to stand out/stand alone from other buses,0,0,0,0,0,0,1,0,0,1,7
+CB,NFB_CB_26,artifactFC,stop sign,"well the purpose of a stop sign is to get the driver's attention and tell them to stop, and in order to do that you've got to have a color that's consistent across all stop signs so that all drivers of all languages or whatever will understand the same thing and will hopefully do what the stop sign tells them to do",0,0,0,0,0,0,1,1,0,2,62
+CB,NFB_CB_14,artifactFC,stop sign,red means stop,0,0,0,0,0,0,0,1,0,1,3
+CB,NFB_CB_17,artifactFC,stop sign,"you need to be able to see them quickly, they need to be obvious, and they need to be easily spotted, so that people hopefully obey them",0,0,0,0,0,0,1,0,0,1,27
+CB,NFB_CB_12,artifactFC,stop sign,because it's a recognized color that means stop,0,0,0,0,0,0,0,1,0,1,8
+CB,NFB_CB_23,artifactFC,stop sign,"because somebody decided that they should be, red means stop",0,0,0,0,0,0,0,1,0,1,10
+CB,NFB_CB_09,artifactFC,stop sign,"trying to alert of something you that you need to be aware of, tell you to take a certain action for safety reasons, so then one could be a color that's fairly noticeable",0,0,0,0,0,0,1,0,0,1,33
+CB,NFB_CB_07,artifactFC,stop sign,to tet folks know to stop,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_06,artifactFC,stop sign,so that people who are in cars or in general can see them better,0,0,0,0,0,0,1,0,0,1,14
+CB,NFB_CB_03,artifactFC,stop sign,to get your attention,0,0,0,0,0,0,1,0,0,1,4
+CB,NFB_CB_22,artifactFC,stop sign,"each town would have a standard color, a differnet town ",0,0,0,0,0,0,0,1,0,1,10
+CB,NFB_CB_02,artifactFC,stop sign,"because from prehistorical times people have associated red color with alertness and attention, maybe it's mainly because of blood, becausewhen you bled it was really bad, since didn't have knowledge of medicine that we do today, if you bled that meant that you were hurt, chance of survival were not great, red color is innately assoicated with bad or pay attention or danger ahead, in people's brains, not sure if you're born knowing that or society conditions us to see it that way but it's that way, so for stop signs really important for people to stop, so then, if the sign is red, less likely to miss it, probability of them stopping are higher",0,0,0,0,0,0,0,1,0,1,115
+CB,NFB_CB_15,artifactFC,stop sign,it's a symbol of stopping,0,0,0,0,0,0,0,1,0,1,5
+CB,NFB_CB_16,artifactFC,stop sign,"they dictate traffic so that's the color they use, so it's more visible",0,0,0,0,0,0,1,1,0,2,13
+CB,NFB_CB_18,artifactFC,stop sign,"so you know to stop, so that it's very clear to identify that you're supposed to stop the car",0,0,0,0,0,0,0,1,0,1,19
+CB,NFB_CB_13,artifactFC,stop sign,red traditionally means stop,0,0,0,0,0,0,0,1,0,1,4
+CB,NFB_CB_11,artifactFC,stop sign,so that people know to go or not,0,0,0,0,0,0,0,1,0,1,8
+CB,NFB_CB_10,artifactFC,stop sign,"red is very eye catching color, stop signs need to be easy for people to see and read",0,0,0,0,0,0,1,0,0,1,18
+CB,NFB_CB_24,artifactFC,stop sign,"because we have associated red with stop, it's a cultural thing",0,0,0,0,0,0,0,1,0,1,11
+CB,NFB_CB_08,artifactFC,stop sign,"association and symbolism of color red, danger, be careful, warning, when something flasesehs red, driver trained evenlong before they got a license, I better stop, don’t' go forward",0,0,0,0,0,0,0,1,0,1,28
+CB,NFB_CB_04,artifactFC,stop sign,depends on the traffic regulations,0,1,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_26,artifactFC,wedding dress,"because that's the color of the fabric they're made from, brides pick the color before they get the dress",0,0,0,1,1,0,0,0,0,2,19
+CB,NFB_CB_14,artifactFC,wedding dress,fashion,0,0,0,0,1,0,0,0,0,1,1
+CB,NFB_CB_17,artifactFC,wedding dress,"well there's something about tradition, and white being associated with purity and virginity and all that, but beyond that it's just a matter of demand, if you want a baby barf green wedding dress that's your problem",0,0,0,0,1,0,0,1,0,2,37
+CB,NFB_CB_12,artifactFC,wedding dress,because people want something interesting to look at when they're standing up there to get married,0,0,0,0,1,0,0,0,0,1,16
+CB,NFB_CB_23,artifactFC,wedding dress,"advertising, people like white for weddings",0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_09,artifactFC,wedding dress,"it has to do with attractiveness, so that when the bride comes walking down the aisle people can look at her and say oh wow what a wedding dress she has, also has to do with kind of wedding you're going to have, if you look at it as a really solemn occasion (not necessarily sad but solemn, important enough) it might be more of a black color to symbolize that, or a really happy kind of color more of a red really loud statement, has to do withkind of message that you're sending to the people you invited",0,0,0,0,1,0,0,1,0,2,99
+CB,NFB_CB_07,artifactFC,wedding dress,visual appeal,0,0,0,0,1,0,0,0,0,1,2
+CB,NFB_CB_06,artifactFC,wedding dress,they way the stylist wants them to be made,0,0,0,0,0,1,0,0,0,1,9
+CB,NFB_CB_03,artifactFC,wedding dress,well I know that they're white because of this like outdated idea of the virginal bride,0,0,0,0,0,0,0,1,0,1,16
+CB,NFB_CB_22,artifactFC,wedding dress,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactFC,wedding dress,"comes from way back, white was synonymous with purity, and brides were supposed to be pure and virgins, so white symbolized the purity of brides, now not really like that, but again people associated the color with the action so much, so now it's still white",0,0,0,0,0,0,0,1,0,1,46
+CB,NFB_CB_15,artifactFC,wedding dress,"different colors for different cultures, and people in different countries symbolize unity and marriage",0,1,0,0,0,0,0,1,0,2,14
+CB,NFB_CB_16,artifactFC,wedding dress,because that's what people pick out for colors,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_18,artifactFC,wedding dress,to give them variety for people that like different colors,0,0,0,0,1,0,0,0,0,1,10
+CB,NFB_CB_13,artifactFC,wedding dress,because of traditional societal values,0,0,0,0,0,0,0,1,0,1,5
+CB,NFB_CB_11,artifactFC,wedding dress,"so when you go to pick out, you can pick whatever color you want",0,0,0,0,1,0,0,0,0,1,14
+CB,NFB_CB_10,artifactFC,wedding dress,"white because that's the kind of color our society associates with marriage and purity, but if you don't want it to be white you can do it in any color",0,0,0,0,1,0,0,1,0,2,30
+CB,NFB_CB_24,artifactFC,wedding dress,"cultural, patriarchy at work",0,0,0,0,0,0,0,1,0,1,4
+CB,NFB_CB_08,artifactFC,wedding dress,"for ages and ages, white has been symbol of purity, so comon thing for people to wear, still common, but more and more people are ok and interested in doing different colors",0,0,0,0,1,0,0,1,0,2,32
+CB,NFB_CB_04,artifactFC,wedding dress,"depends on what the person wants, depend's on the person's preference",0,1,0,0,1,0,0,0,0,2,11
+CB,NFB_CB_26,artifactNFC,car,"there are so many colors because to some extent the material they're made from, and more so because how they've been painted",1,0,0,1,0,0,0,0,0,2,22
+CB,NFB_CB_14,artifactNFC,car,"it's variety, car is something people buy, personalize more, people get something that's more pleasing to them, need cars, but it's still a luxury, get to match personality",0,0,0,0,1,0,0,0,0,1,28
+CB,NFB_CB_17,artifactNFC,car,"demand drives supply, that's what people want",0,0,0,0,1,0,0,0,0,1,7
+CB,NFB_CB_12,artifactNFC,car,because people like to drive a car that is the color that they think fits them,0,0,0,0,1,0,0,0,0,1,16
+CB,NFB_CB_23,artifactNFC,car,because whoever decided to manufacture the cars decided that they should be this color,0,0,0,0,0,1,0,0,0,1,14
+CB,NFB_CB_09,artifactNFC,car,"has to do with the paint that's used on them, if manufacturer wanted a variety of colors can use different color paints/different colored paint in order to paint different parts of it, might have something to do with an attractiveness feature",1,0,0,0,1,1,0,0,0,3,41
+CB,NFB_CB_07,artifactNFC,car,people like those colors,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_06,artifactNFC,car,the way they were painted,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_03,artifactNFC,car,so people can show their personalities,0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_22,artifactNFC,car,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactNFC,car,so people can choose what color they want,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_15,artifactNFC,car,because people enjoy a variety,0,0,0,0,1,0,0,0,0,1,5
+CB,NFB_CB_16,artifactNFC,car,that's how they're manufactured,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,artifactNFC,car,"I think just for how people like them to look, you know a car might be red or blue for a design but then people might paint part of it to give it their own favorite color, to add uniqueness to the car",1,0,0,0,1,0,0,0,0,2,43
+CB,NFB_CB_13,artifactNFC,car,people like a wide variety of colors when choosing a car,0,0,0,0,1,0,0,0,0,1,11
+CB,NFB_CB_11,artifactNFC,car,"for promotional purposes, so that customers want to buy them",0,0,0,0,1,1,0,0,0,2,10
+CB,NFB_CB_10,artifactNFC,car,people like different colors of cars,0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_24,artifactNFC,car,aesthetics mostly,0,0,0,0,1,0,0,0,0,1,2
+CB,NFB_CB_08,artifactNFC,car,"a car is an extension of a person, want to custoize the way they want, association with differnet brands too, like ""red corvet""",0,0,0,0,1,0,0,1,0,2,23
+CB,NFB_CB_04,artifactNFC,car,"depends on the paint, the way it's painted",1,1,0,0,0,0,0,0,0,2,8
+CB,NFB_CB_26,artifactNFC,cup,"cups are those colors sometimes because of decoration, and also to separate one brand from another",0,0,0,0,1,0,0,1,0,2,16
+CB,NFB_CB_14,artifactNFC,cup,"sometimes because they represent something, like sports team, like major function, cups for break cancer, would be pink",0,0,0,0,0,0,0,1,0,1,18
+CB,NFB_CB_17,artifactNFC,cup,"people don't want their cups to be the same color, people have different preferences, the demand for different colored cups influences the supply",0,0,0,0,1,0,0,0,0,1,23
+CB,NFB_CB_12,artifactNFC,cup,because people like variety,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_23,artifactNFC,cup,"people like to stare at colors, it depends on what they like, advertising",0,0,0,0,1,0,0,0,0,1,13
+CB,NFB_CB_09,artifactNFC,cup,to make them more easy to spot if you lose your cup,0,0,0,0,0,0,1,0,0,1,12
+CB,NFB_CB_07,artifactNFC,cup,"i don't know, I'd just never thought of it before",0,0,0,0,0,0,0,0,1,1,10
+CB,NFB_CB_06,artifactNFC,cup,so you can tell each cup apart,0,0,0,0,0,0,1,0,0,1,7
+CB,NFB_CB_03,artifactNFC,cup,because they look pretty,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_22,artifactNFC,cup,depends on maunfacturer ,0,0,0,0,0,1,0,0,0,1,3
+CB,NFB_CB_02,artifactNFC,cup,"because people like different colors, some people would choose to buy blue, others red, depending on where you're using them, the color your plates are",0,0,0,0,1,0,0,0,0,1,25
+CB,NFB_CB_15,artifactNFC,cup,because people like a variety,0,0,0,0,1,0,0,0,0,1,5
+CB,NFB_CB_16,artifactNFC,cup,because that's how companies make them,0,0,0,0,0,1,0,0,0,1,6
+CB,NFB_CB_18,artifactNFC,cup,"for variety, to give them different looks, some people like looking at different colors",0,0,0,0,1,0,0,0,0,1,14
+CB,NFB_CB_13,artifactNFC,cup,how they were designed,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_11,artifactNFC,cup,they want people to buy them,0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_10,artifactNFC,cup,"a lot of cups are made of porceline, porceline is usually like a white color but they can be painted, plastic cups can be any color",0,0,0,1,0,0,0,0,0,1,26
+CB,NFB_CB_24,artifactNFC,cup,"because they're something aesthetic for people, and they're fun to express different types of interests, like you can get chemistry cups or science cups or whatever",0,1,0,0,1,0,0,0,0,2,26
+CB,NFB_CB_08,artifactNFC,cup,"white is what you associate with delicate teacup, but depends on who you're making the cup for, want to entice kids and paretns, want it to be more colorful, I used to have favorite orange mug, giving consumers those options, so want to make them marketable",0,0,0,0,1,0,0,1,0,2,46
+CB,NFB_CB_04,artifactNFC,cup,how it's made,1,0,0,0,0,0,0,0,0,1,3
+CB,NFB_CB_26,artifactNFC,fork,"because of the materials they're made from, and whether or not whoever made the forks decided to put decorations on them",0,0,0,1,0,1,0,0,0,2,21
+CB,NFB_CB_14,artifactNFC,fork,it's silverwear,0,0,1,0,0,0,0,0,0,1,2
+CB,NFB_CB_17,artifactNFC,fork,"Demand drives supply. If people want neon green forks, they're gonna get them",0,0,0,0,1,0,0,0,0,1,13
+CB,NFB_CB_12,artifactNFC,fork,differemt forks are made out of different materials so they would have a different color,0,0,0,1,0,0,0,0,0,1,15
+CB,NFB_CB_23,artifactNFC,fork,"because they are, people wanted them that way I don’t know",0,0,1,0,1,0,0,0,0,2,11
+CB,NFB_CB_09,artifactNFC,fork,"has to do with allowing it to jive, to blend with the texture of the food you're eating with it",0,0,0,0,0,0,1,0,0,1,20
+CB,NFB_CB_07,artifactNFC,fork,that's what manufacturer made them to be,0,0,0,0,0,1,0,0,0,1,7
+CB,NFB_CB_06,artifactNFC,fork,because that's probably the way that they were painted,1,0,0,0,0,0,0,0,0,1,9
+CB,NFB_CB_03,artifactNFC,fork,"I think it depends, like if they're silver it's probably because they're made of silver, so like what they're made of determines the color",0,1,0,1,0,0,0,0,0,2,24
+CB,NFB_CB_22,artifactNFC,fork,probably depends on the maunfacturer,0,1,0,0,0,1,0,0,0,2,5
+CB,NFB_CB_02,artifactNFC,fork,"depends on the material that is used to make them, e.g., silver forks are silver because they have a silver coating, made of silver, plastic forks, can paint them any color, so people choose bright forks, like red or blue, could also have metal forks, metal forks are going to be different from plastic, like silver, gold",0,1,0,1,0,0,0,0,0,2,57
+CB,NFB_CB_15,artifactNFC,fork,because that's how people designed them to be ,0,0,0,0,0,1,0,0,0,1,8
+CB,NFB_CB_16,artifactNFC,fork,because that's how they're made,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_18,artifactNFC,fork,to make them easy to identify,0,0,0,0,0,0,1,0,0,1,6
+CB,NFB_CB_13,artifactNFC,fork,it goes best with the other settings at the table,0,0,0,0,0,0,1,0,0,1,10
+CB,NFB_CB_11,artifactNFC,fork,"that's the way the compnay makes them, the manufacturer",0,0,0,0,0,1,0,0,0,1,9
+CB,NFB_CB_10,artifactNFC,fork,"because of the material they're made of, if forks are made of metal they're gonna be a gray type color, if they're made of plastic plastic can be many different colors",0,0,0,1,0,0,0,0,0,1,31
+CB,NFB_CB_24,artifactNFC,fork,"because people make all kinds of forks out of all kinds of materials, and some are more for like fancy occasions, like silver and gold plated things like that are for fancy, and picnic forks or forks for birthday parties are more variable in like bright colors the plastic ones you know",0,0,0,1,1,0,0,0,0,2,52
+CB,NFB_CB_08,artifactNFC,fork,"neutral color, white is most common, sivler would be fancy set, most are neutral, but could be one bright one like red",0,0,0,0,0,0,0,1,0,1,22
+CB,NFB_CB_04,artifactNFC,fork,"if they're specially done, it depends on the occasion",0,1,0,0,0,0,0,0,0,1,9
+CB,NFB_CB_26,artifactNFC,laptop,because of the material they're made from and any painting that the company or the store might have done,1,0,0,1,0,1,0,0,0,3,19
+CB,NFB_CB_14,artifactNFC,laptop,"just differnet components of the machine, keys, screen need to be different color to easily see, read contrast, the more customizable parts are th outside the edges and stuff when you close, but for usability need more consistency around the screen and keys and such",0,1,0,0,0,0,1,0,0,2,45
+CB,NFB_CB_17,artifactNFC,laptop,because people are weird,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_12,artifactNFC,laptop,because people want these colors for their computers,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_23,artifactNFC,laptop,"well again you go back to the manufacturers of the company and advertising and they want them to look all shiny and good so people will be like ""I want one of them""",0,0,0,0,1,1,0,0,0,2,33
+CB,NFB_CB_09,artifactNFC,laptop,"has to do with monitor trying to give you a certain signal, that either screen isn't working or something like that, used for business purpose so you're not base it on attractiveness as much, so it's ok for it to be more of a dark color",0,0,0,0,0,0,0,0,1,1,46
+CB,NFB_CB_07,artifactNFC,laptop,design,1,0,0,0,0,0,0,0,0,1,1
+CB,NFB_CB_06,artifactNFC,laptop,the way they were painted,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_03,artifactNFC,laptop,I don't know they look professional,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_22,artifactNFC,laptop,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactNFC,laptop,"depends on the material they used on the cover, could be plastic, like a metal, plastic ones also paint and use the color they want",0,1,0,1,0,0,0,0,0,2,25
+CB,NFB_CB_15,artifactNFC,laptop,it gives people a variety to choose from,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_16,artifactNFC,laptop,"that's how they're branded, like the companies make them those colors, that's the colors people want",0,0,0,0,1,1,0,0,0,2,16
+CB,NFB_CB_18,artifactNFC,laptop,"to give them different look, maybe a person's preference in colors",0,0,0,0,1,0,0,0,0,1,11
+CB,NFB_CB_13,artifactNFC,laptop,becausehow they are designed,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_11,artifactNFC,laptop,manufacturing purposes and advertisement ,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_10,artifactNFC,laptop,because of the material that they're made of,0,0,0,1,0,0,0,0,0,1,8
+CB,NFB_CB_24,artifactNFC,laptop,"the outisde is for aesthetics, the screen has to optimize visual usage you know, and the keyboard also has to be visually useful for a lot of people",0,0,0,0,1,0,1,0,0,2,28
+CB,NFB_CB_08,artifactNFC,laptop,"sometimes associated with the brand, hypotehtically, if apple laptop, red like an apple, most laptops netural, but netural so you could put a decorate shell on it that's more coloreful",0,0,0,0,0,1,0,1,0,2,30
+CB,NFB_CB_04,artifactNFC,laptop,because of how it's made,1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_26,artifactNFC,pen,because the pen is usually the same color as the ink and pens are meant to have ink in them that writes something in a certain color,0,0,0,1,0,0,0,0,0,1,27
+CB,NFB_CB_14,artifactNFC,pen,"maybe on outisde, attractiveness purposes, but the colors that you write with are standard for writing purposes, for uniformity or to be distinct, black easy to see on paper, red for highlight, serve a purpose",0,0,0,0,1,0,1,1,0,3,35
+CB,NFB_CB_17,artifactNFC,pen,people want them to ,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_12,artifactNFC,pen,for variety in the way that we write,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_23,artifactNFC,pen,"pens are boring, they're just one single boring color",0,0,1,0,0,0,0,0,0,1,9
+CB,NFB_CB_09,artifactNFC,pen,"they're mostly blue it has to do with the kin of writing you're doing, a nice neutral kind of writing like a memo or a business letter (which most of the times you don't handwrite them, you would use a printer) you would want it to be fairly neutral, unless you're really angry and sending a really angry message you would have a red pen that would signify the person is really P.O.'d at us and took the time to write with a red pen, it has to with the kind of message, if it's something like dear brianna thank you for joining our organization please email us at ___________ OR it this is so and so collection agency it has come to our attention that brianna has been delinquent on her college loans and the interest is climbing daily I would imagine that the second is telling you this is meant to grab your attention you need to act that would be the red pen",0,1,0,0,1,0,0,1,0,3,165
+CB,NFB_CB_07,artifactNFC,pen,different colors for writing,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_06,artifactNFC,pen,the way the ink is,0,0,1,0,0,0,0,0,0,1,5
+CB,NFB_CB_03,artifactNFC,pen,because they look pretty,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_22,artifactNFC,pen,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactNFC,pen,"this is a weird thing and i really don't know, but maybe it depends on what color ink inside the pen, and so maybe color of pen matches color of ink, that way when you see pen you know what color it's going to be like the ink is going to be",0,1,0,1,0,0,1,0,0,3,51
+CB,NFB_CB_15,artifactNFC,pen,because people want them to be that way and some colors are better on certain paper,0,0,0,0,1,0,1,0,0,2,16
+CB,NFB_CB_16,artifactNFC,pen,that's how they're made,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_18,artifactNFC,pen,"to give them decoration, different people like to look at different pens, or draw or write things in certain colors, different colors give them the variety",0,0,0,0,1,0,0,0,0,1,26
+CB,NFB_CB_13,artifactNFC,pen,that is the traditional colors of pens,0,0,0,0,0,0,0,1,0,1,7
+CB,NFB_CB_11,artifactNFC,pen,so that people can choose whatever color they want,0,0,0,0,1,0,0,0,0,1,9
+CB,NFB_CB_10,artifactNFC,pen,"black shows up the most clearly on white paper, but you might want a pen in another color if you're correcting a paper",0,0,0,0,0,0,1,0,0,1,23
+CB,NFB_CB_24,artifactNFC,pen,"because they're the most useful colors, for like writing and marking things",0,0,0,0,0,0,1,0,0,1,12
+CB,NFB_CB_08,artifactNFC,pen,"differnet things, like when you're a kid and you want to play with crayons, when adult, you need different colors, teacehrs use red, even though demoralizing, blue for test answers, having the variety avilable ",0,1,0,0,0,0,0,0,0,1,34
+CB,NFB_CB_04,artifactNFC,pen,because of the ink in the pen,0,0,0,1,0,0,0,0,0,1,7
+CB,NFB_CB_26,artifactNFC,soap,because of what it's made out of,0,0,0,1,0,0,0,0,0,1,7
+CB,NFB_CB_14,artifactNFC,soap,"color that chemicals turn them, beause soap is a mix of chemicals, if you don't add artifical colroing it's what it's gonna be",0,0,0,1,0,0,0,0,0,1,23
+CB,NFB_CB_17,artifactNFC,soap,"that's what people want, preference",0,0,0,0,1,0,0,0,0,1,5
+CB,NFB_CB_12,artifactNFC,soap,people don't want to wash themselves with colored liquid that would make their boy not clean,0,0,0,0,1,0,0,0,0,1,16
+CB,NFB_CB_23,artifactNFC,soap,"bright colors, they want people to use it, please use it!",0,0,0,0,1,0,1,0,0,2,11
+CB,NFB_CB_09,artifactNFC,soap,"want kind of a neutral peaceful color as you're taking a shower or washing up as opposed to something that's attention getting and harsh, it's supposed to be a peaceful and soothing activity and manufacturers recognize that, and bottom line is commerce/business they want you to buy their brand",0,0,0,0,1,0,0,1,0,2,49
+CB,NFB_CB_07,artifactNFC,soap,science,0,0,1,0,0,0,0,0,0,1,1
+CB,NFB_CB_06,artifactNFC,soap,,0,0,0,0,0,0,0,0,0,0,0
+CB,NFB_CB_03,artifactNFC,soap,probably something to do with the stuff that they're made of,0,0,0,1,0,0,0,0,0,1,11
+CB,NFB_CB_22,artifactNFC,soap,depends on maufacturer,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactNFC,soap,"no idea, probably because of the chemcials they use to make it, probably use paint, to make it a pleasing, clean looking color, if artisanal soap, maybe paint them a different color, chemicals used to make soap can't vary, because otherwise it wouldn't be soap",1,0,0,1,1,0,0,0,0,3,44
+CB,NFB_CB_15,artifactNFC,soap,because of ingredients inside them,0,0,0,1,0,0,0,0,0,1,5
+CB,NFB_CB_16,artifactNFC,soap,the materials that are used to make it,0,0,0,1,0,0,0,0,0,1,8
+CB,NFB_CB_18,artifactNFC,soap,just to give them a different look different visuals,0,0,0,0,1,0,0,0,0,1,9
+CB,NFB_CB_13,artifactNFC,soap,because of the colors of the chemicals that make up the soap,0,0,0,1,0,0,0,0,0,1,12
+CB,NFB_CB_11,artifactNFC,soap,"that’s how  whoever manufactured want it to be that color, for various reasons",0,0,0,0,0,1,0,0,0,1,13
+CB,NFB_CB_10,artifactNFC,soap,"because of the materials that they're made of, you can add coloring to them if you want",0,0,0,1,1,0,0,0,0,2,17
+CB,NFB_CB_24,artifactNFC,soap,"because it makes them interesting, you know they're not just utilitarian, a lot of times they're like it's pleasurable to see soap with pretty colors, and because of the ingredients",0,0,0,1,1,0,0,0,0,2,30
+CB,NFB_CB_08,artifactNFC,soap,"color associated with cleaniliness, and that's soap's goal, but also has to do with whateer ingredientsa are in soap",0,0,0,1,0,0,0,1,0,2,19
+CB,NFB_CB_04,artifactNFC,soap,"that's the way they're manufactured, so manufacturing",1,0,0,0,0,0,0,0,0,1,7
+CB,NFB_CB_26,artifactNFC,table,"because of the kind of wood they're made from, and the way they're finished or another word is painted",1,0,0,1,0,0,0,0,0,2,19
+CB,NFB_CB_14,artifactNFC,table,"some are solid, some more natural wood colors, some are neutral to match things, usually they match your dining room set, your cabinets, floor",0,0,0,0,1,0,1,0,0,2,24
+CB,NFB_CB_17,artifactNFC,table,demand,0,0,0,0,1,0,0,0,0,1,1
+CB,NFB_CB_12,artifactNFC,table,"because usually made of wood, and that's a wood color",0,0,0,1,0,0,0,0,0,1,10
+CB,NFB_CB_23,artifactNFC,table,"so you can match them with whatever is in your room, like dark or bright",0,0,0,0,1,0,1,0,0,2,15
+CB,NFB_CB_09,artifactNFC,table,"depends on the setting, may have to do with purpose of the table, if it's a dark kind of neutral color it might be giving a message of 'welcome it is peaceful here', might be also sending message of cleanliness if you're in a restaurant and it was a spotless white color you know it's nice and clean and it's safe to eat at it, whereas if it were a grungier you might think 'they don't do such a good job at the restaurant with these tables lets go somewhere elss', attractiveness sends message, table where you're going to have a conference might be different from tables at a restauarant",0,1,0,0,0,0,0,1,0,2,110
+CB,NFB_CB_07,artifactNFC,table,depends on the designer,0,1,0,0,0,1,0,0,0,2,4
+CB,NFB_CB_06,artifactNFC,table,because of the way that they were painted,1,0,0,0,0,0,0,0,0,1,8
+CB,NFB_CB_03,artifactNFC,table,because they look pretty,0,0,0,0,1,0,0,0,0,1,4
+CB,NFB_CB_22,artifactNFC,table,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactNFC,table,"depends on the wood used to make them, because could be made  of glass, so clear, made of plastic, paint them any way you want, all those colors depending on what you're going to put on the table, if your'e putting it i.e. kid's bday party, red or blue, maybe at house, more brown table, so you could put... maybe people conventional table colors, black and brown, can put things on top that are other colors, like stand out against table",1,1,0,1,0,0,0,0,0,3,81
+CB,NFB_CB_15,artifactNFC,table,"because of the process they go through, maybe different from each other",1,0,0,0,0,0,0,0,0,1,12
+CB,NFB_CB_16,artifactNFC,table,"that's how their made, painted",1,0,0,0,0,0,0,0,0,1,5
+CB,NFB_CB_18,artifactNFC,table,different colors on different parts to make it more decorative and more visually appealing,0,0,0,0,1,0,0,0,0,1,14
+CB,NFB_CB_13,artifactNFC,table,depends on what the designer of the table wanted the color to be,0,1,0,0,0,1,0,0,0,2,13
+CB,NFB_CB_11,artifactNFC,table,"that's how the manufactureres wanted, or if people paint them they might paint them that color",1,0,0,0,0,1,0,0,0,2,15
+CB,NFB_CB_10,artifactNFC,table,"wood is brown, so if a table is made of wood it's going to be brown before you paint any color",0,0,0,1,0,0,0,0,0,1,21
+CB,NFB_CB_24,artifactNFC,table,"aesthetics, it's what people like, they want them to match their house or they want them to match their office",0,0,0,0,1,0,1,0,0,2,20
+CB,NFB_CB_08,artifactNFC,table,"for most part, want table to be a netural color, particualrly if it's gonna have things that get messy on it, but room for decorative table, like red, depending on use",0,1,0,0,1,0,0,0,0,2,31
+CB,NFB_CB_04,artifactNFC,table,"depends on the finish, it's the finish of the table, because of th finish, it's the finish",0,1,0,1,0,0,0,0,0,2,17
+CB,NFB_CB_26,artifactNFC,towel,because of the cloth that is used to make them,0,0,0,1,0,0,0,0,0,1,10
+CB,NFB_CB_14,artifactNFC,towel,"another one of thing it's a variety thing, buy them to match with other things, buy them to represent smething you enjoy, you may buy them because you like a certain color, it's one of those things where you have many choices, so people pick what they want to use",0,0,0,0,1,0,1,0,0,2,50
+CB,NFB_CB_17,artifactNFC,towel,white looks all sanitary and stuff,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_12,artifactNFC,towel,because people want color in everything,0,0,0,0,1,0,0,0,0,1,6
+CB,NFB_CB_23,artifactNFC,towel,white is like a clean color ,0,0,0,0,0,0,0,1,0,1,6
+CB,NFB_CB_09,artifactNFC,towel,"probably because of the material that's used, not sure there was an actual purpose in creating them that way, has to do with the materials that are used",0,0,0,1,0,0,0,0,0,1,28
+CB,NFB_CB_07,artifactNFC,towel,variety,0,0,0,0,1,0,0,0,0,1,1
+CB,NFB_CB_06,artifactNFC,towel,just the way the cloth is,0,0,1,0,0,0,0,0,0,1,6
+CB,NFB_CB_03,artifactNFC,towel,to give you something cool to look at while you dry your hands,0,0,0,0,1,0,0,0,0,1,13
+CB,NFB_CB_22,artifactNFC,towel,depends on maunfacturer ,0,1,0,0,0,1,0,0,0,2,3
+CB,NFB_CB_02,artifactNFC,towel,"that way people can choose what they like, depends on where they're putting them and what they're using them for, and so every towel designer does something that they consider pretty, so people will go buy their towels, the color, that's like a major thing that differentiates towels from one another, so that's how you can make more people buy your towels, it depends on the color and the designer you use ",0,1,0,0,1,1,0,0,0,3,71
+CB,NFB_CB_15,artifactNFC,towel,because people like variety of colors and designs,0,0,0,0,1,0,0,0,0,1,8
+CB,NFB_CB_16,artifactNFC,towel,"that's how they're made, well they're made that way because that's how consumers like, consumers dictate what colors, for manmade manufactured things, dicatate styles",1,0,0,0,1,0,0,0,0,2,24
+CB,NFB_CB_18,artifactNFC,towel,"for decoration, for different variety, for people to look at",0,0,0,0,1,0,0,0,0,1,10
+CB,NFB_CB_13,artifactNFC,towel,because of their design,1,0,0,0,0,0,0,0,0,1,4
+CB,NFB_CB_11,artifactNFC,towel,"promotion purposes, so that people will want to buy them",0,0,0,0,0,1,0,0,0,1,10
+CB,NFB_CB_10,artifactNFC,towel,"white is associated with getting things clean and it can absorb a lot of different things, if all towels were white it could be boring, some people like pink towels or disney princess towels",0,0,0,0,1,0,0,1,0,2,34
+CB,NFB_CB_24,artifactNFC,towel,"white towels are more like utilitarian like you find those they're easy to bleach, but then you have a bunch of like kids' towels, or people's houses they want everything to match, or beach towels they have lots of fun characters on them and stuff",0,0,0,0,1,0,1,0,0,2,45
+CB,NFB_CB_08,artifactNFC,towel,"dish towels and bath towels, white the most common because it's a clean color, but helpful to have differnet colored sets of towesl for differnet parts of the house, kitchen towels, bath towl, different considerations, like beah towels more colorful, marketing thing",0,0,0,0,1,0,0,1,0,2,42
+CB,NFB_CB_04,artifactNFC,towel,how it's made,1,0,0,0,0,0,0,0,0,1,3
+S,NFB_S_26,natural,apple,to make them look more appetizing,0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_12,natural,apple,"depending on the different type of apple, or if it's ripe or over ripe",0,1,0,0,0,0,0,0,0,1,14
+S,NFB_S_14,natural,apple,they're different types,0,1,0,0,0,0,0,0,0,1,3
+S,NFB18_S_07,natural,apple,"they are a plant that grows and they're phenotypically color based on species, varying growth and environment exposures",1,1,1,0,0,0,0,0,0,3,18
+S,NFB18_S_09,natural,apple,"different types of apples, different flavors",0,1,0,0,0,0,0,0,0,1,6
+S,NFB18_S_17,natural,apple,exposure to direct sunlight; different varieties of apples some aren't likely to be red at all,1,1,0,0,0,0,0,0,0,2,16
+S,NFB18_S_03,natural,apple,because of selective breeding of different apple varieties,1,0,0,0,0,0,0,0,0,1,8
+S,NFB18_S_23,natural,apple,they're just grown that way,1,0,0,0,0,0,0,0,0,1,5
+S,NFB_S_11,natural,apple,"evolution, mineral content",1,0,0,1,0,0,0,0,0,2,3
+S,NFB_S_02,natural,apple,a species of apple is usually all like certain color and it usually doesn't change,0,0,1,0,0,0,0,0,0,1,15
+S,NFB_S_16,natural,apple,,0,0,0,0,0,0,0,0,0,0,0
+S,NFB_S_10,natural,apple,different regions that they're grown in,0,1,0,0,0,0,0,0,0,1,6
+S,NFB_S_15,natural,apple,that's just how they come out of the tree,0,0,1,0,0,0,0,0,0,1,9
+S,NFB_S_18,natural,apple,"they're fruits of a plant, certain aspect of nature and plants that create the fruits in the environments they're in, most are from Washington",0,0,1,0,0,0,0,0,0,1,24
+S,NFB18_S_04,natural,apple,genes,0,0,1,0,0,0,0,0,0,1,1
+S,NFB18_S_08,natural,apple,nature,0,0,1,0,0,0,0,0,0,1,1
+S,NFB_S_22,natural,apple,"mother nature, different species",0,0,1,0,0,0,0,0,0,1,4
+S,NFB_S_13,natural,apple,"evolutionarily brighter colors tend to attract the eye, consumption by animals spreads seeds, varying brighter colors condusive to that end",1,0,0,0,0,0,1,0,0,2,20
+S,NFB_S_24,natural,apple,"they just are, that's how they grow from the tree",1,0,1,0,0,0,0,0,0,2,10
+S,NFB_S_26,natural,blueberry,because of the vitamins inside them,0,0,0,1,0,0,0,0,0,1,6
+S,NFB_S_12,natural,blueberry,based off of the pigmentation of the skin,0,0,1,0,0,0,0,0,0,1,8
+S,NFB_S_14,natural,blueberry,because they're called blueberries,0,0,1,0,0,0,0,0,0,1,4
+S,NFB18_S_07,natural,blueberry,because blueberries in general that's the color of their fruit,0,0,1,0,0,0,0,0,0,1,10
+S,NFB18_S_09,natural,blueberry,"just how they are, scientific reason I don't know",0,0,1,0,0,0,0,0,0,1,9
+S,NFB18_S_17,natural,blueberry,nature made them that way,0,0,1,0,0,0,0,0,0,1,5
+S,NFB18_S_03,natural,blueberry,that is the way they grow,1,0,0,0,0,0,0,0,0,1,6
+S,NFB18_S_23,natural,blueberry,"years and years of planting and growing, started before my time, one of those nature things",1,0,1,0,0,0,0,0,0,2,16
+S,NFB_S_11,natural,blueberry,vitamin content I guess,0,0,0,1,0,0,0,0,0,1,4
+S,NFB_S_02,natural,blueberry,I think like genetically they just keep being blue,0,0,1,0,0,0,0,0,0,1,9
+S,NFB_S_16,natural,blueberry,plant biology,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_10,natural,blueberry,because that's how they're grown,1,0,0,0,0,0,0,0,0,1,5
+S,NFB_S_15,natural,blueberry,it's a part of their name (sarcastically),0,0,0,0,0,0,1,0,0,1,7
+S,NFB_S_18,natural,blueberry,"based on nature and what geographical region that they grow, not bright like oranges or like strawberries, specifically that color for a reason",0,1,0,0,0,0,0,0,0,1,23
+S,NFB18_S_04,natural,blueberry,"green when not ripe, genes",0,1,1,0,0,0,0,0,0,2,5
+S,NFB18_S_08,natural,blueberry,mother nature,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_22,natural,blueberry,mother nature,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_13,natural,blueberry,because of their biological composition,0,0,1,0,0,0,0,0,0,1,5
+S,NFB_S_24,natural,blueberry,that's just they're called blueberries (sarcastic),0,0,1,0,0,0,0,0,0,1,6
+S,NFB_S_26,natural,carrot,because of the materials inside a carrot,0,0,0,1,0,0,0,0,0,1,7
+S,NFB_S_12,natural,carrot,"based on what it's made out of, keratin that makes it orange",0,0,0,1,0,0,0,0,0,1,12
+S,NFB_S_14,natural,carrot,"that’s the way they grow, exposure to sun, photosynthesis",1,0,0,0,0,0,0,0,0,1,9
+S,NFB18_S_07,natural,carrot,"they're bred to be those colors, differences in variety species",1,1,0,0,0,0,0,0,0,2,10
+S,NFB18_S_09,natural,carrot,that's how they grow,1,0,0,0,0,0,0,0,0,1,4
+S,NFB18_S_17,natural,carrot,"idk whole biochem; orange but other varieties more rare, have to breed them deliberately",1,0,0,0,0,0,0,0,0,1,14
+S,NFB18_S_03,natural,carrot,"partly because that is the way that whatever root vegetable we found to breed carrots from had those characteristics, and how we modified",1,0,1,0,0,1,0,0,0,3,23
+S,NFB18_S_23,natural,carrot,they're grown that way,1,0,0,0,0,0,0,0,0,1,4
+S,NFB_S_11,natural,carrot,content of the mineral and vitamin,0,0,0,1,0,0,0,0,0,1,6
+S,NFB_S_02,natural,carrot,they evolved to be that way,1,0,0,0,0,0,0,0,0,1,6
+S,NFB_S_16,natural,carrot,biology,0,0,1,0,0,0,0,0,0,1,1
+S,NFB_S_10,natural,carrot,that's how they're grown,1,0,0,0,0,0,0,0,0,1,4
+S,NFB_S_15,natural,carrot,that's just how they grow out of the ground,1,0,0,0,0,0,0,0,0,1,9
+S,NFB_S_18,natural,carrot,"that's just a natural color that appears in nature, carrots are root",0,0,1,0,0,0,0,0,0,1,12
+S,NFB18_S_04,natural,carrot,"bottom part color determined by variety of carrot, tops green because leafy part collects sun and contains chlorophyll",0,1,0,1,0,0,0,0,0,2,18
+S,NFB18_S_08,natural,carrot,mother nature,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_22,natural,carrot,"that's how they grow, mother nature, genetics",1,0,1,0,0,0,0,0,0,2,7
+S,NFB_S_13,natural,carrot,biological composition,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_24,natural,carrot,that's just the color they are,0,0,1,0,0,0,0,0,0,1,6
+S,NFB_S_26,natural,corn,to differentiate from different vegetables,0,0,0,0,0,0,1,0,0,1,5
+S,NFB_S_12,natural,corn,"whatever it is composed of, age of the corn can determine color",0,1,0,1,0,0,0,0,0,2,12
+S,NFB_S_14,natural,corn,different species/types of corn,0,1,0,0,0,0,0,0,0,1,4
+S,NFB18_S_07,natural,corn,variety and the vitamins that are in it,0,0,0,1,0,0,0,0,0,1,8
+S,NFB18_S_09,natural,corn,"the way it grows, the way its planted, the seeds",1,0,0,0,0,0,0,0,0,1,10
+S,NFB18_S_17,natural,corn,"purple corn you can breed it to get the purple kernels, diff varieties in diff countries, Americans only get the yellow, outer part green leaves",1,1,0,0,0,0,0,0,0,2,25
+S,NFB18_S_03,natural,corn,"based on how we have manipulated these plants through agriculture to get the properties we want, white and yellow sweet corn at least attached to something we were selecting for",1,0,0,0,0,1,0,0,0,2,30
+S,NFB18_S_23,natural,corn,years and years of evolution and farmers,1,0,0,0,0,1,0,0,0,2,7
+S,NFB_S_11,natural,corn,vitamin and mineral content,0,0,0,1,0,0,0,0,0,1,4
+S,NFB_S_02,natural,corn,"it's a plant, the most common is yellow but there are different variations",0,0,1,0,0,0,0,0,0,1,13
+S,NFB_S_16,natural,corn,where it's grown,0,1,0,0,0,0,0,0,0,1,3
+S,NFB_S_10,natural,corn,because corn stalks are yellow,0,0,1,0,0,0,0,0,0,1,5
+S,NFB_S_15,natural,corn,"that's just how they come out of the ground, I think they change color as they mature",1,1,0,0,0,0,0,0,0,2,17
+S,NFB_S_18,natural,corn,"it's a plant and depending on where it is on the globe it grows the way that it grows, green on the outside is still like a plant and the rest varies depending on the environment",0,1,1,0,0,0,0,0,0,2,36
+S,NFB18_S_04,natural,corn,genes,0,0,1,0,0,0,0,0,0,1,1
+S,NFB18_S_08,natural,corn,mother nature,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_22,natural,corn,genetically modified,1,0,0,0,0,0,0,0,0,1,2
+S,NFB_S_13,natural,corn,biological properties,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_24,natural,corn,"variety, just the way they grow",1,0,0,0,0,0,0,0,0,1,6
+S,NFB_S_26,natural,fire,because of their tempeerature,0,1,0,0,0,0,0,0,0,1,4
+S,NFB_S_12,natural,fire,because of the chemical composition of how it's burned,0,0,0,1,0,0,0,0,0,1,9
+S,NFB_S_14,natural,fire,"exposure to chemicals makes it change colors, and whatever it's burning",1,0,0,1,0,0,0,0,0,2,11
+S,NFB18_S_07,natural,fire,because of chemical in whatever is burning and how hot it is,0,1,0,1,0,0,0,0,0,2,12
+S,NFB18_S_09,natural,fire,"intensity of the heat, length of the fire, how it was set, where it happens",0,1,0,0,0,0,0,0,0,1,15
+S,NFB18_S_17,natural,fire,related to temperature of the fire,0,1,0,0,0,0,0,0,0,1,6
+S,NFB18_S_03,natural,fire,"because of the chemical properties, because of the heat",0,0,0,1,0,0,0,0,0,1,9
+S,NFB18_S_23,natural,fire,"oxygen with the carbon dioxide, not really sure",0,0,0,1,0,0,0,0,0,1,8
+S,NFB_S_11,natural,fire,temperature,0,1,0,0,0,0,0,0,0,1,1
+S,NFB_S_02,natural,fire,they have like varying heat levels and also different chemicals in the air,0,1,0,1,0,0,0,0,0,2,13
+S,NFB_S_16,natural,fire,depends on the temperature of the fire,0,1,0,0,0,0,0,0,0,1,7
+S,NFB_S_10,natural,fire,"it's just like the lack of oxygen, the chemicals that make a fire",0,0,0,1,0,0,0,0,0,1,13
+S,NFB_S_15,natural,fire,"based on what they're burning, combustion",1,1,0,1,0,0,0,0,0,3,6
+S,NFB_S_18,natural,fire,"depending on the material whatever's burning, if there's an accelerant, reaction to environment, most need oxygen, depends on whatever chemicals involved to create the fire",1,1,0,1,0,0,0,0,0,3,25
+S,NFB18_S_04,natural,fire,might have to do with temperature and whether or not fire was started with accelerant and what material is burning,0,1,0,1,0,0,0,0,0,2,20
+S,NFB18_S_08,natural,fire,depends on the temperature,0,1,0,0,0,0,0,0,0,1,4
+S,NFB_S_22,natural,fire,different heat intensities,0,1,0,0,0,0,0,0,0,1,3
+S,NFB_S_13,natural,fire,"just because it's like burning, has to do with heat of fire too that determines temperature",0,1,0,0,0,0,0,0,0,1,16
+S,NFB_S_24,natural,fire,"fuel that's burning causes diff colors, amount of oxygen",1,1,0,0,0,0,0,0,0,2,9
+S,NFB_S_26,natural,kiwi,because of the way they're formed,1,0,0,0,0,0,0,0,0,1,6
+S,NFB_S_12,natural,kiwi,whatever pigmentation in the fruit,0,0,0,1,0,0,0,0,0,1,5
+S,NFB_S_14,natural,kiwi,they're the same fruit,0,0,1,0,0,0,0,0,0,1,4
+S,NFB18_S_07,natural,kiwi,different parts of the fruit,0,0,1,0,0,0,0,0,0,1,5
+S,NFB18_S_09,natural,kiwi,just the way they are,0,0,1,0,0,0,0,0,0,1,5
+S,NFB18_S_17,natural,kiwi,"idk, it's distinct and easy to recognize",0,0,0,0,0,0,1,0,0,1,7
+S,NFB18_S_03,natural,kiwi,because of how they grow and how we have manipulated the plants to get other flesh color varieties,1,0,0,0,0,1,0,0,0,2,18
+S,NFB18_S_23,natural,kiwi,"it's just grown that way, years and years of gardening to the perfect fruit",1,0,1,0,0,0,0,0,0,2,14
+S,NFB_S_11,natural,kiwi,evolution,1,0,0,0,0,0,0,0,0,1,1
+S,NFB_S_02,natural,kiwi,they evolved to be that way,1,0,0,0,0,0,0,0,0,1,6
+S,NFB_S_16,natural,kiwi,something to do with plant life,0,0,1,0,0,0,0,0,0,1,6
+S,NFB_S_10,natural,kiwi,it's the plant it's how they're grown,1,0,1,0,0,0,0,0,0,2,7
+S,NFB_S_15,natural,kiwi,just how they grow,1,0,0,0,0,0,0,0,0,1,4
+S,NFB_S_18,natural,kiwi,based on where they grow,0,1,0,0,0,0,0,0,0,1,5
+S,NFB18_S_04,natural,kiwi,"genes, variety of fruit",0,0,1,0,0,0,0,0,0,1,4
+S,NFB18_S_08,natural,kiwi,mother nature,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_22,natural,kiwi,mother nature,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_13,natural,kiwi,biological makeup,0,0,1,0,0,0,0,0,0,1,2
+S,NFB_S_24,natural,kiwi,that's how it grows,1,0,0,0,0,0,0,0,0,1,4
+S,NFB_S_26,natural,polar bear,to camoflauge with the snow,0,0,0,0,0,0,1,0,0,1,5
+S,NFB_S_12,natural,polar bear,"something to do with where they live probably, pigmentation in the skin, blend in with the snow",0,0,0,1,0,0,1,0,0,2,17
+S,NFB_S_14,natural,polar bear,because of the weather and location,0,1,0,0,0,0,0,0,0,1,6
+S,NFB18_S_07,natural,polar bear,to blend in with environment,0,0,0,0,0,0,1,0,0,1,5
+S,NFB18_S_09,natural,polar bear,"to blend in with the snow, for protection, so they're not preyed upon",0,0,0,0,0,0,1,0,0,1,13
+S,NFB18_S_17,natural,polar bear,"environment, live near north and south pole, blend in with snow and glaciers",0,0,0,0,0,0,1,0,0,1,13
+S,NFB18_S_03,natural,polar bear,they have evolved that way because helps them blend in with environment sneak up on prey,1,0,0,0,0,0,1,0,0,2,16
+S,NFB18_S_23,natural,polar bear,years and years of evolution,1,0,0,0,0,0,0,0,0,1,5
+S,NFB_S_11,natural,polar bear,"hunting purposes, the enviroment",0,1,0,0,0,0,0,0,0,1,4
+S,NFB_S_02,natural,polar bear,I guess because of evolution and also their environment,1,1,0,0,0,0,0,0,0,2,9
+S,NFB_S_16,natural,polar bear,has something to do with hwere they're indigenous to,0,1,0,0,0,0,0,0,0,1,9
+S,NFB_S_10,natural,polar bear,cuz they don't get any sun,1,0,0,0,0,0,0,0,0,1,6
+S,NFB_S_15,natural,polar bear,so they can blend into their environment,0,0,0,0,0,0,1,0,0,1,7
+S,NFB_S_18,natural,polar bear,"where they're located, bodies evolved to blend in with where they live",0,1,0,0,0,0,1,0,0,2,12
+S,NFB18_S_04,natural,polar bear,genes,0,0,1,0,0,0,0,0,0,1,1
+S,NFB18_S_08,natural,polar bear,camouflage,0,0,0,0,0,0,1,0,0,1,1
+S,NFB_S_22,natural,polar bear,"DNA, probably survival evolution",1,0,1,0,0,0,0,0,0,2,4
+S,NFB_S_13,natural,polar bear,"white is predominant color of fur, blend in with environment, evolutionally advantage hunting",0,0,0,0,0,0,1,0,0,1,13
+S,NFB_S_24,natural,polar bear,"God made them so, but probably also they adapted to their environment",1,0,0,0,0,1,0,0,0,2,12
+S,NFB_S_26,natural,spinach,because of chlorophyll,0,0,0,1,0,0,0,0,0,1,3
+S,NFB_S_12,natural,spinach,chlorophyll,0,0,0,1,0,0,0,0,0,1,1
+S,NFB_S_14,natural,spinach,exposure to sunlight,1,0,0,0,0,0,0,0,0,1,3
+S,NFB18_S_07,natural,spinach,chlorophyll,0,0,0,1,0,0,0,0,0,1,1
+S,NFB18_S_09,natural,spinach,grows that way,1,0,0,0,0,0,0,0,0,1,3
+S,NFB18_S_17,natural,spinach,nutrients in it make nice dark green,0,0,0,1,0,0,0,0,0,1,7
+S,NFB18_S_03,natural,spinach,"because of like whatever nutrients are in it that make it that color leafy green, grows that way",1,0,0,1,0,0,0,0,0,2,18
+S,NFB18_S_23,natural,spinach,years and years of planting  ,1,0,0,0,0,0,0,0,0,1,5
+S,NFB_S_11,natural,spinach,the mineral content,0,0,0,1,0,0,0,0,0,1,3
+S,NFB_S_02,natural,spinach,it's a leaf and a lot of leaves are green,0,0,1,0,0,0,0,0,0,1,10
+S,NFB_S_16,natural,spinach,something to do with plant biology,0,0,1,0,0,0,0,0,0,1,6
+S,NFB_S_10,natural,spinach,because it's a plant,0,0,1,0,0,0,0,0,0,1,4
+S,NFB_S_15,natural,spinach,photosynthesis,1,0,0,0,0,0,0,0,0,1,1
+S,NFB_S_18,natural,spinach,it is a plant and most plants stems and leaves are green,0,0,1,0,0,0,0,0,0,1,12
+S,NFB18_S_04,natural,spinach,chlorophyll,0,0,0,1,0,0,0,0,0,1,1
+S,NFB18_S_08,natural,spinach,it's a vegetable,0,0,1,0,0,0,0,0,0,1,3
+S,NFB_S_22,natural,spinach,genetics DNA mother nature,0,0,1,0,0,0,0,0,0,1,4
+S,NFB_S_13,natural,spinach,chlorophyll,0,0,0,1,0,0,0,0,0,1,1
+S,NFB_S_24,natural,spinach,"that's the way it grows out of the ground, god made that way ",1,0,0,0,0,1,0,0,0,2,13
+S,NFB_S_26,natural,corn,to denote their values,0,0,0,0,0,0,0,1,0,1,4
+S,NFB_S_12,natural,corn,based off of the metal they're made out of,0,0,0,1,0,0,0,0,0,1,9
+S,NFB_S_14,natural,corn,make them identifiable,0,0,0,0,0,0,1,0,0,1,3
+S,NFB18_S_07,natural,corn,standard,0,0,0,0,0,0,0,1,0,1,1
+S,NFB18_S_09,natural,corn,"it has to do with what silver's worth, backing of the silver",0,0,0,0,0,0,0,1,0,1,12
+S,NFB18_S_17,natural,corn,"originally people put value on certain ores, shinier ores were ascribed value, so we use these materials as currency, happens to be the colors that they are",0,0,0,1,0,0,0,1,0,2,27
+S,NFB18_S_03,natural,corn,"partly as a result of the natural properties of the materials that they're made from, quick visual cue designed with that in mind, sorting through change",0,0,0,1,0,0,1,0,0,2,26
+S,NFB18_S_23,natural,corn,our government issued them that way,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_11,artifactFC,coin,to differentiate one from the color,0,0,0,0,0,0,1,0,0,1,6
+S,NFB_S_02,artifactFC,coin,to differentiate them from the other coins,0,0,0,0,0,0,0,1,0,1,7
+S,NFB_S_16,artifactFC,coin,because of what was used to make them,0,0,0,1,0,0,0,0,0,1,8
+S,NFB_S_10,artifactFC,coin,"the type of metal that they're produced from, the color of the metal",0,0,0,1,0,0,0,0,0,1,13
+S,NFB_S_15,artifactFC,coin,"just how they're made, I don't know the history",1,0,0,0,0,0,0,0,0,1,9
+S,NFB_S_18,artifactFC,coin,"made with metal and made to be durable and to last, materials that are used, don't want it to be something thrown away or disentigrates",0,0,0,1,0,0,0,0,0,1,25
+S,NFB18_S_04,artifactFC,coin,materials they're made with and sometimes because they oxidize,1,0,0,1,0,0,0,0,0,2,9
+S,NFB18_S_08,artifactFC,coin,they determine value,0,0,0,0,0,0,0,1,0,1,3
+S,NFB_S_22,artifactFC,coin,that's what the material was originally made of,0,0,0,1,0,0,0,0,0,1,8
+S,NFB_S_13,artifactFC,coin,made of metals,0,0,0,1,0,0,0,0,0,1,3
+S,NFB_S_24,artifactFC,coin,"because they can be, different countires decide on diff colors of their currency",0,1,0,0,0,1,0,0,0,2,13
+S,NFB_S_26,artifactFC,lab coat,to show their use,0,0,0,0,0,0,0,1,0,1,4
+S,NFB_S_12,artifactFC,lab coat,to signify that it's a scientist working in a lab,0,0,0,0,0,0,0,1,0,1,10
+S,NFB_S_14,artifactFC,lab coat,"mostly white so you can see if there's anything on it, indicate cleanliness",0,0,0,0,0,0,1,1,0,2,13
+S,NFB18_S_07,artifactFC,lab coat,industry standard,0,0,0,0,0,0,0,1,0,1,2
+S,NFB18_S_09,artifactFC,lab coat,"I think it's to be sterile, cleanliness, appearance of being clean and sterile",0,0,0,0,0,0,0,1,0,1,13
+S,NFB18_S_17,artifactFC,lab coat,"uniform, recognizable, helpful in environment with diff people doing diff things",0,0,0,0,0,0,0,1,0,1,11
+S,NFB18_S_03,artifactFC,lab coat,assume doctor tradition I don't know,0,0,0,0,0,0,0,1,0,1,6
+S,NFB18_S_23,artifactFC,lab coat,"depending on what department, institution or university or lab or gov, standardize so know mix ups",0,1,0,0,0,0,0,1,0,2,16
+S,NFB_S_11,artifactFC,lab coat,reflect different jobs,0,0,0,0,0,0,0,1,0,1,3
+S,NFB_S_02,artifactFC,lab coat,because they're like used in a certain setting so useful to have them identifiable,0,0,0,0,0,0,0,1,0,1,14
+S,NFB_S_16,artifactFC,lab coat,material,0,0,0,1,0,0,0,0,0,1,1
+S,NFB_S_10,artifactFC,lab coat,it's the color associated with scientists ,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_15,artifactFC,lab coat,"white so you can see stains, other colors if you want to be different",0,0,0,0,1,0,1,0,0,2,14
+S,NFB_S_18,artifactFC,lab coat,"white because it's just a symbol of like sterile and clean and if something splashes on you you can see it, scientist and doctor",0,0,0,0,0,0,1,1,0,2,24
+S,NFB18_S_04,artifactFC,lab coat,tradition,0,0,0,0,0,0,0,1,0,1,1
+S,NFB18_S_08,artifactFC,lab coat,to see if anything fell on you,0,0,0,0,0,0,1,0,0,1,7
+S,NFB_S_22,artifactFC,lab coat,cleanliness to make sure you can see things a lot better if there's a mistake or error or blood or dirt or specimen,0,0,0,0,0,0,1,0,0,1,23
+S,NFB_S_13,artifactFC,lab coat,"drowned out or darker or basic colors, convention is one reason, but also it kind of helps relax patient one uniform color not too much going on",0,0,0,0,1,0,0,1,0,2,27
+S,NFB_S_24,artifactFC,lab coat,"uniformity, easily identified as person in authority",0,0,0,0,0,0,0,1,0,1,7
+S,NFB_S_26,artifactFC,military uniform,"for camoflauge, or to denote what part of the military or what ranking you have",0,0,0,0,0,0,1,1,0,2,15
+S,NFB_S_12,artifactFC,military uniform,depending on what branch of the military somebody is in,0,1,0,0,0,0,0,0,0,1,10
+S,NFB_S_14,artifactFC,military uniform,to identify the branch,0,0,0,0,0,0,0,1,0,1,4
+S,NFB18_S_07,artifactFC,military uniform,"uniformity, different branches, patriarchy",0,0,0,0,0,0,0,1,0,1,4
+S,NFB18_S_09,artifactFC,military uniform,"depending on the branch of the service, and what they're doing if it's a formal occasion or battle or what the point is",0,1,0,0,0,0,0,1,0,2,23
+S,NFB18_S_17,artifactFC,military uniform,"fatigues blend in with envrionment, sand in desert, dark green in forest, dark blue for formal events, white ones in the summertime, sand colored not fatigues in the summertime",0,0,0,0,0,0,1,0,0,1,29
+S,NFB18_S_03,artifactFC,military uniform,"depending on the uniform, some is probably tradition, some is probably just you know an idea of what looks nice, but I would imagine a large part of it especially combat kind of environment that soldiers will be in and what kind of uniform will give them some coverage or camouflage, and then also like the various technical requirements of the uniform has something to to with",0,0,0,0,1,0,1,1,0,3,67
+S,NFB18_S_23,artifactFC,military uniform,our government says so,0,0,0,0,0,0,0,1,0,1,4
+S,NFB_S_11,artifactFC,military uniform,strategic purposes as well as ceremonial,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_02,artifactFC,military uniform,so they are identifiable by other members of the military and also the public,0,0,0,0,0,0,0,1,0,1,14
+S,NFB_S_16,artifactFC,military uniform,something about history,0,0,0,0,0,0,0,1,0,1,3
+S,NFB_S_10,artifactFC,military uniform,because they can blend in with their surroundings,0,0,0,0,0,0,1,0,0,1,8
+S,NFB_S_15,artifactFC,military uniform,based on ranking,0,0,0,0,0,0,0,1,0,1,3
+S,NFB_S_18,artifactFC,military uniform,"represent different branches, varying in those families of colors based on rank",0,0,0,0,0,0,0,1,0,1,12
+S,NFB18_S_04,artifactFC,military uniform,to identify the person wearing them as a member of their service,0,0,0,0,0,0,0,1,0,1,12
+S,NFB18_S_08,artifactFC,military uniform,"some are for camouflage, others based on rank",0,0,0,0,0,0,1,1,0,2,8
+S,NFB_S_22,artifactFC,military uniform,tradition based off of necessity to survive,0,0,0,0,0,0,0,1,0,1,7
+S,NFB_S_13,artifactFC,military uniform,"it's a military thing, government mandated",0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_24,artifactFC,military uniform,"camo ones to camo them, stay unnoticed, other colors bc bureaucratic decision",0,0,0,0,0,0,1,1,0,2,12
+S,NFB_S_26,artifactFC,paper,so you can use different colors as backgrounds,0,0,0,0,1,0,0,0,0,1,8
+S,NFB_S_12,artifactFC,paper,"depending on the material that it's made out of, different colors for different construction paper, depending on what you need it for",0,1,0,1,0,0,0,0,0,2,22
+S,NFB_S_14,artifactFC,paper,"people like variety, used for different things",0,0,0,0,1,0,0,0,0,1,7
+S,NFB18_S_07,artifactFC,paper,they have different purposes,0,1,0,0,0,0,0,0,0,1,4
+S,NFB18_S_09,artifactFC,paper,"personal preference, also to help distinguish things, for your eye to focus on something, to see something more clearly, make it easier to write and read",0,0,0,0,1,0,1,0,0,2,26
+S,NFB18_S_17,artifactFC,paper,"white we use for school or business, to type resumes cover letters, so that’s the formal color for those things, colored paper for art projects, decorate and object, for children or children at heart",0,1,0,0,0,0,0,1,0,2,34
+S,NFB18_S_03,artifactFC,paper,"for the different either business or decorative purposes, people choose",0,0,0,0,1,0,0,0,0,1,10
+S,NFB18_S_23,artifactFC,paper,"to attract the consumer, someone might want pink paper to make swans or something",0,0,0,0,1,0,0,0,0,1,14
+S,NFB_S_11,artifactFC,paper,varied uses,0,1,0,0,0,0,0,0,0,1,2
+S,NFB_S_02,artifactFC,paper,usually uniform because used to like print something on them so plain background and white is the easiest to have any color on top of,0,0,0,0,0,0,1,1,0,2,25
+S,NFB_S_16,artifactFC,paper,depends on intended purpose for paper,0,1,0,0,0,0,0,0,0,1,6
+S,NFB_S_10,artifactFC,paper,"all paper is white first and then they can be printed any color, white because you can see",1,0,0,0,0,0,1,0,0,2,18
+S,NFB_S_15,artifactFC,paper,based on the demand of what kind of paper is most desired by people,0,0,0,0,1,0,0,0,0,1,14
+S,NFB_S_18,artifactFC,paper,"whatever materials are used to create paper, trees used to make paper",0,0,0,1,0,0,0,0,0,1,12
+S,NFB18_S_04,artifactFC,paper,design choices and personal preference,0,0,0,0,1,1,0,0,0,2,5
+S,NFB18_S_08,artifactFC,paper,to distinguish between tasks,0,0,0,0,0,0,1,0,0,1,4
+S,NFB_S_22,artifactFC,paper,user preference,0,0,0,0,1,0,0,0,0,1,2
+S,NFB_S_13,artifactFC,paper,to meet consumer needs,0,0,0,0,1,0,0,0,0,1,4
+S,NFB_S_24,artifactFC,paper,"provide options and choice for people, can be used for diff things",0,0,0,0,1,0,0,0,0,1,12
+S,NFB_S_26,artifactFC,recycling bin,to show what they're used for,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_12,artifactFC,recycling bin,"most are blue for people to dilineate between trash and recycling, but symbol more important than color",0,0,0,0,0,0,0,1,0,1,17
+S,NFB_S_14,artifactFC,recycling bin,to make it identifiable to the user,0,0,0,0,0,0,0,1,0,1,7
+S,NFB18_S_07,artifactFC,recycling bin,easy identification,0,0,0,0,0,0,0,1,0,1,2
+S,NFB18_S_09,artifactFC,recycling bin,so you can identify it and sort your item,0,0,0,0,0,0,0,1,0,1,9
+S,NFB18_S_17,artifactFC,recycling bin,"make it easier to separate your stuff, in some areas green associated with bottles and cans but other places green means compost",0,0,0,0,0,0,0,1,0,1,22
+S,NFB18_S_03,artifactFC,recycling bin,"I don't know, blue I feel like is like an earthy reduce reuse recycle, maybe others to make easier for garbage collectors to see, someone chose that at the top",0,0,0,0,0,0,1,1,0,2,30
+S,NFB18_S_23,artifactFC,recycling bin,our government issued them that way,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_11,artifactFC,recycling bin,easy identification,0,0,0,0,0,0,0,1,0,1,2
+S,NFB_S_02,artifactFC,recycling bin,so people know that they're meant for recycling,0,0,0,0,0,0,0,1,0,1,8
+S,NFB_S_16,artifactFC,recycling bin,because of material used to make it ,0,0,0,1,0,0,0,0,0,1,7
+S,NFB_S_10,artifactFC,recycling bin,"green because that's what people think for recycling, the others don't have as much of a reason just for variety",0,0,0,0,0,0,0,1,0,1,20
+S,NFB_S_15,artifactFC,recycling bin,so they can be a different color than the trash can that they're sitting beside,0,0,0,0,0,0,1,0,0,1,15
+S,NFB_S_18,artifactFC,recycling bin,"to signal difference between a typical garbage can, symbolize environment",0,0,0,0,0,0,0,1,0,1,10
+S,NFB18_S_04,artifactFC,recycling bin,"the most common color usually has to do with municipal issued bins, but people can choose to use anything",0,0,0,0,1,0,0,1,0,2,19
+S,NFB18_S_08,artifactFC,recycling bin,to be attractive to the eye,0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_22,artifactFC,recycling bin,standardization,0,0,0,0,0,0,0,1,0,1,1
+S,NFB_S_13,artifactFC,recycling bin,"generally green because of the motif of green representing earth ecology recycling, dark gray because back home waste management company assigned to bins",0,0,0,0,0,0,0,1,0,1,23
+S,NFB_S_24,artifactFC,recycling bin,so they can be readily identified,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_26,artifactFC,school bus,because they're the most common colors,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_12,artifactFC,school bus,"I don't know who decided yellow but I think it's just a generalization so everyone knows how to recognize, stop for one if kids are coming on or off, universal message of what it is",0,0,0,0,0,0,0,1,0,1,35
+S,NFB_S_14,artifactFC,school bus,to make them identifiable in traffic,0,0,0,0,0,0,1,0,0,1,6
+S,NFB18_S_07,artifactFC,school bus,highly visible,0,0,0,0,0,0,1,0,0,1,2
+S,NFB18_S_09,artifactFC,school bus,"so that people will see them and stop, very visible",0,0,0,0,0,0,1,0,0,1,10
+S,NFB18_S_17,artifactFC,school bus,"idk, same color scheme as a taxi, maybe signals transporting multiple peopl, standard",0,0,0,0,0,0,0,1,0,1,13
+S,NFB18_S_03,artifactFC,school bus,I think that probably so they are very visible so that traffic will see them and stop or at least can't lie about not seeing htem while kids are getting on and off,0,0,0,0,0,0,1,0,0,1,33
+S,NFB18_S_23,artifactFC,school bus,government says it has to be that color,0,0,0,0,0,0,0,1,0,1,8
+S,NFB_S_11,artifactFC,school bus,easy identification,0,0,0,0,0,0,1,0,0,1,2
+S,NFB_S_02,artifactFC,school bus,so people know to drive carefully around them,0,0,0,0,0,0,1,0,0,1,8
+S,NFB_S_16,artifactFC,school bus,stand out,0,0,0,0,0,0,1,0,0,1,2
+S,NFB_S_10,artifactFC,school bus,so that when people see a yellow bus they can associate it with a school bus and be safe around it,0,0,0,0,0,0,0,1,0,1,21
+S,NFB_S_15,artifactFC,school bus,not sure I guess to stand out,0,0,0,0,0,0,1,0,0,1,7
+S,NFB_S_18,artifactFC,school bus,"yellow is a bright color associated with, like a yellow street light that you have to slow down, yellow school zones slow down",0,0,0,0,0,0,0,1,0,1,23
+S,NFB18_S_04,artifactFC,school bus,"tend to be same color because high visibility, recognizable for safety reasons",0,0,0,0,0,0,1,1,0,2,12
+S,NFB18_S_08,artifactFC,school bus,to be obvious to the eye,0,0,0,0,0,0,1,0,0,1,6
+S,NFB_S_22,artifactFC,school bus,safety reasons,0,0,0,0,0,0,0,1,0,1,2
+S,NFB_S_13,artifactFC,school bus,recognizable since transporting young children easily identifiable,0,0,0,0,0,0,0,1,0,1,7
+S,NFB_S_24,artifactFC,school bus,identification purposes,0,0,0,0,0,0,0,1,0,1,2
+S,NFB_S_26,artifactFC,stop sign,red stands out while you're driving,0,0,0,0,0,0,1,0,0,1,6
+S,NFB_S_12,artifactFC,stop sign,they need to be uniform so that everyone has the same signal to stop,0,0,0,0,0,0,0,1,0,1,14
+S,NFB_S_14,artifactFC,stop sign,the color red makes people think about caution and stopping,0,0,0,0,0,0,0,1,0,1,10
+S,NFB18_S_07,artifactFC,stop sign,because they're easy to see,0,0,0,0,0,0,1,0,0,1,5
+S,NFB18_S_09,artifactFC,stop sign,"so people will stop, they'll see it",0,0,0,0,0,0,1,0,0,1,7
+S,NFB18_S_17,artifactFC,stop sign,"red is an alert sign, symbolizes person should stop, recogized as urgent",0,0,0,0,0,0,0,1,0,1,12
+S,NFB18_S_03,artifactFC,stop sign,to make them easily recognizable because they safety features,0,0,0,0,0,0,1,0,0,1,9
+S,NFB18_S_23,artifactFC,stop sign,that's what the government issued,0,0,0,0,0,0,0,1,0,1,5
+S,NFB_S_11,artifactFC,stop sign,easy identification,0,0,0,0,0,0,0,1,0,1,2
+S,NFB_S_02,artifactFC,stop sign,so that it's like universal,0,0,0,0,0,0,0,1,0,1,5
+S,NFB_S_16,artifactFC,stop sign,so that they stand out,0,0,0,0,0,0,1,0,0,1,5
+S,NFB_S_10,artifactFC,stop sign,that's a color that's a symbol of stopping,0,0,0,0,0,0,0,1,0,1,8
+S,NFB_S_15,artifactFC,stop sign,it's an alarming color,0,0,0,0,0,0,1,0,0,1,4
+S,NFB_S_18,artifactFC,stop sign,"red to go with a red stop light, from there it's just across the board red being no stop like on workout machine, red fire alarm, certain reputation",0,0,0,0,0,0,0,1,0,1,28
+S,NFB18_S_04,artifactFC,stop sign,"help people recognize what they are, make familiar",0,0,0,0,0,0,0,1,0,1,8
+S,NFB18_S_08,artifactFC,stop sign,red is easiest to spot,0,0,0,0,0,0,1,0,0,1,5
+S,NFB_S_22,artifactFC,stop sign,government standardization,0,0,0,0,0,0,0,1,0,1,2
+S,NFB_S_13,artifactFC,stop sign,red is a symbol for danger,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_24,artifactFC,stop sign,"helpful to have universal stop sign, ",0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_26,artifactFC,wedding dress,part of tradition,0,0,0,0,0,0,0,1,0,1,3
+S,NFB_S_12,artifactFC,wedding dress,"white is tradition to be the color, but people have kind of moved out of white and explored diffferent colors for expressing themselves",0,0,0,0,1,0,0,1,0,2,23
+S,NFB_S_14,artifactFC,wedding dress,tradition,0,0,0,0,0,0,0,1,0,1,1
+S,NFB18_S_07,artifactFC,wedding dress,"the patriarchy because it's supposed to be virgins pure, other colors protest patriarchy personal preference",0,0,0,0,0,0,0,1,0,1,15
+S,NFB18_S_09,artifactFC,wedding dress,tradition,0,0,0,0,0,0,0,1,0,1,1
+S,NFB18_S_17,artifactFC,wedding dress,"according to the history, white dress means purity and virginity, even though modern society doesn't necessarily expect this",0,0,0,0,0,0,0,1,0,1,18
+S,NFB18_S_03,artifactFC,wedding dress,"white desire to fit into traditional idea of what a wedding dress looks like, ultimately the color they choose because it's the color they want",0,0,0,0,1,0,0,1,0,2,25
+S,NFB18_S_23,artifactFC,wedding dress,depends on the bridesmaids,0,1,0,0,1,0,0,0,0,2,4
+S,NFB_S_11,artifactFC,wedding dress,"symbolism, or personal style",0,0,0,0,1,0,0,1,0,2,4
+S,NFB_S_02,artifactFC,wedding dress,tradition to have a white dress,0,0,0,0,0,0,0,1,0,1,6
+S,NFB_S_16,artifactFC,wedding dress,"white tradition after some event, but brides can choose whatever color they want",0,0,0,0,1,0,0,1,0,2,13
+S,NFB_S_10,artifactFC,wedding dress,"it's the standard I guess, traditionally white",0,0,0,0,0,0,0,1,0,1,7
+S,NFB_S_15,artifactFC,wedding dress,tradition,0,0,0,0,0,0,0,1,0,1,1
+S,NFB_S_18,artifactFC,wedding dress,"the bride was supposed to be pure, white purity and cleanliness, really awesome badass non-white dresses because of person's desire to ditch tradition and express themselves and have their wedding day be what they want it to be",0,0,0,0,1,0,0,1,0,2,38
+S,NFB18_S_04,artifactFC,wedding dress,"white is fairly traditional color to choose in sort of recent last 150 years, I think before people usually picked their nicest clothes",0,0,0,0,0,0,0,1,0,1,23
+S,NFB18_S_08,artifactFC,wedding dress,tradition,0,0,0,0,0,0,0,1,0,1,1
+S,NFB_S_22,artifactFC,wedding dress,"tradition, represents purity",0,0,0,0,0,0,0,1,0,1,3
+S,NFB_S_13,artifactFC,wedding dress,tradition,0,0,0,0,0,0,0,1,0,1,1
+S,NFB_S_24,artifactFC,wedding dress,"people like options, everybody's not gonna like the same thing",0,0,0,0,1,0,0,0,0,1,10
+S,NFB_S_26,artifactFC,car,because different parts are for different purposes,0,1,0,0,0,0,0,0,0,1,7
+S,NFB_S_12,artifactFC,car,based on the metal that they're made out of and how it's manufactured,1,0,0,1,0,0,0,0,0,2,13
+S,NFB_S_14,artifactFC,car,people like variety,0,0,0,0,1,0,0,0,0,1,3
+S,NFB18_S_07,artifactFC,car,personal preference,0,0,0,0,1,0,0,0,0,1,2
+S,NFB18_S_09,artifactFC,car,"personal preference, style, what people like",0,0,0,0,1,0,0,0,0,1,6
+S,NFB18_S_17,artifactFC,car,"idk people just like neutral colors, if anyone wants red car they want to stand out, or sports cars bright colors look nicer",0,0,0,0,1,0,0,0,0,1,23
+S,NFB18_S_03,artifactFC,car,"all of the interior stuff mostly because of the properties of the materials, paint colors partly for people's preferences and partly because of perception of other people's preferences",0,0,0,1,1,0,0,0,0,2,28
+S,NFB18_S_23,artifactFC,car,"money, try to meet the eye of the consumer customer whoever is buying the car",0,0,0,0,1,0,0,0,0,1,15
+S,NFB_S_11,artifactFC,car,easy identification and personal style,0,0,0,0,1,0,1,0,0,2,5
+S,NFB_S_02,artifactFC,car,"well there's a standard for parts of the car that are communivating to other cars, people like to have different colors I guess like marketing things, have to have clear windows to see",0,0,0,0,1,0,1,1,0,3,33
+S,NFB_S_16,artifactFC,car,for whoever buys them so they have a color of car that they like,0,0,0,0,1,0,0,0,0,1,14
+S,NFB_S_10,artifactFC,car,to appeal to customers,0,0,0,0,1,0,0,0,0,1,4
+S,NFB_S_15,artifactFC,car,"just supply and demand, preferences",0,0,0,0,1,0,0,0,0,1,5
+S,NFB_S_18,artifactFC,car,"initially started out black, but from there people just wanted more variety, experimenting with different types of materials, appealing to the market",0,0,0,0,1,1,0,0,0,2,22
+S,NFB18_S_04,artifactFC,car,"typically comes out in a range of colors decided my manufacturer based on what they think will be popular, but people can choose",0,0,0,0,1,1,0,0,0,2,23
+S,NFB18_S_08,artifactFC,car,to see dirt easily,0,0,0,0,0,0,1,0,0,1,4
+S,NFB_S_22,artifactNFC,car,people want to style them differently,0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_13,artifactNFC,car,people have different tastes,0,0,0,0,1,0,0,0,0,1,4
+S,NFB_S_24,artifactNFC,car,"some is standardized i.e. lights and windows, body of car people like to have options",0,0,0,0,1,0,0,1,0,2,15
+S,NFB_S_26,artifactNFC,cup,for aesthetic purposes,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_12,artifactNFC,cup,either to display a design or if they're clear to see the liquid that’s inside of it,0,0,0,0,0,0,1,0,0,1,17
+S,NFB_S_14,artifactNFC,cup,"people like different things, variety",0,0,0,0,1,0,0,0,0,1,5
+S,NFB18_S_07,artifactNFC,cup,"because people like to show of their personality, they're pretty",0,0,0,0,1,0,0,0,0,1,10
+S,NFB18_S_09,artifactNFC,cup,"people have different taste or preferences, décor",0,0,0,0,1,0,0,0,0,1,7
+S,NFB18_S_17,artifactNFC,cup,"depends; maybe intended for wedding specific color, maybe neutral color white gray for work, or maybe fancy color bc someone loves design",0,1,0,0,1,0,0,1,0,3,22
+S,NFB18_S_03,artifactNFC,cup,"people like to fit them into their décor or serve as promotional item, people want them to be those colors",0,0,0,0,1,0,0,0,0,1,20
+S,NFB18_S_23,artifactNFC,cup,"to attract the eye, plain white or black not going to do it",0,0,0,0,1,0,1,0,0,2,13
+S,NFB_S_11,artifactNFC,cup,"ceremonial, individual style",0,0,0,0,1,0,0,1,0,2,3
+S,NFB_S_02,artifactNFC,cup,"they're made of different things, and people might manipulate them to market them",0,0,0,1,0,1,0,0,0,2,13
+S,NFB_S_16,artifactNFC,cup,appease buyers,0,0,0,0,1,0,0,0,0,1,2
+S,NFB_S_10,artifactNFC,cup,"because they can easily have designs printed on them, clear so you can see your drink",0,0,0,0,0,0,1,0,0,1,16
+S,NFB_S_15,artifactNFC,cup,based on preferences of how you like your cups,0,0,0,0,1,0,0,0,0,1,9
+S,NFB_S_18,artifactNFC,cup,humans apparently just like choices and variety,0,0,0,0,1,0,0,0,0,1,7
+S,NFB18_S_04,artifactNFC,cup,personal preference,0,0,0,0,1,0,0,0,0,1,2
+S,NFB18_S_08,artifactNFC,cup,because people like different colors,0,0,0,0,1,0,0,0,0,1,5
+S,NFB_S_22,artifactNFC,cup,"individuals like differences, preferences",0,0,0,0,1,0,0,0,0,1,4
+S,NFB_S_13,artifactNFC,cup,"people have different tastes, producers trying to appeal to variety of consumer preferences",0,0,0,0,1,0,0,0,0,1,13
+S,NFB_S_24,artifactNFC,cup,"variety, so people can have choice",0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_26,artifactNFC,fork,for aesthetic purposes,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_12,artifactNFC,fork,based on the material that they're made out of,0,0,0,1,0,0,0,0,0,1,9
+S,NFB_S_14,artifactNFC,fork,people like variety,0,0,0,0,1,0,0,0,0,1,3
+S,NFB18_S_07,artifactNFC,fork,"mostly silver bc made from metal, other colors based on their material plastic wooden",0,0,0,1,0,0,0,0,0,1,14
+S,NFB18_S_09,artifactNFC,fork,"stainless steel or used to be sterling silver, traditionally silver, and then plastic ones are black white red clear different colors, most metal ones silver or can be gold",0,0,0,1,0,0,0,0,0,1,29
+S,NFB18_S_17,artifactNFC,fork,"just for expediency like plastic are just to throw away, metal come in variety of designs ",0,0,0,0,0,0,0,1,0,1,16
+S,NFB18_S_03,artifactNFC,fork,"because of the materials that are used to make them, natural properties of those materials, also because of people's preferences",0,0,0,1,1,0,0,0,0,2,20
+S,NFB18_S_23,artifactNFC,fork,just to catch the eye of the consumer someone to buy it,0,0,0,0,0,0,1,0,0,1,12
+S,NFB_S_11,artifactNFC,fork,to give people options so they can personalize,0,0,0,0,1,0,0,0,0,1,8
+S,NFB_S_02,artifactNFC,fork,"because they're made of metal usually, or plastic, and these are the most common I guess",0,0,0,1,0,0,0,0,0,1,16
+S,NFB_S_16,artifactNFC,fork,people who sell forks understan people who buy fiorks like having dif objects,0,0,0,0,1,0,0,0,0,1,13
+S,NFB_S_10,artifactNFC,fork,it's not easy to get them dirty,0,0,0,0,0,0,1,0,0,1,7
+S,NFB_S_15,artifactNFC,fork,people like designer forks and matching plates,0,0,0,0,1,0,0,0,0,1,7
+S,NFB_S_18,artifactNFC,fork,"because everyone has their own style and décor so they don't want a regular silver fork, people like variety",0,0,0,0,1,0,0,0,0,1,19
+S,NFB18_S_04,artifactNFC,fork,"made of different materials, most of the time metal, also plastic and colors can vary more",0,0,0,1,0,0,0,0,0,1,16
+S,NFB18_S_08,artifactNFC,fork,material they're used,0,0,0,1,0,0,0,0,0,1,3
+S,NFB_S_22,artifactNFC,fork,material they're made of,0,0,0,1,0,0,0,0,0,1,4
+S,NFB_S_13,artifactNFC,fork,"variance mostly has to do with like different colors that we see esp for children, classic are silver, black and white plastic",0,0,0,0,1,0,0,0,0,1,22
+S,NFB_S_24,artifactNFC,fork,"people have preferences, I personally like a green fork and you may not",0,0,0,0,1,0,0,0,0,1,13
+S,NFB_S_26,artifactNFC,laptop,for design purposes,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_12,artifactNFC,laptop,based off of how they're made and who wants to choose what color they are,1,0,0,0,0,1,0,0,0,2,15
+S,NFB_S_14,artifactNFC,laptop,variety and identification,0,0,0,0,1,0,1,0,0,2,3
+S,NFB18_S_07,artifactNFC,laptop,design and the different features,1,0,0,0,0,0,0,0,0,1,5
+S,NFB18_S_09,artifactNFC,laptop,"personal preference, style, what's in fashion it comes and goes, styles keep changing",0,0,0,0,1,0,0,0,0,1,13
+S,NFB18_S_17,artifactNFC,laptop,"I think neutral colors appeal to people, idk if everyone on board to get green or pink",0,0,0,0,1,0,0,0,0,1,17
+S,NFB18_S_03,artifactNFC,laptop,"I think to appeal to consumer desires of what they want their computers to look like, also have that techy metallic sleek look to it",0,0,0,0,1,0,0,0,0,1,25
+S,NFB18_S_23,artifactNFC,laptop,"manufacturers want money, attract consumers eye",0,0,0,0,1,1,0,0,0,2,6
+S,NFB_S_11,artifactNFC,laptop,so people can personalize,0,0,0,0,1,0,0,0,0,1,4
+S,NFB_S_02,artifactNFC,laptop,it's helpful to have different color keys from the rest so you can use them,0,0,0,0,0,0,1,0,0,1,15
+S,NFB_S_16,artifactNFC,laptop,manufacturers choice,0,0,0,0,0,1,0,0,0,1,2
+S,NFB_S_10,artifactNFC,laptop,they're basic colors that look good on new technology,0,0,0,0,1,0,0,0,0,1,9
+S,NFB_S_15,artifactNFC,laptop,that's just how they're made,1,0,0,0,0,0,0,0,0,1,5
+S,NFB_S_18,artifactNFC,laptop,"they're simple standard universal discrete color, silver or black, variety goes with a person that wants something personalized",0,0,0,0,1,0,0,1,0,2,18
+S,NFB18_S_04,artifactNFC,laptop,"often made of some kind of metal that makes silver or gray color more common, sometimes just design choice to make eye catching",0,0,0,1,1,0,0,0,0,2,23
+S,NFB18_S_08,artifactNFC,laptop,because of style,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_22,artifactNFC,laptop,"standardization, like apple does their silverish apple color, dell is black",0,0,0,0,0,0,0,1,0,1,11
+S,NFB_S_13,artifactNFC,laptop,"tend not to get dirty, materials usually made out of metals",0,0,0,1,0,0,0,0,0,1,11
+S,NFB_S_24,artifactNFC,laptop,"practical purposes, be able to identify stuff, by brand, typing easily identifiable signs",0,0,0,0,0,0,0,1,0,1,13
+S,NFB_S_26,artifactNFC,pen,to show what color they write,0,0,0,0,0,0,1,0,0,1,6
+S,NFB_S_12,artifactNFC,pen,"some correspond with the color of the ink that they are, others are different colors to represent different organizations that may have the pens as a giveaway",0,1,0,0,0,0,0,1,0,2,27
+S,NFB_S_14,artifactNFC,pen,variety,0,0,0,0,1,0,0,0,0,1,1
+S,NFB18_S_07,artifactNFC,pen,"different color ink since xeroxing you can identify, also just for creativity",0,0,0,0,1,0,1,0,0,2,12
+S,NFB18_S_09,artifactNFC,pen,"so you can write with different colors different reasons different reasons, usually blue or black but red to call out things mark things correct papers different reasons",0,1,0,0,0,0,0,0,0,1,27
+S,NFB18_S_17,artifactNFC,pen,"companies want to make more money, see different style think something different about pen, outside color sometimes indicates color of ink",0,0,0,0,0,1,0,0,0,1,21
+S,NFB18_S_03,artifactNFC,pen,so that people can choose whatever color they want or draw in,0,0,0,0,1,0,0,0,0,1,12
+S,NFB18_S_23,artifactNFC,pen,"to meet the eye, able to write in whatever color you want",0,0,0,0,1,0,1,0,0,2,12
+S,NFB_S_11,artifactNFC,pen,just the style,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_02,artifactNFC,pen,"outside of pen often will try to match the ink color, logo has to be something different so you can read it",0,0,0,1,0,0,0,0,0,1,22
+S,NFB_S_16,artifactNFC,pen,how they're made,1,0,0,0,0,0,0,0,0,1,3
+S,NFB_S_10,artifactNFC,pen,they show up prominently on paper,0,0,0,0,0,0,1,0,0,1,6
+S,NFB_S_15,artifactNFC,pen,what color people want to write in,0,0,0,0,1,0,0,0,0,1,7
+S,NFB_S_18,artifactNFC,pen,"people liking variety, basic represents the color of the ink, cuts down on confusion, anything else purely for fashion or own preference",0,0,0,0,1,0,0,1,0,2,22
+S,NFB18_S_04,artifactNFC,pen,"personal preference, different use for them",0,0,0,0,1,0,0,0,0,1,6
+S,NFB18_S_08,artifactNFC,pen,to distinguish their ink,0,0,0,0,0,0,1,0,0,1,4
+S,NFB_S_22,artifactNFC,pen,"standardization and tradition, like schoolteacher uses red for wrong, pink if you want to be different",0,0,0,0,0,0,0,1,0,1,16
+S,NFB_S_13,artifactNFC,pen,"variety of needs for different colored pens, also people like different colors of pens",0,0,0,0,1,0,0,0,0,1,14
+S,NFB_S_24,artifactNFC,pen,"variety, people like options, brands want  to stand out",0,0,0,0,1,1,0,0,0,2,9
+S,NFB_S_26,artifactNFC,soap,to advertise,0,0,0,0,0,1,0,0,0,1,2
+S,NFB_S_12,artifactNFC,soap,"depending on what type of soap you're using, whether it is bar or liquid, depending on the fragrance dyed a color",0,1,0,0,0,0,0,0,0,1,21
+S,NFB_S_14,artifactNFC,soap,"some for decoration, white because it gives indication of something being clean",0,0,0,0,1,0,0,1,0,2,12
+S,NFB18_S_07,artifactNFC,soap,"I guess cuz the ingredients, and purity",0,0,0,1,0,0,0,1,0,2,7
+S,NFB18_S_09,artifactNFC,soap,"smell fragrance, what people prefer",0,0,0,0,1,0,0,0,0,1,5
+S,NFB18_S_17,artifactNFC,soap,because we like variety,0,0,0,0,1,0,0,0,0,1,4
+S,NFB18_S_03,artifactNFC,soap,"I feel like standard soap is white for like the impression of cleanliness, but then like more fancy pants soap is just like colors that maybe reflect what the scent or something fun people like the way it looks, consumer or creator preference",0,0,0,0,1,1,0,1,0,3,43
+S,NFB18_S_23,artifactNFC,soap,"we have millions of different soap companies, lime green that smells like Hawaiian paradise you might want to buy it",0,0,0,0,1,1,0,0,0,2,20
+S,NFB_S_11,artifactNFC,soap,"marketing purposes, ingredients",0,0,0,1,0,1,0,0,0,2,3
+S,NFB_S_02,artifactNFC,soap,I guess whoever makes them wants them to be like interesting,0,0,0,0,0,1,0,0,0,1,11
+S,NFB_S_16,artifactNFC,soap,because most bars of soap are white bc white represent cleanlineess and purity which is what people hope to achieve after using soap,0,0,0,0,0,0,0,1,0,1,23
+S,NFB_S_10,artifactNFC,soap,some of the differnt colors have a unique smell,0,1,0,0,0,0,0,0,0,1,9
+S,NFB_S_15,artifactNFC,soap,"people are really into designing soaps, having cool colors",0,0,0,0,1,1,0,0,0,2,9
+S,NFB_S_18,artifactNFC,soap,there's a sole ingredient or base ingregient in them that makes that base color,0,0,0,1,0,0,0,0,0,1,14
+S,NFB18_S_04,artifactNFC,soap,preference,0,0,0,0,1,0,0,0,0,1,1
+S,NFB18_S_08,artifactNFC,soap,they provide different scents,0,1,0,0,0,0,0,0,0,1,4
+S,NFB_S_22,artifactNFC,soap,preference,0,0,0,0,1,0,0,0,0,1,1
+S,NFB_S_13,artifactNFC,soap,"their color depends on the chemicals and ingredients, for example I've seen black charcoal, I've seen clear",0,0,0,1,0,0,0,0,0,1,17
+S,NFB_S_24,artifactNFC,soap,"people have preferences, and we need to be able to indentify things",0,0,0,0,1,0,1,0,0,2,12
+S,NFB_S_26,artifactNFC,table,for aesthetic purposes,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_12,artifactNFC,table,"based off of what they're made out of, if wood how they're stained for different designs",1,0,0,1,0,0,0,0,0,2,16
+S,NFB_S_14,artifactNFC,table,people like variety,0,0,0,0,1,0,0,0,0,1,3
+S,NFB18_S_07,artifactNFC,table,"some because of what they're made of, also so that people can personal preference, design, art",0,0,0,1,1,0,0,0,0,2,16
+S,NFB18_S_09,artifactNFC,table,"personal preference, what's in style, what people like, what looks attractive",0,0,0,0,1,0,0,0,0,1,11
+S,NFB18_S_17,artifactNFC,table,kids tables are different colors to appeal to children; work table might be solid color more formal; tables at home variety of colors coordinate with décor,0,0,0,0,1,0,0,0,0,1,26
+S,NFB18_S_03,artifactNFC,table,"natural properties of the materials, made that way based on what consumers want their tables to look like",0,0,0,1,1,0,0,0,0,2,18
+S,NFB18_S_23,artifactNFC,table,fashion,0,0,0,0,1,0,0,0,0,1,1
+S,NFB_S_11,artifactNFC,table,so people can personalize their style,0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_02,artifactNFC,table,"wood is used to make tables a lot and wood is usually brown naturally, and people decorate tables so not always just wood",0,0,0,1,0,0,0,0,0,1,23
+S,NFB_S_16,artifactNFC,table,goes back to manufacturer deciding what's most appealing to consumers,0,0,0,0,0,1,0,0,0,1,10
+S,NFB_S_10,artifactNFC,table,"most of them are dark and can fit into most rooms, and for the white ones they offer a modern look that's popular",0,0,0,0,1,0,0,0,0,1,23
+S,NFB_S_15,artifactNFC,table,people like to match their tables with the décor of the house,0,0,0,0,1,0,1,0,0,2,12
+S,NFB_S_18,artifactNFC,table,because most tables typically are built from one material,0,0,0,1,0,0,0,0,0,1,9
+S,NFB18_S_04,artifactNFC,table,"brown in the most common because often made of wood, but possibly laminate or plastic so infinite choices based on maker",0,0,0,1,0,1,0,0,0,2,21
+S,NFB18_S_08,artifactNFC,table,that’s the color people like most,0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_22,artifactNFC,table,"preference, to match to a room, design preference",0,0,0,0,1,0,1,0,0,2,8
+S,NFB_S_13,artifactNFC,table,"designers intend them to be these colors, go based on the materials plastic synthetics wood metal",0,0,0,1,0,1,0,0,0,2,16
+S,NFB_S_24,artifactNFC,table,"people need options, people like options, I like options",0,0,0,0,1,0,0,0,0,1,9
+S,NFB_S_26,artifactNFC,towel,for aesthetic purposes,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_12,artifactNFC,towel,threads that they're made of,0,0,0,1,0,0,0,0,0,1,5
+S,NFB_S_14,artifactNFC,towel,variety is available,0,0,0,0,1,0,1,0,0,2,3
+S,NFB18_S_07,artifactNFC,towel,"to match your bathrug, preference",0,0,0,0,1,0,0,0,0,1,5
+S,NFB18_S_09,artifactNFC,towel,"style, what people like, personal preference, what's trendy",0,0,0,0,1,0,0,0,0,1,8
+S,NFB18_S_17,artifactNFC,towel,people like variety,0,0,0,0,1,0,0,0,0,1,3
+S,NFB18_S_03,artifactNFC,towel,I think partly you know to match people's color schemes in their bathrooms or preferences as far as buying consumer goods,0,0,0,0,1,0,1,0,0,2,21
+S,NFB18_S_23,artifactNFC,towel,for people to buy,0,0,0,0,1,0,0,0,0,1,4
+S,NFB_S_11,artifactNFC,towel,"individual style, use",0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_02,artifactNFC,towel,so they look like appealing to customers,0,0,0,0,1,0,0,0,0,1,7
+S,NFB_S_16,artifactNFC,towel,to appease consumers,0,0,0,0,1,0,0,0,0,1,3
+S,NFB_S_10,artifactNFC,towel,because designs can be printed on them easily,1,0,0,0,0,0,1,0,0,2,8
+S,NFB_S_15,artifactNFC,towel,just how people like their towels,0,0,0,0,1,0,0,0,0,1,6
+S,NFB_S_18,artifactNFC,towel,"base towels white cotton because cotton is white and symbol of purity and clean, variety because people like variety and white is hard to keep clean",0,0,0,0,1,0,0,1,0,2,26
+S,NFB18_S_04,artifactNFC,towel,personal preference,0,0,0,0,1,0,0,0,0,1,2
+S,NFB18_S_08,artifactNFC,towel,depends on the color scheme of your house,0,1,0,0,0,0,0,0,0,1,8
+S,NFB_S_22,artifactNFC,towel,personal preference,0,0,0,0,1,0,0,0,0,1,2
+S,NFB_S_13,artifactNFC,towel,consumers have different preferences and different needs,0,0,0,0,1,0,0,0,0,1,7
+S,NFB_S_24,artifactNFC,towel,"variety, options, choices, humans never satisfied",0,0,0,0,1,0,0,0,0,1,6
